@@ -1,5 +1,7 @@
-# endoflife-dependencytrack
-Enrich DependencyTrack SBOM components with End-of-Life data and create vulnerabilities. Uses endoflife.date dataset by default; supports custom datasets. Early PoC / experimental extension for DependencyTrack.
+# Dependency-Track End-of-Life SBOM Integration
+Integration for Dependency-Track that fetches and reports EoL info for your software bill of materials poject dependencies. Monitors and assigns EoL state as vulnerabilities to the components. Uses endoflife.date dataset by default; supports custom datasets. Early PoC / experimental.
+
+![EOL DependencyTrack](https://raw.githubusercontent.com/Chriz76/endoflife-dependencytrack/main/main.png)
 
 ## License
 
