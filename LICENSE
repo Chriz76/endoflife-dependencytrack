@@ -9,3 +9,6 @@ Telemetry may be collected for usage analytics and error reporting.
 See the privacy / telemetry page for details.
 
 Redistribution, modification, or commercial use is not permitted without explicit permission.
+
+Telemetry may be collected for anonymous usage analytics and error reporting (see PRIVACY.md).
+Users can opt out by configuring the software .
