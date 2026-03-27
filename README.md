@@ -1,16 +1,24 @@
 # Dependency-Track End-of-Life SBOM Integration
-Integration for Dependency-Track that fetches and reports EoL info for your software bill of materials poject dependencies. Monitors and assigns EoL state as vulnerabilities to the components. Uses endoflife.date dataset by default; supports custom datasets. Early PoC / experimental.
+Integration for Dependency-Track that fetches and reports EoL info for your software bill of materials project dependencies. Monitors and assigns EoL state as vulnerabilities to the components. Uses endoflife.date dataset by default; supports custom datasets. Early PoC / experimental.
 
 ![EOL DependencyTrack](https://raw.githubusercontent.com/Chriz76/endoflife-dependencytrack/main/main.png)
 
-This repository provides the integration as:
+The integration is provided as:
 
-- Binaries for Linux and Windows: Best if you have an already running Dependency-Track installation
-- Docker image: Quick start setup for Dependency-Track and the endoflife.date integration in docker. Can also be used with existing Dependency-Track docker setups.
+- **Binaries for Linux and Windows**: Best if you already have a running Dependency-Track installation
+- **Docker image**: Install Dependency-Track and the endoflife.date integration in docker.
 
 ---
 
+## Dependency-Track API-Key
+
+The eol integration uses the Dependency-Track API. You can create an API key in the [Web UI](http://localhost:8080/):
+
+![API Key](https://raw.githubusercontent.com/Chriz76/endoflife-dependencytrack/main/apikey.png)
+
 ## Binary Releases
+
+
 
 Precompiled binaries are available under **GitHub Releases**.
 
@@ -28,10 +36,17 @@ Example:
 
 ## Quick Start (Docker)
 
-Run the service using Docker:
+```bash
+# Downloads the latest Docker Compose file
+curl -LO https://raw.githubusercontent.com/Chriz76/endoflife-dependencytrack/main/docker-compose.yml
 
-docker run -p Chriz76/deptrack-eol:latest
+# Starts the Dependency-Track stack using Docker Compose
+docker compose up -d
 
+# Run the endoflife.date integration (replace with your API-Key):
+docker run --rm --network dtrack-net -e DT_APIURL="http://apiserver:8080/api/" -e DT_APIKEY="YOUR_DEPENDENCY_TRACK_API_KEY" dependencytrackaddons/eol-dependencytrack:latest
+
+```
 ---
 
 ## Docker Image
