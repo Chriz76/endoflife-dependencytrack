@@ -58,14 +58,25 @@ docker run --rm --network dtrack-net -e DT_APIURL="http://apiserver:8080/api/" -
 
 ```
 ---
+
+## Motivation and Outlook
+
+EOL software is risky because it no longer receives security updates, leaving vulnerabilities unpatched. Unlike maintained libraries, security flaws in EOL software are often not reported or tracked, so researchers rarely check them — but attackers may still exploit them. Relying on such outdated components exposes your software and data to hidden but real threats.
+
+The endoflife.date dataset is a great start and it finds the most important dependencies. This will be further extended with information from package repositories like NuGet, npm, PyPI, Maven Central, etc. and CVE-data. Using an automated approach with heuristics and research combined with the option for manual edits. To give strong signals for EoL.
+
+---
+
 ## Remarks
 
 - This project is experimental. Only use it in test environments. 
 - The endoflife.date cycles are matched by PURL, CPE and name (in this order) of the component in the SBOM.
-- The identfiers or endoflife.date are enriched by the data from [purl2cpe](https://github.com/scanoss/purl2cpe). See [purl2cpe.json](https://raw.githubusercontent.com/Chriz76/endoflife-dependencytrack/main/purl2cpe.json)
+- The identfiers or endoflife.date are enriched by the data from [purl2cpe](https://github.com/scanoss/purl2cpe). See the [endoflife.date mapped purl2cpe.json](https://raw.githubusercontent.com/Chriz76/endoflife-dependencytrack/main/purl2cpe.json)
 - Identifiers can be wrong or missing which can lead to wrong or missing mappings.
+- For your own eol dataset use the endoflife.date format and the --eoldata option to pass either a URL or a local filename.
+- The created vulnerabilites are visible in the Dependency-Track UI. Search for "INT".
+- The program output shows detailled information about the projects and components found in Dependency-Track, eol matching, etc
 - Please get in contact and open an issue if you have questions, feature requests or find bugs.
-
 ---
 
 ## Usage
