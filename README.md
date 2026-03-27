@@ -1,11 +1,11 @@
 # Dependency-Track End-of-Life SBOM Integration
-Integration for Dependency-Track that fetches and reports EoL info for your software bill of materials project dependencies. Monitors and assigns EoL state as vulnerabilities to the components. Uses endoflife.date dataset by default; supports custom datasets. Early PoC / experimental.
+Integration for [Dependency-Track](https://docs.dependencytrack.org/) that fetches and reports EoL info for your software bill of materials project dependencies. Monitors and assigns EoL state as vulnerabilities to the components. Uses [endoflife.date](https://endoflife.date/) dataset by default; supports custom datasets. Early PoC / experimental.
 
 ![EOL DependencyTrack](https://raw.githubusercontent.com/Chriz76/endoflife-dependencytrack/main/main.png)
 
 The integration is provided as:
 
-- **Binaries for [Linux](https://github.com/Chriz76/endoflife-dependencytrack/releases/download/v0.1.0-alpha/eol-dt-linux-x64.tar.gz) and [Windows](https://github.com/Chriz76/endoflife-dependencytrack/releases/download/v0.1.0-alpha/eol-dt-win-x64.zip)**: Best if you already have a running Dependency-Track installation
+- **Binaries for [Linux](https://github.com/Chriz76/endoflife-dependencytrack/releases/download/v0.1.0-alpha/eol-dt-linux-x64.tar.gz) and [Windows](https://github.com/Chriz76/endoflife-dependencytrack/releases/download/v0.1.0-alpha/eol-dt-win-x64.zip)**: Best if you already have a running [Dependency-Track installation](https://docs.dependencytrack.org/getting-started/deploy-docker/)
 - **Docker image**: Install Dependency-Track and the endoflife.date integration in docker
 
 ---
@@ -47,16 +47,25 @@ eol-dt --apikey YOUR_DEPENDENCY_TRACK_API_KEY
 ## Quick Start (Docker)
 
 ```bash
-# Downloads the latest Docker Compose file
+# Download the latest Docker Compose file
 curl -LO https://raw.githubusercontent.com/Chriz76/endoflife-dependencytrack/main/docker-compose.yml
 
-# Starts the Dependency-Track stack using Docker Compose
+# Start the Dependency-Track stack using Docker Compose
 docker compose up -d
 
 # Run the endoflife.date integration (replace with your API-Key):
 docker run --rm --network dtrack-net -e DT_APIURL="http://apiserver:8080/api/" -e DT_APIKEY="YOUR_DEPENDENCY_TRACK_API_KEY" dependencytrackaddons/eol-dependencytrack:latest
 
 ```
+---
+## Remarks
+
+- This project is experimental. Only use it in test environments. 
+- The endoflife.date cycles are matched by PURL, CPE and name (in this order) of the component in the SBOM.
+- The identfiers or endoflife.date are enriched by the data from [purl2cpe](https://github.com/scanoss/purl2cpe). See [purl2cpe.json](https://raw.githubusercontent.com/Chriz76/endoflife-dependencytrack/main/purl2cpe.json)
+- Identifiers can be wrong or missing which can lead to wrong or missing mappings.
+- Please get in contact and open an issue if you have questions, feature requests or find bugs.
+
 ---
 
 ## Usage
