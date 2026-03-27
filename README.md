@@ -5,8 +5,8 @@ Integration for Dependency-Track that fetches and reports EoL info for your soft
 
 The integration is provided as:
 
-- **Binaries for [Linux](https://github.com/Chriz76/endoflife-dependencytrack/releases/download/latest/eol-dt-linux-x64.tar.gz) and [Windows](https://github.com/Chriz76/endoflife-dependencytrack/releases/download/latest/eol-dt-win-x64.zip)**: Best if you already have a running Dependency-Track installation
-- **Docker image**: Install Dependency-Track and the endoflife.date integration in docker.
+- **Binaries for [Linux](https://github.com/Chriz76/endoflife-dependencytrack/releases/download/v0.1.0-alpha/eol-dt-linux-x64.tar.gz) and [Windows](https://github.com/Chriz76/endoflife-dependencytrack/releases/download/v0.1.0-alpha/eol-dt-win-x64.zip)**: Best if you already have a running Dependency-Track installation
+- **Docker image**: Install Dependency-Track and the endoflife.date integration in docker
 
 ---
 
@@ -18,30 +18,29 @@ The eol integration uses the Dependency-Track API. You can create an API key in 
 
 ## Quick Start (Existing Dependency-Track Installation)
 
+### Linux
+```bash
 # Download the latest binary
-wget https://github.com/chris/eol-dependencytrack/releases/latest/download/eol-dt-linux.tar.gz
+curl -LO https://github.com/Chriz76/endoflife-dependencytrack/releases/download/v0.1.0-alpha/eol-dt-linux-x64.tar.gz
 
 # Extract the archive
-tar -xzvf eol-dt-linux.tar.gz
+tar -xzvf eol-dt-linux-x64.tar.gz
 
 # Make it executable
 chmod +x eol-dt
 
-# Run the program
-./eol-dt --help
-Download either 
+# Run it
+./eol-dt --apikey YOUR_DEPENDENCY_TRACK_API_KEY
 
-Precompiled binaries are available under **GitHub Releases**.
+```
 
-Supported platforms:
-
-- linux-x64
-- win-x64
-
-Example:
-
-./myservice --port 8080
-
+### Windows
+- Download the [latest Windows binary](https://github.com/Chriz76/endoflife-dependencytrack/releases/download/v0.1.0-alpha/eol-dt-win-x64.zip) 
+- Unzip it
+- Run it with your api key
+```cmd
+eol-dt --apikey YOUR_DEPENDENCY_TRACK_API_KEY
+```
 
 ---
 
@@ -60,38 +59,34 @@ docker run --rm --network dtrack-net -e DT_APIURL="http://apiserver:8080/api/" -
 ```
 ---
 
-## Docker Image
+## Usage
 
-Image:
+```bash
+Usage: eol-dt [options]
 
-myorg/myservice
+Options:
+  --help, -h           Show this help message and exit
+  --apikey <key>       Set the DependencyTrack API key
+  --apiurl <url>       Set the DependencyTrack API base URL
+                       (default: http://localhost:8081/api/)
+  --eoldata <source>   Set the End of Life data source URL
+                       (default: https://endoflife.date/api/v1/products/full)
+                       or a local path
+  --telemetry <on|off> Enable or disable telemetry (default: on)
+  --loglevel <0-5>     Set verbosity level
+                       (0 = trace, 5 = critical, default: 2)
+```
+## Configuration via Environment Variables
 
-Tags:
+All CLI options can also be set via environment variables prefixed with DT_:
 
-- latest
-- v0.1
-
-Pull image:
-
-docker pull myorg/myservice:latest
-
----
-
-## Configuration
-
-Environment variables:
-
-| Variable | Description | Default |
-|---------|-------------|--------|
-| PORT | HTTP port | 8080 |
-| LOG_LEVEL | Logging level | info |
-
-Example:
-
-docker run -p 8080:8080 \
--e LOG_LEVEL=debug \
-myorg/myservice:latest
-
+| Option         | Environment Variable  | Default                                           |
+|----------------|--------------------|--------------------------------------------------|
+| `--apikey`     | `DT_APIKEY`        | — (required if not in config)                   |
+| `--apiurl`     | `DT_APIURL`        | `http://localhost:8081/api/`                     |
+| `--eoldata`    | `DT_EOLDATA`       | `https://endoflife.date/api/v1/products/full`   |
+| `--telemetry`  | `DT_TELEMETRY`     | `on`                                             |
+| `--loglevel`   | `DT_LOGLEVEL`      | `2`                                              |
 ---
 
 ## License
