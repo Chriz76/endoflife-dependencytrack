@@ -1,0 +1,5483 @@
+{
+  "adonisjs": {
+    "purls": [
+      "pkg:github/edge-js/edge",
+      "pkg:npm/edge.js"
+    ],
+    "cpes": [
+      "cpe:2.3:a:adonisjs:edge"
+    ]
+  },
+  "angular": {
+    "purls": [
+      "pkg:github/angular/angular",
+      "pkg:googlesource/angular",
+      "pkg:maven/org.webjars.npm/angular__core",
+      "pkg:npm/%40angular/core",
+      "pkg:sourceforge/angular.mirror",
+      "pkg:deb/debian/angular.js",
+      "pkg:deb/ubuntu/angular.js",
+      "pkg:github/angular/angular.js",
+      "pkg:maven/org.webjars.bowergithub.angular/angular.js",
+      "pkg:npm/angular"
+    ],
+    "cpes": [
+      "cpe:2.3:a:angular:angular",
+      "cpe:2.3:a:angularjs:angular"
+    ]
+  },
+  "angularjs": {
+    "purls": [
+      "pkg:deb/debian/angular.js",
+      "pkg:deb/ubuntu/angular.js",
+      "pkg:github/angular/angular.js",
+      "pkg:maven/org.webjars.bowergithub.angular/angular.js",
+      "pkg:npm/angular",
+      "pkg:nuget/AngularJS.Core",
+      "pkg:sourceforge/angularjs",
+      "pkg:golang/github.com/angular/angular.js"
+    ],
+    "cpes": [
+      "cpe:2.3:a:angularjs:angular",
+      "cpe:2.3:a:angularjs:angular.js",
+      "cpe:2.3:a:angularjs:angularjs"
+    ]
+  },
+  "api-platform": {
+    "purls": [
+      "pkg:github/api-platform/core"
+    ],
+    "cpes": [
+      "cpe:2.3:a:api-platform:core"
+    ]
+  },
+  "arangodb": {
+    "purls": [
+      "pkg:bitbucket/hartmarken349/arangodb",
+      "pkg:docker/arangodb",
+      "pkg:github/arangodb/arangodb",
+      "pkg:rpm/opensuse/arangodb"
+    ],
+    "cpes": [
+      "cpe:2.3:a:arangodb:arangodb"
+    ]
+  },
+  "bigbluebutton": {
+    "purls": [
+      "pkg:github/bigbluebutton/bigbluebutton",
+      "pkg:sourceforge/bigbluebutton",
+      "pkg:docker/bigbluebutton/greenlight",
+      "pkg:github/bigbluebutton/greenlight",
+      "pkg:rpm/opensuse/greenlight",
+      "pkg:github/blindsidenetworks/bigbluebutton-1"
+    ],
+    "cpes": [
+      "cpe:2.3:a:bigbluebutton:bigbluebutton",
+      "cpe:2.3:a:bigbluebutton:greenlight",
+      "cpe:2.3:a:blindsidenetworks:bigbluebutton"
+    ]
+  },
+  "bitbucket": {
+    "purls": [
+      "pkg:deb/debian/xnbd",
+      "pkg:deb/ubuntu/xnbd",
+      "pkg:github/takahiro-hirofuchi/xnbd"
+    ],
+    "cpes": [
+      "cpe:2.3:a:bitbucket:xnbd"
+    ]
+  },
+  "blender": {
+    "purls": [
+      "pkg:bitbucket/sonictk/blender",
+      "pkg:deb/debian/blender",
+      "pkg:deb/ubuntu/blender",
+      "pkg:github/blender/blender",
+      "pkg:github/sobotka/blender",
+      "pkg:rpm/fedora/blender",
+      "pkg:rpm/opensuse/blender",
+      "pkg:sourceforge/blender"
+    ],
+    "cpes": [
+      "cpe:2.3:a:blender:blender"
+    ]
+  },
+  "cakephp": {
+    "purls": [
+      "pkg:deb/debian/cakephp",
+      "pkg:deb/ubuntu/cakephp",
+      "pkg:github/cakephp/cakephp",
+      "pkg:sourceforge/cakephp.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:cakephp:cakephp",
+      "cpe:2.3:a:cakefoundation:cakephp"
+    ]
+  },
+  "centreon": {
+    "purls": [
+      "pkg:github/centreon/centreon",
+      "pkg:github/centreon/centreon-widget-host-monitoring",
+      "pkg:rpm/opensuse/centreon-widget-host-monitoring",
+      "pkg:github/centreon/centreon-widget-service-monitoring",
+      "pkg:rpm/opensuse/centreon-widget-service-monitoring",
+      "pkg:github/centreon/centreon-widget-tactical-overview",
+      "pkg:rpm/opensuse/centreon-widget-tactical-overview",
+      "pkg:rpm/opensuse/centreon-web",
+      "pkg:rpm/opensuse/centreon",
+      "pkg:sourceforge/centreon"
+    ],
+    "cpes": [
+      "cpe:2.3:a:centreon:centreon",
+      "cpe:2.3:a:centreon:centreon_host-monitoring_widget",
+      "cpe:2.3:a:centreon:centreon_service-monitoring_widget",
+      "cpe:2.3:a:centreon:centreon_tactical-overview_widget",
+      "cpe:2.3:a:centreon:centreon_vm",
+      "cpe:2.3:a:centreon:centreon_web",
+      "cpe:2.3:a:centreon:widget-host-monitoring",
+      "cpe:2.3:a:merethis:centreon"
+    ]
+  },
+  "cert-manager": {
+    "purls": [
+      "pkg:github/cert-manager/cert-manager",
+      "pkg:golang/github.com/cert-manager/cert-manager"
+    ],
+    "cpes": [
+      "cpe:2.3:a:cert-manager:cert-manager"
+    ]
+  },
+  "cilium": {
+    "purls": [
+      "pkg:docker/cilium/cilium",
+      "pkg:github/cilium/cilium",
+      "pkg:rpm/opensuse/cilium",
+      "pkg:sourceforge/cilium.mirror",
+      "pkg:github/cilium/cilium-cli",
+      "pkg:golang/github.com/cilium/cilium-cli"
+    ],
+    "cpes": [
+      "cpe:2.3:a:cilium:cilium",
+      "cpe:2.3:a:cilium:cilium-cli"
+    ]
+  },
+  "ckeditor": {
+    "purls": [
+      "pkg:github/ckeditor/ckeditor5",
+      "pkg:npm/ckeditor5",
+      "pkg:github/ckeditor/ckeditor5-engine",
+      "pkg:npm/%40ckeditor/ckeditor5-engine",
+      "pkg:github/ckeditor/ckeditor5-font",
+      "pkg:npm/%40ckeditor/ckeditor5-font",
+      "pkg:golang/github.com/ckeditor/ckeditor5",
+      "pkg:github/ckeditor/ckeditor5-image",
+      "pkg:npm/%40ckeditor/ckeditor5-image",
+      "pkg:github/ckeditor/ckeditor5-list",
+      "pkg:npm/%40ckeditor/ckeditor5-list",
+      "pkg:github/ckeditor/ckeditor5-markdown-gfm",
+      "pkg:npm/%40ckeditor/ckeditor5-markdown-gfm",
+      "pkg:github/ckeditor/ckeditor5-media-embed",
+      "pkg:npm/%40ckeditor/ckeditor5-media-embed",
+      "pkg:github/ckeditor/ckeditor5-paste-from-office",
+      "pkg:npm/%40ckeditor/ckeditor5-paste-from-office",
+      "pkg:github/ckeditor/ckeditor5-widget",
+      "pkg:npm/%40ckeditor/ckeditor5-widget",
+      "pkg:github/ckeditor/ckeditor5-link",
+      "pkg:npm/%40ckeditor/ckeditor5-link",
+      "pkg:github/ckeditor/ckeditor4",
+      "pkg:maven/org.webjars.npm/ckeditor4",
+      "pkg:npm/ckeditor4",
+      "pkg:sourceforge/fckeditor",
+      "pkg:github/ckeditor-for-wordpress/ckeditor-for-wordpress",
+      "pkg:github/wp-plugins/ckeditor-for-wordpress"
+    ],
+    "cpes": [
+      "cpe:2.3:a:ckeditor:ckeditor5",
+      "cpe:2.3:a:ckeditor:ckeditor5-engine",
+      "cpe:2.3:a:ckeditor:ckeditor5-font",
+      "cpe:2.3:a:ckeditor:ckeditor5-html-embed",
+      "cpe:2.3:a:ckeditor:ckeditor5-html-support",
+      "cpe:2.3:a:ckeditor:ckeditor5-image",
+      "cpe:2.3:a:ckeditor:ckeditor5-list",
+      "cpe:2.3:a:ckeditor:ckeditor5-markdown-gfm",
+      "cpe:2.3:a:ckeditor:ckeditor5-media-embed",
+      "cpe:2.3:a:ckeditor:ckeditor5-paste-from-office",
+      "cpe:2.3:a:ckeditor:ckeditor5-widget",
+      "cpe:2.3:a:ckeditor:ckeditor_5",
+      "cpe:2.3:a:ckeditor:ckeditor_5-link",
+      "cpe:2.3:a:ckeditor:enhanced_image",
+      "cpe:2.3:a:ckeditor:fckeditor",
+      "cpe:2.3:a:cksource:ckeditor"
+    ]
+  },
+  "clamav": {
+    "purls": [
+      "pkg:deb/debian/clamav",
+      "pkg:deb/ubuntu/clamav",
+      "pkg:docker/clamav/clamav",
+      "pkg:github/cisco-talos/clamav",
+      "pkg:rpm/fedora/clamav",
+      "pkg:rpm/opensuse/clamav",
+      "pkg:golang/github.com/cisco-talos/clamav"
+    ],
+    "cpes": [
+      "cpe:2.3:a:clamav:clamav",
+      "cpe:2.3:a:cclamav:clamav",
+      "cpe:2.3:a:clamavs:clamav",
+      "cpe:2.3:a:clam_anti-virus:clamav"
+    ]
+  },
+  "coder": {
+    "purls": [
+      "pkg:docker/codercom/code-server",
+      "pkg:github/cdr/code-server",
+      "pkg:npm/code-server"
+    ],
+    "cpes": [
+      "cpe:2.3:a:coder:code-server"
+    ]
+  },
+  "commvault": {
+    "purls": [
+      "pkg:github/commvault/cvpysdk",
+      "pkg:pypi/cvpysdk"
+    ],
+    "cpes": [
+      "cpe:2.3:a:commvault:commcell",
+      "cpe:2.3:a:commvault:commcell_console",
+      "cpe:2.3:a:commvault:commnet_browser"
+    ]
+  },
+  "contao": {
+    "purls": [
+      "pkg:github/contao/contao",
+      "pkg:github/contao/core"
+    ],
+    "cpes": [
+      "cpe:2.3:a:contao:contao",
+      "cpe:2.3:a:contao:contao_cms"
+    ]
+  },
+  "debian": {
+    "purls": [
+      "pkg:deb/debian/adequate",
+      "pkg:deb/ubuntu/adequate",
+      "pkg:deb/debian/apt",
+      "pkg:debian/apt-team/apt",
+      "pkg:deb/ubuntu/apt",
+      "pkg:github/debian/apt",
+      "pkg:deb/debian/apache2",
+      "pkg:deb/ubuntu/apache2",
+      "pkg:github/pop-os/apt",
+      "pkg:gitlab/kalilinux/apt",
+      "pkg:rpm/fedora/apt",
+      "pkg:rpm/opensuse/apt",
+      "pkg:deb/debian/apt-cacher",
+      "pkg:deb/ubuntu/apt-cacher",
+      "pkg:deb/debian/apt-listchanges",
+      "pkg:deb/ubuntu/apt-listchanges",
+      "pkg:github/jlu5/apt-listchanges",
+      "pkg:deb/debian/apt-setup",
+      "pkg:deb/ubuntu/apt-setup",
+      "pkg:deb/debian/axiom",
+      "pkg:deb/ubuntu/axiom",
+      "pkg:github/daly/axiom",
+      "pkg:gnu/axiom",
+      "pkg:rpm/opensuse/open-axiom",
+      "pkg:sourceforge/axiom",
+      "pkg:bitbucket/domi/backupninja",
+      "pkg:deb/debian/backupninja",
+      "pkg:deb/ubuntu/backupninja",
+      "pkg:githubm/lelutin/backupninja",
+      "pkg:rpm/fedora/backupninja",
+      "pkg:rpm/opensuse/backupninja",
+      "pkg:deb/debian/bsdmainutils",
+      "pkg:deb/ubuntu/bsdmainutils",
+      "pkg:github/kit-ty-kate/bsdmainutils",
+      "pkg:deb/debian/cfingerd",
+      "pkg:deb/ubuntu/cfingerd",
+      "pkg:github/pld-linux/cfingerd",
+      "pkg:deb/debian/cifs-utils",
+      "pkg:deb/ubuntu/cifs-utils",
+      "pkg:github/distrotech/cifs-utils",
+      "pkg:github/piastry/cifs-utils",
+      "pkg:gitlab/redhat/cifs-utils",
+      "pkg:rpm/centos/cifs-utils",
+      "pkg:rpm/fedora/cifs-utils",
+      "pkg:rpm/opensuse/cifs-utils",
+      "pkg:deb/debian/courier-authlib",
+      "pkg:deb/ubuntu/courier-authlib",
+      "pkg:github/pld-linux/courier-authlib",
+      "pkg:rpm/opensuse/courier-authlib",
+      "pkg:deb/debian/cron",
+      "pkg:deb/ubuntu/cron",
+      "pkg:deb/debian/crossroads",
+      "pkg:deb/debian/debian-goodies",
+      "pkg:deb/ubuntu/debian-goodies",
+      "pkg:github/tpo/debian-goodies",
+      "pkg:deb/debian/debian-lan-config",
+      "pkg:deb/ubuntu/debian-lan-config",
+      "pkg:deb/debian/debmake",
+      "pkg:deb/ubuntu/debmake",
+      "pkg:github/rda0/debmake",
+      "pkg:deb/debian/devscripts",
+      "pkg:deb/ubuntu/devscripts",
+      "pkg:github/debian/devscripts",
+      "pkg:rpm/fedora/devscripts",
+      "pkg:rpm/opensuse/devscripts",
+      "pkg:deb/debian/dhcpdump",
+      "pkg:deb/ubuntu/dhcpdump",
+      "pkg:github/huiji12321/dhcpdump",
+      "pkg:github/yashin-alexander/dhcpdump",
+      "pkg:deb/debian/dpkg",
+      "pkg:deb/ubuntu/dpkg",
+      "pkg:github/davidben/dpkg",
+      "pkg:github/guillemj/dpkg",
+      "pkg:rpm/fedora/dpkg",
+      "pkg:rpm/opensuse/dpkg",
+      "pkg:deb/debian/duplicity",
+      "pkg:deb/ubuntu/duplicity",
+      "pkg:github/henrysher/duplicity",
+      "pkg:gnu/duplicity",
+      "pkg:pypi/duplicity",
+      "pkg:rpm/fedora/duplicity",
+      "pkg:rpm/opensuse/duplicity",
+      "pkg:sourceforge/ftplicity",
+      "pkg:deb/debian/elvis-tiny",
+      "pkg:deb/ubuntu/elvis-tiny",
+      "pkg:deb/debian/exuberant-ctags",
+      "pkg:sourceforge/ctags",
+      "pkg:deb/debian/freedombox",
+      "pkg:deb/ubuntu/freedombox",
+      "pkg:github/freedombox/freedombox",
+      "pkg:deb/debian/ftpsync",
+      "pkg:deb/ubuntu/ftpsync",
+      "pkg:github/jeffwelling/ftpsync",
+      "pkg:github/rgeissert/ftpsync",
+      "pkg:deb/debian/fuse",
+      "pkg:deb/ubuntu/fuse",
+      "pkg:github/libfuse/libfuse",
+      "pkg:rpm/centos/fuse",
+      "pkg:rpm/fedora/fuse",
+      "pkg:rpm/opensuse/fuse",
+      "pkg:deb/debian/guilt",
+      "pkg:deb/ubuntu/guilt",
+      "pkg:rpm/fedora/guilt",
+      "pkg:rpm/opensuse/guilt",
+      "pkg:deb/debian/hivex",
+      "pkg:deb/ubuntu/hivex",
+      "pkg:github/libguestfs/hivex",
+      "pkg:gitlab/redhat/hivex",
+      "pkg:rpm/fedora/hivex",
+      "pkg:rpm/opensuse/hivex",
+      "pkg:deb/debian/php-horde-groupware",
+      "pkg:deb/ubuntu/php-horde-groupware",
+      "pkg:github/horde/groupware",
+      "pkg:gnome/php-horde-groupware",
+      "pkg:github/pld-linux/iceape",
+      "pkg:deb/debian/ifupdown",
+      "pkg:deb/ubuntu/ifupdown",
+      "pkg:github/oss-qm/ifupdown",
+      "pkg:github/wido/ifupdown",
+      "pkg:deb/debian/initramfs-tools",
+      "pkg:deb/ubuntu/initramfs-tools",
+      "pkg:github/genesi/initramfs-tools",
+      "pkg:gnome/initramfs-tools",
+      "pkg:deb/debian/kde4libs",
+      "pkg:deb/ubuntu/kde4libs",
+      "pkg:github/kde/kdelibs",
+      "pkg:rpm/fedora/kdelibs",
+      "pkg:rpm/opensuse/kdelibs",
+      "pkg:deb/debian/ldapscripts",
+      "pkg:deb/ubuntu/ldapscripts",
+      "pkg:github/martymac/ldapscripts",
+      "pkg:github/smillie/ldapscripts",
+      "pkg:sourceforge/ldapscripts",
+      "pkg:deb/debian/libdbd-pg-perl",
+      "pkg:deb/ubuntu/libdbd-pg-perl",
+      "pkg:github/bucardo/dbdpg",
+      "pkg:deb/debian/lintian",
+      "pkg:deb/ubuntu/lintian",
+      "pkg:github/debian/lintian",
+      "pkg:deb/debian/localepurge",
+      "pkg:deb/ubuntu/localepurge",
+      "pkg:deb/debian/logcheck",
+      "pkg:deb/ubuntu/logcheck",
+      "pkg:github/smola/logcheck",
+      "pkg:github/yasuhirokimura/logcheck",
+      "pkg:rpm/fedora/logcheck",
+      "pkg:rpm/opensuse/logcheck",
+      "pkg:deb/debian/logol",
+      "pkg:deb/ubuntu/logol",
+      "pkg:deb/debian/matplotlib",
+      "pkg:deb/ubuntu/matplotlib",
+      "pkg:github/matplotlib/matplotlib",
+      "pkg:pypi/matplotlib",
+      "pkg:rpm/fedora/python-matplotlib",
+      "pkg:rpm/opensuse/python-matplotlib",
+      "pkg:sourceforge/matplotlib.mirror",
+      "pkg:deb/debian/mime-support",
+      "pkg:deb/ubuntu/mime-support",
+      "pkg:deb/debian/krb5",
+      "pkg:deb/ubuntu/krb5",
+      "pkg:github/krb5/krb5",
+      "pkg:gitlab/redhat/krb5",
+      "pkg:rpm/fedora/krb5",
+      "pkg:rpm/opensuse/krb5",
+      "pkg:deb/debian/openafs",
+      "pkg:deb/ubuntu/openafs",
+      "pkg:github/openafs/openafs",
+      "pkg:rpm/opensuse/openafs",
+      "pkg:deb/debian/most",
+      "pkg:deb/ubuntu/most",
+      "pkg:rpm/fedora/most",
+      "pkg:rpm/opensuse/most",
+      "pkg:github/marado/netkit-telnet",
+      "pkg:github/maxonthegit/netkit-core",
+      "pkg:deb/debian/pdns",
+      "pkg:deb/ubuntu/pdns",
+      "pkg:github/powerdns/pdns",
+      "pkg:rpm/fedora/pdns",
+      "pkg:rpm/opensuse/pdns",
+      "pkg:deb/debian/perm",
+      "pkg:deb/ubuntu/perm",
+      "pkg:rpm/opensuse/php5-common",
+      "pkg:github/phpbb/phpbb",
+      "pkg:sourceforge/phpbb",
+      "pkg:deb/debian/postgresql-common",
+      "pkg:deb/ubuntu/postgresql-common",
+      "pkg:github/petere/postgresql-common",
+      "pkg:rpm/opensuse/postgresql-common",
+      "pkg:deb/debian/python-apt",
+      "pkg:deb/ubuntu/python-apt",
+      "pkg:github/excid3/python-apt",
+      "pkg:pypi/python-apt",
+      "pkg:rpm/fedora/python-apt",
+      "pkg:rpm/opensuse/python-apt",
+      "pkg:deb/debian/dnspython",
+      "pkg:deb/ubuntu/python-dnspython",
+      "pkg:github/rthalley/dnspython",
+      "pkg:pypi/dnspython",
+      "pkg:rpm/opensuse/python-dnspython",
+      "pkg:deb/debian/pillow",
+      "pkg:deb/ubuntu/pillow",
+      "pkg:github/python-pillow/pillow",
+      "pkg:pypi/pillow",
+      "pkg:rpm/centos/python-pillow",
+      "pkg:rpm/fedora/python-pillow",
+      "pkg:rpm/opensuse/python-pillow",
+      "pkg:sourceforge/pillow.mirror",
+      "pkg:rpm/opensuse/qpopper",
+      "pkg:deb/debian/reportbug",
+      "pkg:deb/ubuntu/reportbug",
+      "pkg:github/davesteele/reportbug",
+      "pkg:github/debiancn/reportbug",
+      "pkg:rpm/opensuse/python-reportbug",
+      "pkg:bitbucket/lc_rd/reprepro",
+      "pkg:deb/debian/reprepro",
+      "pkg:deb/ubuntu/reprepro",
+      "pkg:github/ionos-cloud/reprepro",
+      "pkg:rpm/fedora/reprepro",
+      "pkg:rpm/opensuse/reprepro",
+      "pkg:github/pld-linux/sgml-tools",
+      "pkg:github/shadow-maint/shadow",
+      "pkg:deb/debian/strongswan",
+      "pkg:deb/ubuntu/strongswan",
+      "pkg:docker/mberner/strongswan",
+      "pkg:github/strongswan/strongswan",
+      "pkg:rpm/fedora/strongswan",
+      "pkg:rpm/opensuse/strongswan",
+      "pkg:deb/debian/sympa",
+      "pkg:deb/ubuntu/sympa",
+      "pkg:github/sympa-community/sympa",
+      "pkg:rpm/fedora/sympa",
+      "pkg:rpm/opensuse/sympa",
+      "pkg:deb/debian/syncevolution",
+      "pkg:deb/ubuntu/syncevolution",
+      "pkg:rpm/fedora/syncevolution",
+      "pkg:rpm/opensuse/syncevolution",
+      "pkg:deb/debian/tex-common",
+      "pkg:deb/ubuntu/tex-common",
+      "pkg:deb/debian/texlive-extra-utils",
+      "pkg:github/debian-tex/texlive-nonbin",
+      "pkg:deb/debian/tin",
+      "pkg:deb/ubuntu/tin",
+      "pkg:rpm/fedora/tin",
+      "pkg:rpm/opensuse/tin",
+      "pkg:deb/debian/tmpreaper",
+      "pkg:deb/ubuntu/tmpreaper",
+      "pkg:bitbucket/eliteraspberries/tor",
+      "pkg:deb/debian/tor",
+      "pkg:deb/ubuntu/tor",
+      "pkg:github/torproject/tor",
+      "pkg:rpm/fedora/tor",
+      "pkg:rpm/opensuse/tor",
+      "pkg:deb/debian/txt2man",
+      "pkg:deb/ubuntu/txt2man",
+      "pkg:github/mvertes/txt2man",
+      "pkg:rpm/fedora/txt2man",
+      "pkg:rpm/opensuse/txt2man",
+      "pkg:deb/debian/unp",
+      "pkg:deb/ubuntu/unp",
+      "pkg:deb/debian/xorg",
+      "pkg:deb/ubuntu/xorg",
+      "pkg:rpm/opensuse/x11-common",
+      "pkg:deb/debian/xbindkeys-config",
+      "pkg:deb/ubuntu/xbindkeys-config",
+      "pkg:github/rgeorgiev583/xbindkeys_config",
+      "pkg:deb/debian/xbuffy",
+      "pkg:deb/ubuntu/xbuffy",
+      "pkg:github/wfp5p/xbuffy",
+      "pkg:deb/debian/yubiserver",
+      "pkg:deb/ubuntu/yubiserver"
+    ],
+    "cpes": [
+      "cpe:2.3:a:debian:adequate",
+      "cpe:2.3:a:debian:advanced_package_tool",
+      "cpe:2.3:a:debian:apache",
+      "cpe:2.3:a:debian:apache2",
+      "cpe:2.3:a:debian:apt",
+      "cpe:2.3:a:debian:apt-cacher",
+      "cpe:2.3:a:debian:apt-listchanges",
+      "cpe:2.3:a:debian:apt-setup",
+      "cpe:2.3:a:debian:axiom",
+      "cpe:2.3:a:debian:backupninja",
+      "cpe:2.3:a:debian:bsdmainutils",
+      "cpe:2.3:a:debian:cfingerd",
+      "cpe:2.3:a:debian:cifs-utils",
+      "cpe:2.3:a:debian:courier-authlib",
+      "cpe:2.3:a:debian:cron",
+      "cpe:2.3:a:debian:crossroads",
+      "cpe:2.3:a:debian:debian-goodies",
+      "cpe:2.3:a:debian:debian-lan-config",
+      "cpe:2.3:a:debian:debmake",
+      "cpe:2.3:a:debian:devscripts",
+      "cpe:2.3:a:debian:dhcpdump",
+      "cpe:2.3:a:debian:dpkg",
+      "cpe:2.3:a:debian:duplicity",
+      "cpe:2.3:a:debian:elvis_tiny",
+      "cpe:2.3:a:debian:exuberant_ctags",
+      "cpe:2.3:a:debian:freedombox",
+      "cpe:2.3:a:debian:ftpsync",
+      "cpe:2.3:a:debian:fuse",
+      "cpe:2.3:a:debian:guilt",
+      "cpe:2.3:a:debian:hivex",
+      "cpe:2.3:a:debian:horde_groupware",
+      "cpe:2.3:a:debian:iceape",
+      "cpe:2.3:a:debian:ifupdown",
+      "cpe:2.3:a:debian:initramfs-tools",
+      "cpe:2.3:a:debian:kde4libs",
+      "cpe:2.3:a:debian:ldapscripts",
+      "cpe:2.3:a:debian:libdbd-pg-perl",
+      "cpe:2.3:a:debian:lintian",
+      "cpe:2.3:a:debian:localepurge",
+      "cpe:2.3:a:debian:logcheck",
+      "cpe:2.3:a:debian:logol",
+      "cpe:2.3:a:debian:matplotlib",
+      "cpe:2.3:a:debian:mime-support",
+      "cpe:2.3:a:debian:mit_kerberos",
+      "cpe:2.3:a:debian:mit_openafs",
+      "cpe:2.3:a:debian:most",
+      "cpe:2.3:a:debian:netkit",
+      "cpe:2.3:a:debian:pdns",
+      "cpe:2.3:a:debian:perm",
+      "cpe:2.3:a:debian:php5-common",
+      "cpe:2.3:a:debian:phpbb3",
+      "cpe:2.3:a:debian:postgresql-common",
+      "cpe:2.3:a:debian:python-apt",
+      "cpe:2.3:a:debian:python-dns",
+      "cpe:2.3:a:debian:python-imaging",
+      "cpe:2.3:a:debian:qpopper",
+      "cpe:2.3:a:debian:reportbug",
+      "cpe:2.3:a:debian:reprepro",
+      "cpe:2.3:a:debian:sgml-tools",
+      "cpe:2.3:a:debian:shadow",
+      "cpe:2.3:a:debian:strongswan",
+      "cpe:2.3:a:debian:sympa",
+      "cpe:2.3:a:debian:syncevolution",
+      "cpe:2.3:a:debian:tex-common",
+      "cpe:2.3:a:debian:texlive-extra-utils",
+      "cpe:2.3:a:debian:tin",
+      "cpe:2.3:a:debian:tmpreaper",
+      "cpe:2.3:a:debian:tor",
+      "cpe:2.3:a:debian:txt2man",
+      "cpe:2.3:a:debian:unp",
+      "cpe:2.3:a:debian:x11-common",
+      "cpe:2.3:a:debian:xbindkeys-config",
+      "cpe:2.3:a:debian:xbuffy",
+      "cpe:2.3:a:debian:yubiserver"
+    ]
+  },
+  "deno": {
+    "purls": [
+      "pkg:github/denoland/deno",
+      "pkg:golang/github.com/denoland/deno",
+      "pkg:github/denoland/deno_std",
+      "pkg:golang/github.com/denoland/deno_std",
+      "pkg:github/denoland/serde_v8"
+    ],
+    "cpes": [
+      "cpe:2.3:a:deno:deno",
+      "cpe:2.3:a:deno:deno_runtime",
+      "cpe:2.3:a:deno:deno_standard_modules",
+      "cpe:2.3:a:deno:serde_v8"
+    ]
+  },
+  "discourse": {
+    "purls": [
+      "pkg:github/discourse/discourse-ai",
+      "pkg:github/discourse/discourse-calendar",
+      "pkg:github/discourse/discotoc",
+      "pkg:github/discourse/discourse",
+      "pkg:rpm/opensuse/discourse",
+      "pkg:github/discourse/discourse-chat",
+      "pkg:github/discourse/discourse-encrypt",
+      "pkg:github/discourse/discourse-mermaid-theme-component",
+      "pkg:github/discourse/discourse-bbcode",
+      "pkg:github/discourse/discourse-footnote",
+      "pkg:github/discourse/discourse-jira",
+      "pkg:github/discourse/discourse-reactions",
+      "pkg:github/discourse/discourse-yearly-review",
+      "pkg:github/discourse/discourse-group-membership-ip-block",
+      "pkg:github/discourse/message_bus",
+      "pkg:github/discourse/discourse-microsoft-auth",
+      "pkg:github/discourse/discourse-patreon",
+      "pkg:gem/rails_multisite",
+      "pkg:github/discourse/rails_multisite",
+      "pkg:rpm/opensuse/rubygem-rails_multisite"
+    ],
+    "cpes": [
+      "cpe:2.3:a:discourse:ai",
+      "cpe:2.3:a:discourse:calendar",
+      "cpe:2.3:a:discourse:discotoc",
+      "cpe:2.3:a:discourse:discourse",
+      "cpe:2.3:a:discourse:discourse-chat",
+      "cpe:2.3:a:discourse:discourse-encrypt",
+      "cpe:2.3:a:discourse:discourse-mermaid-theme-component",
+      "cpe:2.3:a:discourse:discourse_bbcode",
+      "cpe:2.3:a:discourse:discourse_calendar",
+      "cpe:2.3:a:discourse:discourse_footnote",
+      "cpe:2.3:a:discourse:discourse_jira",
+      "cpe:2.3:a:discourse:discourse_reactions",
+      "cpe:2.3:a:discourse:discourse_yearly_review",
+      "cpe:2.3:a:discourse:group_membership_ip_blocks",
+      "cpe:2.3:a:discourse:mermaid",
+      "cpe:2.3:a:discourse:message_bus",
+      "cpe:2.3:a:discourse:microsoft_authentication",
+      "cpe:2.3:a:discourse:patreon",
+      "cpe:2.3:a:discourse:rails_multisite",
+      "cpe:2.3:a:discourse:reactions"
+    ]
+  },
+  "dovecot": {
+    "purls": [
+      "pkg:deb/debian/dovecot-core",
+      "pkg:deb/ubuntu/dovecot-core",
+      "pkg:docker/dovecot/dovecot",
+      "pkg:github/dovecot/core",
+      "pkg:rpm/fedora/dovecot",
+      "pkg:rpm/opensuse/dovecot-core",
+      "pkg:github/dovecot/pigeonhole"
+    ],
+    "cpes": [
+      "cpe:2.3:a:dovecot:dovecot",
+      "cpe:2.3:a:dovecot:pigeonhole"
+    ]
+  },
+  "drupal": {
+    "purls": [
+      "pkg:github/drupalprojects/data",
+      "pkg:drupal/drupal",
+      "pkg:github/drupal/drupal",
+      "pkg:github/docker-library/drupal",
+      "pkg:github/dpi/entity_embed",
+      "pkg:github/drupal-media/entity_embed",
+      "pkg:drupal/project/cck_fullname",
+      "pkg:github/josereyero/i18n",
+      "pkg:github/mbovan/mailhandler",
+      "pkg:drupal/project/mayo",
+      "pkg:drupal/project/metatag",
+      "pkg:github/backdrop-contrib/nodeaccess_userreference",
+      "pkg:github/signalpoint/jdrupal",
+      "pkg:github/br3nda/drupal-module-project_issue",
+      "pkg:github/henrytran9x/quicktabs",
+      "pkg:github/gapple/drupal-realname",
+      "pkg:github/voxpelli/drupal-realname",
+      "pkg:github/drupalprojects/svg_sanitizer",
+      "pkg:github/catalyst/cca_taxonomy_manager",
+      "pkg:drupal/node/386942",
+      "pkg:github/drupalprojects/views_bulk_operations",
+      "pkg:github/fastcat/views_bulk_operations"
+    ],
+    "cpes": [
+      "cpe:2.3:a:drupal:data",
+      "cpe:2.3:a:drupal:drupal",
+      "cpe:2.3:a:drupal:drupal_docker_images",
+      "cpe:2.3:a:drupal:entity_embed",
+      "cpe:2.3:a:drupal:fullname_field_for_cck",
+      "cpe:2.3:a:drupal:internationalization",
+      "cpe:2.3:a:drupal:mailhandler",
+      "cpe:2.3:a:drupal:mayo",
+      "cpe:2.3:a:drupal:meta_tags_module",
+      "cpe:2.3:a:drupal:nodeaccess_userreference",
+      "cpe:2.3:a:drupal:organic_groups_module",
+      "cpe:2.3:a:drupal:project_issue_tracking_module",
+      "cpe:2.3:a:drupal:quick_tabs",
+      "cpe:2.3:a:drupal:realname",
+      "cpe:2.3:a:drupal:svg_sanitizer",
+      "cpe:2.3:a:drupal:taxonomy_manager",
+      "cpe:2.3:a:drupal:taxonomy_theme_module",
+      "cpe:2.3:a:drupal:views_builk_operations",
+      "cpe:2.3:a:drupal:views_bulk_operations"
+    ]
+  },
+  "duckdb": {
+    "purls": [
+      "pkg:github/tu0laj1/database_test"
+    ],
+    "cpes": [
+      "cpe:2.3:a:duckdb:duckdb"
+    ]
+  },
+  "elasticsearch": {
+    "purls": [
+      "pkg:github/elastic/cloud-sdk-go",
+      "pkg:github/logstash-plugins/logstash-output-csv",
+      "pkg:github/elastic/elasticsearch",
+      "pkg:maven/org.elasticsearch/elasticsearch",
+      "pkg:sourceforge/elasticsearch.mirror",
+      "pkg:docker/kibana",
+      "pkg:rpm/opensuse/kibana",
+      "pkg:sourceforge/kibana.mirror",
+      "pkg:Docker/logstash",
+      "pkg:github/elastic/logstash",
+      "pkg:sourceforge/logstash.mirror",
+      "pkg:github/logstash-plugins/logstash-codec-netflow",
+      "pkg:github/elastic/beats",
+      "pkg:rpm/opensuse/beats",
+      "pkg:github/elastic/elasticsearch-x-pack-php",
+      "pkg:github/anynines/rails_elasticsearch_example",
+      "pkg:docker/elastic/elasticsearch",
+      "pkg:elastic/elasticsearch",
+      "pkg:rpm/opensuse/elasticsearch"
+    ],
+    "cpes": [
+      "cpe:2.3:a:elasticsearch:cloud_enterprise",
+      "cpe:2.3:a:elasticsearch:csv_output_plugin",
+      "cpe:2.3:a:elasticsearch:elasticsearch",
+      "cpe:2.3:a:elasticsearch:kibana",
+      "cpe:2.3:a:elasticsearch:logstash",
+      "cpe:2.3:a:elasticsearch:netflow_codec_plugin",
+      "cpe:2.3:a:elasticsearch:packetbeat",
+      "cpe:2.3:a:elasticsearch:x-pack",
+      "cpe:2.3:a:anynines:elasticsearch",
+      "cpe:2.3:a:elastic:elasticsearch"
+    ]
+  },
+  "electron": {
+    "purls": [
+      "pkg:github/electron-userland/electron-builder",
+      "pkg:npm/electron-builder",
+      "pkg:github/electron/electron",
+      "pkg:gitlab/immersaview/electron",
+      "pkg:npm/electron",
+      "pkg:rpm/opensuse/nodejs-electron",
+      "pkg:sourceforge/electron.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:electron:electron-builder",
+      "cpe:2.3:a:electron:electron-updater",
+      "cpe:2.3:a:atom:electron",
+      "cpe:2.3:a:electronjs:electron"
+    ]
+  },
+  "emberjs": {
+    "purls": [
+      "pkg:github/emberjs/ember.js",
+      "pkg:nuget/EmberJS.2.2",
+      "pkg:sourceforge/ember-js.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:emberjs:ember.js"
+    ]
+  },
+  "erlang": {
+    "purls": [
+      "pkg:github/erlang/otp",
+      "pkg:github/erlang/rebar3"
+    ],
+    "cpes": [
+      "cpe:2.3:a:erlang:crypto",
+      "cpe:2.3:a:erlang:otp",
+      "cpe:2.3:a:erlang:rebar3"
+    ]
+  },
+  "etcd": {
+    "purls": [
+      "pkg:deb/debian/etcd",
+      "pkg:deb/ubuntu/etcd",
+      "pkg:github/etcd-io/etcd",
+      "pkg:rpm/fedora/etcd",
+      "pkg:rpm/opensuse/etcd",
+      "pkg:golang/github.com/etcd-io/etcd"
+    ],
+    "cpes": [
+      "cpe:2.3:a:etcd:etcd",
+      "cpe:2.3:a:etcd_project:etcd",
+      "cpe:2.3:a:redhat:etcd"
+    ]
+  },
+  "exim": {
+    "purls": [
+      "pkg:deb/debian/exim4",
+      "pkg:deb/ubuntu/exim4",
+      "pkg:exim/exim",
+      "pkg:github/exim/exim",
+      "pkg:rpm/fedora/exim",
+      "pkg:rpm/opensuse/exim"
+    ],
+    "cpes": [
+      "cpe:2.3:a:exim:exim",
+      "cpe:2.3:a:university_of_cambridge:exim"
+    ]
+  },
+  "fedora": {
+    "purls": [
+      "pkg:github/cialu/fednews",
+      "pkg:rpm/fedora/newsx",
+      "pkg:deb/debian/pcs",
+      "pkg:deb/ubuntu/pcs",
+      "pkg:github/clusterlabs/pcs",
+      "pkg:rpm/fedora/pcs",
+      "pkg:github/rsrchboy/rpmdevtools"
+    ],
+    "cpes": [
+      "cpe:2.3:a:fedora:newsx",
+      "cpe:2.3:a:fedora:pacemaker_configuration_system",
+      "cpe:2.3:a:fedora:rpmdevtools"
+    ]
+  },
+  "ffmpeg": {
+    "purls": [
+      "pkg:deb/debian/ffmpeg",
+      "pkg:deb/ubuntu/ffmpeg",
+      "pkg:ffmpeg/ffmpeg",
+      "pkg:github/ffmpeg/ffmpeg",
+      "pkg:opensuse/ffmpeg",
+      "pkg:github/ffmpeg/ffmpeg-coverity",
+      "pkg:golang/github.com/ffmpeg/ffmpeg",
+      "pkg:maven/net.bramp.ffmpeg/ffmpeg",
+      "pkg:npm/%40ffmpeg/ffmpeg"
+    ],
+    "cpes": [
+      "cpe:2.3:a:ffmpeg:ffmpeg",
+      "cpe:2.3:a:ffmpeg:libavcodec",
+      "cpe:2.3:a:ffmpeg:libswresample"
+    ]
+  },
+  "freebsd": {
+    "purls": [
+      "pkg:deb/debian/aide",
+      "pkg:deb/ubuntu/aide",
+      "pkg:github/aide/aide",
+      "pkg:gitlab/redhat/aide",
+      "pkg:rpm/centos/aide",
+      "pkg:rpm/fedora/aide",
+      "pkg:rpm/opensuse/aide",
+      "pkg:sourceforge/aide",
+      "pkg:deb/debian/cvsweb",
+      "pkg:deb/ubuntu/cvsweb",
+      "pkg:github/jrmarino/fetch-freebsd",
+      "pkg:github/freebsd/freebsd-src",
+      "pkg:deb/debian/heimdal",
+      "pkg:deb/ubuntu/heimdal",
+      "pkg:github/heimdal/heimdal",
+      "pkg:rpm/fedora/heimdal",
+      "pkg:rpm/opensuse/heimdal",
+      "pkg:deb/debian/libarchive",
+      "pkg:deb/ubuntu/libarchive",
+      "pkg:github/libarchive/libarchive",
+      "pkg:gitlab/redhat/libarchive",
+      "pkg:rpm/centos/libarchive",
+      "pkg:rpm/fedora/libarchive",
+      "pkg:rpm/opensuse/libarchive",
+      "pkg:deb/debian/ppp",
+      "pkg:deb/ubuntu/ppp",
+      "pkg:github/ppp-project/ppp",
+      "pkg:gitlab/redhat/ppp",
+      "pkg:rpm/centos/ppp",
+      "pkg:rpm/fedora/ppp",
+      "pkg:rpm/opensuse/ppp"
+    ],
+    "cpes": [
+      "cpe:2.3:a:freebsd:advanced_intrusion_detection_environment",
+      "cpe:2.3:a:freebsd:aide",
+      "cpe:2.3:a:freebsd:cvsweb",
+      "cpe:2.3:a:freebsd:fetch",
+      "cpe:2.3:a:freebsd:freebsd",
+      "cpe:2.3:o:freebsd:freebsd",
+      "cpe:2.3:a:freebsd:heimdal",
+      "cpe:2.3:a:freebsd:libarchive",
+      "cpe:2.3:a:freebsd:libfetch",
+      "cpe:2.3:a:freebsd:point-to-point_protocol_daemon"
+    ]
+  },
+  "gitlab": {
+    "purls": [
+      "pkg:deb/debian/gitaly",
+      "pkg:github/jackstack24/gitaly-mirror",
+      "pkg:github/tnir/gitaly",
+      "pkg:gitlab/gitlab-org/gitaly",
+      "pkg:rpm/opensuse/gitaly",
+      "pkg:gitlab/gitlab-org/gitlab",
+      "pkg:deb/debian/gitlab-shell",
+      "pkg:deb/ubuntu/gitlab-shell",
+      "pkg:github/gitlabhq/gitlab-shell",
+      "pkg:gitlab/gitlab-org/gitlab-shell",
+      "pkg:rpm/opensuse/gitlab-shell",
+      "pkg:gitlab/gitlab-org/gitlab-vscode-extension",
+      "pkg:github/gitlabhq/gitlab-runner",
+      "pkg:github/janwillies/gitlab-runner",
+      "pkg:github/lunixbochs/gitlab-runner",
+      "pkg:gitlab/gitlab-org/gitlab-runner",
+      "pkg:rpm/opensuse/gitlab-runner",
+      "pkg:github/gitlabhq/omnibus-gitlab",
+      "pkg:gitlab/gitlab-org/omnibus-gitlab",
+      "pkg:golang/gitlab.com/gitlab-org/omnibus-gitlab",
+      "pkg:docker/gitlab/gitlab-runner",
+      "pkg:github/jenkinsci/gitlab-plugin"
+    ],
+    "cpes": [
+      "cpe:2.3:a:gitlab:gitaly",
+      "cpe:2.3:a:gitlab:gitlab",
+      "cpe:2.3:a:gitlab:gitlab-shell",
+      "cpe:2.3:a:gitlab:gitlab-vscode-extension",
+      "cpe:2.3:a:gitlab:gitlab_runner",
+      "cpe:2.3:a:gitlab:omnibus",
+      "cpe:2.3:a:gitlab:runner",
+      "cpe:2.3:a:jenkins:gitlab"
+    ]
+  },
+  "go": {
+    "purls": [
+      "pkg:github/golang/crypto",
+      "pkg:github/golang/go",
+      "pkg:golang/github.com/golang/go",
+      "pkg:github/ecies/go",
+      "pkg:golang/github.com/ecies/go",
+      "pkg:golang/go/go",
+      "pkg:googlesource/go",
+      "pkg:github/google/go-attestation",
+      "pkg:golang/github.com/google/go-attestation"
+    ],
+    "cpes": [
+      "cpe:2.3:a:go:cryptography",
+      "cpe:2.3:a:go:go",
+      "cpe:2.3:a:ecies:go",
+      "cpe:2.3:a:golang:go",
+      "cpe:2.3:a:google:go"
+    ]
+  },
+  "gradle": {
+    "purls": [
+      "pkg:github/gradle/gradle-build-action",
+      "pkg:deb/debian/gradle",
+      "pkg:deb/ubuntu/gradle",
+      "pkg:docker/gradle",
+      "pkg:github/gradle/gradle",
+      "pkg:rpm/opensuse/gradle",
+      "pkg:github/jenkinsci/gradle-plugin"
+    ],
+    "cpes": [
+      "cpe:2.3:a:gradle:build_action",
+      "cpe:2.3:a:gradle:gradle",
+      "cpe:2.3:a:jenkins:gradle"
+    ]
+  },
+  "grafana": {
+    "purls": [
+      "pkg:github/grafana/agent",
+      "pkg:github/grafana/alloy",
+      "pkg:github/grafana/cortex",
+      "pkg:golang/github.com/grafana/cortex",
+      "pkg:docker/grafana/grafana",
+      "pkg:github/grafana/grafana",
+      "pkg:rpm/fedora/grafana",
+      "pkg:rpm/opensuse/grafana",
+      "pkg:docker/grafana/grafana-image-renderer",
+      "pkg:github/grafana/grafana-image-renderer",
+      "pkg:github/grafana/grafana-json-datasource",
+      "pkg:docker/grafana/loki",
+      "pkg:github/grafana/loki",
+      "pkg:rpm/opensuse/loki",
+      "pkg:sourceforge/grafana-loki.mirror",
+      "pkg:github/grafana/oncall",
+      "pkg:github/grafana/piechart-panel",
+      "pkg:rpm/opensuse/grafana-piechart-panel",
+      "pkg:github/grafana/synthetic-monitoring-agent",
+      "pkg:golang/github.com/grafana/synthetic-monitoring-agent",
+      "pkg:github/taosdata/grafanaplugin",
+      "pkg:golang/github.com/taosdata/grafanaplugin"
+    ],
+    "cpes": [
+      "cpe:2.3:a:grafana:agent",
+      "cpe:2.3:a:grafana:alloy",
+      "cpe:2.3:a:grafana:cortex",
+      "cpe:2.3:a:grafana:grafana",
+      "cpe:2.3:a:grafana:grafana-image-renderer",
+      "cpe:2.3:a:grafana:json_api_data_source",
+      "cpe:2.3:a:grafana:json_datasource",
+      "cpe:2.3:a:grafana:loki",
+      "cpe:2.3:a:grafana:oncall",
+      "cpe:2.3:a:grafana:piechart-panel",
+      "cpe:2.3:a:grafana:synthetic_monitoring_agent",
+      "cpe:2.3:a:tdengine:grafana"
+    ]
+  },
+  "grails": {
+    "purls": [
+      "pkg:github/grails/grails-core",
+      "pkg:maven/org.grails/grails",
+      "pkg:github/grails-fields-plugin/grails-fields",
+      "pkg:githb/glenasmith/grails-pdf",
+      "pkg:github/aeischeid/grails-pdfplugin",
+      "pkg:github/grails-plugins/grails-resources",
+      "pkg:github/grails/grails-spring-security-core",
+      "pkg:github/sheehan/grails-core"
+    ],
+    "cpes": [
+      "cpe:2.3:a:grails:grails",
+      "cpe:2.3:a:grails:grails_fields",
+      "cpe:2.3:a:grails:pdf_plugin",
+      "cpe:2.3:a:grails:resources",
+      "cpe:2.3:a:grails:spring_security_core",
+      "cpe:2.3:a:gopivotal:grails"
+    ]
+  },
+  "graylog": {
+    "purls": [
+      "pkg:github/graylog2/graylog2-server"
+    ],
+    "cpes": [
+      "cpe:2.3:a:graylog:graylog"
+    ]
+  },
+  "gstreamer": {
+    "purls": [
+      "pkg:deb/debian/gst-plugins-good1.0",
+      "pkg:deb/gst-plugins-good",
+      "pkg:deb/ubuntu/gst-plugins-good",
+      "pkg:github/gstreamer/gst-plugins-good",
+      "pkg:gitlab/clevon/gst-plugins-good",
+      "pkg:gitlab/debian/gst-plugins-good",
+      "pkg:golang/github.com/gstreamer/gst-plugins-good",
+      "pkg:rpm/opensuse/gst-plugins-good",
+      "pkg:deb/debian/gst-plugins-base1.0",
+      "pkg:deb/ubuntu/gst-plugins-base1.0",
+      "pkg:github/gstreamer/gst-plugins-base",
+      "pkg:gnome/gst-plugins-base1.0",
+      "pkg:golang/github.com/gstreamer/gst-plugins-base",
+      "pkg:rpm/opensuse/gst-plugins-base",
+      "pkg:bitbucket/cleveron/gstreamer",
+      "pkg:deb/debian/gstreamer1",
+      "pkg:deb/ubuntu/gstreamer1",
+      "pkg:github/gstreamer/gstreamer",
+      "pkg:gitlab/redhat/gstreamer1",
+      "pkg:rpm/centos/gstreamer1",
+      "pkg:rpm/fedora/gstreamer1",
+      "pkg:rpm/opensuse/gstreamer1",
+      "pkg:github/gstreamer/orc",
+      "pkg:freedesktop/gstreamer"
+    ],
+    "cpes": [
+      "cpe:2.3:a:gstreamer:good_plug-ins",
+      "cpe:2.3:a:gstreamer:gst-plugins-base",
+      "cpe:2.3:a:gstreamer:gstreamer",
+      "cpe:2.3:a:gstreamer:orc",
+      "cpe:2.3:a:gstreamer:plug-ins",
+      "cpe:2.3:a:gstreamer_project:gstreamer"
+    ]
+  },
+  "haproxy": {
+    "purls": [
+      "pkg:deb/debian/haproxy",
+      "pkg:deb/ubuntu/haproxy",
+      "pkg:docker/haproxy/haproxy",
+      "pkg:github/haproxy/haproxy",
+      "pkg:haproxy/haproxy",
+      "pkg:rpm/fedora/haproxy",
+      "pkg:rpm/opensuse/haproxy",
+      "pkg:github/mastercactapus/caddy-proxyprotocol",
+      "pkg:github/docker-library/haproxy",
+      "pkg:golang/github.com/haproxy/haproxy",
+      "pkg:github/pfsense/freebsd-ports"
+    ],
+    "cpes": [
+      "cpe:2.3:a:haproxy:haproxy",
+      "cpe:2.3:a:haproxy:proxyprotocol",
+      "cpe:2.3:a:docker:haproxy",
+      "cpe:2.3:a:netgate:haproxy"
+    ]
+  },
+  "harbor": {
+    "purls": [
+      "pkg:github/goharbor/harbor",
+      "pkg:golang/github.com/goharbor/harbor"
+    ],
+    "cpes": [
+      "cpe:2.3:a:harbor:harbor",
+      "cpe:2.3:a:linuxfoundation:harbor"
+    ]
+  },
+  "icinga": {
+    "purls": [
+      "pkg:deb/debian/icinga",
+      "pkg:deb/debian/icinga2",
+      "pkg:deb/ubuntu/icinga",
+      "pkg:deb/ubuntu/icinga2",
+      "pkg:github/icinga/icinga2",
+      "pkg:rpm/opensuse/icinga2",
+      "pkg:sourceforge/icinga",
+      "pkg:github/icinga/icingaweb2-module-incubator",
+      "pkg:github/icinga/icingadb-web",
+      "pkg:github/icinga/icingaweb2",
+      "pkg:rpm/opensuse/icingaweb2",
+      "pkg:github/icinga/icingaweb2-module-jira"
+    ],
+    "cpes": [
+      "cpe:2.3:a:icinga:icinga",
+      "cpe:2.3:a:icinga:icingaweb2-module-incubator",
+      "cpe:2.3:a:icinga:icinga_db_web",
+      "cpe:2.3:a:icinga:icinga_web_2",
+      "cpe:2.3:a:icinga:icinga_web_jira_integration"
+    ]
+  },
+  "istio": {
+    "purls": [
+      "pkg:github/istio/istio",
+      "pkg:googlesource/istio",
+      "pkg:sourceforge/istio.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:istio:istio"
+    ]
+  },
+  "jenkins": {
+    "purls": [
+      "pkg:github/jenkinsci/fireline-plugin",
+      "pkg:github/oggboy/firelinejenkinsplugin",
+      "pkg:github/jenkinsci/absint-a3-plugin",
+      "pkg:github/jenkinsci/absint-astree-plugin",
+      "pkg:github/jenkinsci/accurev-plugin",
+      "pkg:github/biouno/uno-choice-plugin",
+      "pkg:github/jenkinsci/active-choices-plugin",
+      "pkg:github/jenkinsci/active-directory-plugin",
+      "pkg:github/jenkinsci/agent-server-parameter-plugin",
+      "pkg:github/alauda/alauda-devops-pipeline-plugin",
+      "pkg:github/jenkinsci/alauda-devops-pipeline-plugin",
+      "pkg:github/alauda/alauda-kubernetes-support-plugin",
+      "pkg:github/jenkinsci/alauda-kubernetes-support-plugin",
+      "pkg:github/jenkinsci/ec2-plugin",
+      "pkg:github/jenkinsci/snsnotify-plugin",
+      "pkg:github/jenkinsci/aws-sam-plugin",
+      "pkg:github/jenkinsci/anchor-chain-plugin",
+      "pkg:github/jenkinsci/anchore-container-scanner-plugin",
+      "pkg:github/jenkinsci/android-lint-plugin",
+      "pkg:github/bignerdranch/jenkins-android-signing",
+      "pkg:github/jenkinsci/android-signing-plugin",
+      "pkg:github/restjohn/jenkins-android-signing-plugin",
+      "pkg:github/jcsirot/ansible-plugin",
+      "pkg:github/jenkinsci/ansible-plugin",
+      "pkg:github/jenkinsci/ansible-tower-plugin",
+      "pkg:github/john-westcott-iv/ansible-tower-plugin",
+      "pkg:github/jenkinsci/apica-loadtest-plugin",
+      "pkg:github/jenkinsci/appdynamics-plugin",
+      "pkg:github/jenkinsci/applatix-plugin",
+      "pkg:github/jenkinsci/app-detector-plugin",
+      "pkg:github/justice3120/app-detector-plugin",
+      "pkg:github/jenkinsci/applitools-eyes-plugin",
+      "pkg:github/jenkinsci/apprenda-plugin",
+      "pkg:github/jenkinsci/appspider-build-scanner-plugin",
+      "pkg:github/rapid7/jenkinsci-appspider-plugin",
+      "pkg:github/jenkinsci/aqua-microscanner-plugin",
+      "pkg:github/jenkinsci/aqua-security-scanner-plugin",
+      "pkg:github/jenkinsci/aqua-serverless-plugin",
+      "pkg:github/jenkinsci/artifact-repository-parameter-plugin",
+      "pkg:github/jenkinsci/asakusa-satellite-plugin",
+      "pkg:github/jenkinsci/assembla-plugin",
+      "pkg:github/lucamilanesio/assembla-jenkins-plugin",
+      "pkg:github/assembla/assembla-jenkins-auth",
+      "pkg:github/assembla/jenkins-assembla-merge-request-builder",
+      "pkg:github/abayer/associated-files-plugin",
+      "pkg:github/jenkinsci/associated-files-plugin",
+      "pkg:github/jenkinsci/audit2db-plugin",
+      "pkg:github/mscata/jenkins-audit2db-plugin",
+      "pkg:github/jenkinsci/audit-trail-plugin",
+      "pkg:github/jenkinsci/authorize-project-plugin",
+      "pkg:github/jenkinsci/autocomplete-parameter-plugin",
+      "pkg:github/autonomiq/jenkinsplugin",
+      "pkg:github/jenkinsci/autonomiq-plugin",
+      "pkg:github/jenkinsci/avatar-plugin",
+      "pkg:github/awslabs/aws-device-farm-jenkins-plugin",
+      "pkg:github/jenkinsci/aws-device-farm-plugin",
+      "pkg:github/ingenieux/awseb-deployment-plugin",
+      "pkg:github/jenkinsci/awseb-deployment-plugin",
+      "pkg:github/jenkinsci/aws-cloudwatch-logs-publisher-plugin",
+      "pkg:github/jenkinsci/aws-codebuild-plugin",
+      "pkg:github/jenkinsci/aws-codecommit-trigger-plugin",
+      "pkg:github/jenkinsci/aws-codedeploy-plugin",
+      "pkg:github/jenkinsci/aws-codepipeline-plugin",
+      "pkg:github/davidtanner/aws-beanstalk-publisher",
+      "pkg:github/jenkinsci/aws-beanstalk-publisher-plugin",
+      "pkg:github/jenkinsci/aws-global-configuration-plugin",
+      "pkg:github/jenkinsci/azure-ad-plugin",
+      "pkg:github/jenkinsci/azure-cli-plugin",
+      "pkg:github/jenkinsci/azure-container-agents-plugin",
+      "pkg:github/jenkinsci/azure-event-grid-notifier-plugin",
+      "pkg:github/jenkinsci/azure-keyvault-plugin",
+      "pkg:github/jenkinsci/azure-publishersettings-credentials-plugin",
+      "pkg:github/jenkinsci/azure-vm-agents-plugin",
+      "pkg:github/jenkinsci/backlog-plugin",
+      "pkg:github/jenkinsci/badge-plugin",
+      "pkg:github/jenkinsci/bart-plugin",
+      "pkg:github/jenkinsci/batch-task-plugin",
+      "pkg:github/jenkinsci/bazaar-plugin",
+      "pkg:github/jenkinsci/beaker-builder-plugin",
+      "pkg:github/jenkinsci/bearychat-plugin",
+      "pkg:github/jenkinsci/benchmark-evaluator-plugin",
+      "pkg:github/bigpandaio/bigpanda-jenkins-plugin",
+      "pkg:github/jenkinsci/bigpanda-plugin",
+      "pkg:github/jenkinsci/bitbucket-approve-plugin",
+      "pkg:github/jenkinsci/bitbucket-branch-source-plugin",
+      "pkg:github/jenkinsci/bitbucket-oauth-plugin",
+      "pkg:github/jenkinsci/bitbucket-push-and-pull-request-plugin",
+      "pkg:github/jenkinsci/atlassian-bitbucket-server-integration-plugin",
+      "pkg:github/shanexpert/atlassian-bitbucket-server-integration-plugin",
+      "pkg:github/jenkinsci/blackduck-hub-plugin",
+      "pkg:github/jenkinsci/blueocean-plugin",
+      "pkg:github/jenkinsci/bmc-rpd-plugin",
+      "pkg:github/jenkinsci/brakeman-plugin",
+      "pkg:github/jenkinsci/buckminster-plugin",
+      "pkg:github/jenkinsci/bugzilla-plugin",
+      "pkg:github/jenkinsci/build-metrics-plugin",
+      "pkg:github/jenkinsci/build-publisher-plugin",
+      "pkg:github/jenkinsci/buildgraph-view-plugin",
+      "pkg:github/jenkinsci/build-environment-plugin",
+      "pkg:github/jenkinsci/build-failure-analyzer-plugin",
+      "pkg:github/jenkinsci/build-monitor-plugin",
+      "pkg:github/devnull-tools/build-notifications-plugin",
+      "pkg:github/jenkinsci/build-notifications-plugin",
+      "pkg:github/jenkinsci/build-pipeline-plugin",
+      "pkg:github/jenkinsci/build-with-parameters-plugin",
+      "pkg:github/jessicaaustin/jenkins-build-with-parameters-plugin",
+      "pkg:github/jenkinsci/bumblebee-plugin",
+      "pkg:github/jenkinsci/byteguard-build-actions-plugin",
+      "pkg:github/jenkinsci/vmanager-plugin",
+      "pkg:github/tyanai/vmanager-plugin-jenkins",
+      "pkg:github/jenkinsci/caliper-ci-plugin",
+      "pkg:github/jenkinsci/call-remote-job-plugin",
+      "pkg:github/ukiuni/call-remote-job-plugin",
+      "pkg:github/fcrespel/jenkins-cas-plugin",
+      "pkg:github/jenkinsci/cas-plugin",
+      "pkg:github/jenkinsci/cccc-plugin",
+      "pkg:github/jenkinsci/ccm-plugin",
+      "pkg:github/jenkinsci/checkmarx-plugin",
+      "pkg:github/jenkinsci/checkstyle-plugin",
+      "pkg:github/jenkinsci/chef-identity-plugin",
+      "pkg:github/irfanjs/chefbuilder",
+      "pkg:github/jenkinsci/sinatra-chef-builder-plugin",
+      "pkg:github/jenkinsci/chosen-views-tabbar",
+      "pkg:github/jenkinsci/cisco-spark-plugin",
+      "pkg:github/jiafu1115/spark-plugin",
+      "pkg:github/jenkinsci/claim-plugin",
+      "pkg:github/jenkinsci/clearcase-release-plugin",
+      "pkg:github/jenkinsci/clif-performance-testing-plugin",
+      "pkg:github/jenkinsci/aws-credentials-plugin",
+      "pkg:github/jenkinsci/electricflow-plugin",
+      "pkg:github/jenkinsci/cloudcoreo-deploytime-plugin",
+      "pkg:github/jenkinsci/cloudshare-docker-plugin",
+      "pkg:github/jenkinsci/cloudfoundry-plugin",
+      "pkg:github/jenkinsci/oracle-cloud-infrastructure-compute-plugin",
+      "pkg:github/jenkinsci/cloud-stats-plugin",
+      "pkg:github/jenkinsci/cluster-stats-plugin",
+      "pkg:github/zeroturnaround/cluster-stats",
+      "pkg:github/jenkinsci/cobertura-plugin",
+      "pkg:github/jenkinsci/codefresh-plugin",
+      "pkg:github/jenkinsci/codescan-plugin",
+      "pkg:github/jenkinsci/code-coverage-api-plugin",
+      "pkg:github/jenkinsci/codedx-plugin",
+      "pkg:github/jenkinsci/collabnet-plugin",
+      "pkg:github/jenkinsci/compact-columns-plugin",
+      "pkg:github/jenkinsci/computer-queue-plugin",
+      "pkg:github/lvotypko/computerqueue",
+      "pkg:github/jenkinsci/compuware-common-configuration-plugin",
+      "pkg:github/jenkinsci/compuware-ispw-operations-plugin",
+      "pkg:github/zhouqr2000/compuware-ispw-operations-plugin-contributed-to-jenkinsci",
+      "pkg:github/jenkinsci/compuware-strobe-measurement-plugin",
+      "pkg:github/jenkinsci/compuware-topaz-for-total-test-plugin",
+      "pkg:github/jenkinsci/compuware-topaz-utilities-plugin",
+      "pkg:github/jenkinsci/compuware-xpediter-code-coverage-plugin",
+      "pkg:github/jenkinsci/compuware-zadviser-api-plugin",
+      "pkg:github/jenkinsci/configuration-as-code-plugin",
+      "pkg:github/jenkinsci/configurationslicing-plugin",
+      "pkg:github/jenkinsci/config-file-provider-plugin",
+      "pkg:github/jenkinsci/config-rotator-plugin",
+      "pkg:github/praqma/config-rotator-plugin",
+      "pkg:github/jenkinsci/confluence-publisher-plugin",
+      "pkg:github/cyberark/conjur-credentials-plugin",
+      "pkg:github/jenkinsci/conjur-credentials-plugin",
+      "pkg:github/cons3rt/cons3rt-jenkins-plugin",
+      "pkg:github/jenkinsci/cons3rt-plugin",
+      "pkg:github/jenkinsci/consul-kv-builder-plugin",
+      "pkg:github/jenkinsci/ci-with-toad-edge-plugin",
+      "pkg:github/jenkinsci/contrast-continuous-application-security-plugin",
+      "pkg:github/convertigo/jenkins-plugin",
+      "pkg:github/jenkinsci/convertigo-mobile-platform-plugin",
+      "pkg:github/jenkinsci/convert-to-pipeline-plugin",
+      "pkg:github/jenkinsci/copr-plugin",
+      "pkg:github/msrb/copr-plugin",
+      "pkg:github/jenkinsci/copyartifact-plugin",
+      "pkg:github/jenkinsci/copy-data-to-workspace-plugin",
+      "pkg:github/jenkinsci/copy-to-slave-plugin",
+      "pkg:github/jenkinsci/couchdb-statistics-plugin",
+      "pkg:github/jenkinsci/coverity-plugin",
+      "pkg:github/jenkinsci/cppcheck-plugin",
+      "pkg:maven/com.thalesgroup.jenkins-ci.plugins/cppcheck",
+      "pkg:github/jenkinsci/cppncss-plugin",
+      "pkg:github/jenkinsci/credentials-plugin",
+      "pkg:github/jenkinsci/credentials-binding-plugin",
+      "pkg:github/jenkinsci/crittercism-dsym-plugin",
+      "pkg:github/mhassanpur/crittercism-dsym",
+      "pkg:github/jenkinsci/crowd-plugin",
+      "pkg:github/adamcin/crx-content-package-deployer",
+      "pkg:github/jenkinsci/crx-content-package-deployer-plugin",
+      "pkg:github/jenkinsci/cryptomove-plugin",
+      "pkg:github/jenkinsci/cucumber-living-documentation-plugin",
+      "pkg:github/jenkinsci/cvs-plugin",
+      "pkg:github/jenkinsci/curseforge-publisher-plugin",
+      "pkg:github/jenkinsci/custom-checkbox-parameter-plugin",
+      "pkg:github/jcsirot/custom-job-icon-plugin",
+      "pkg:github/jenkinsci/custom-job-icon-plugin",
+      "pkg:github/jenkinsci/dashboard-view-plugin",
+      "pkg:github/jenkinsci/database-plugin",
+      "pkg:github/jenkinsci/datadog-plugin",
+      "pkg:github/jenkinsci/datatheorem-mobile-app-security-plugin",
+      "pkg:github/jenkinsci/date-parameter-plugin",
+      "pkg:github/jenkinsci/dbcharts-plugin",
+      "pkg:github/jenkinsci/debian-package-builder-plugin",
+      "pkg:github/jenkinsci/delete-log-plugin",
+      "pkg:github/lvotypko/delete-log-plugin",
+      "pkg:github/diabol/delivery-pipeline-plugin",
+      "pkg:github/jenkinsci/delphix-plugin",
+      "pkg:github/jenkinsci/depgraph-view-plugin",
+      "pkg:github/jenkinsci/deploy-plugin",
+      "pkg:github/jenkinsci/deployer-framework-plugin",
+      "pkg:github/jenkinsci/deployhub-plugin",
+      "pkg:github/codecentric/jenkins-deployment-dashboard-plugin",
+      "pkg:github/jenkinsci/ec2-deployment-dashboard",
+      "pkg:github/jenkinsci/weblogic-deployer-plugin",
+      "pkg:github/jenkinsci/description-column-plugin",
+      "pkg:github/noirbizarre/description-column",
+      "pkg:github/jenkinsci/diawi-upload-plugin",
+      "pkg:github/msldn/jenkins-diawi-plugin",
+      "pkg:github/jenkinsci/digitalocean-plugin",
+      "pkg:github/jenkinsci/dingtalk-plugin",
+      "pkg:github/jenkinsci/dingding-json-pusher-plugin",
+      "pkg:github/jenkinsci/distfork-plugin",
+      "pkg:github/jenkinsci/docker-plugin",
+      "pkg:github/jenkinsci/docker-build-step-plugin",
+      "pkg:github/jenkinsci/docker-commons-plugin",
+      "pkg:github/jenkinsci/docker-swarm-plugin",
+      "pkg:github/jenkinsci/doktor-plugin",
+      "pkg:github/madhead/doktor",
+      "pkg:github/groupon/dotci",
+      "pkg:github/jenkinsci/dotci",
+      "pkg:github/jenkinsci/dry-plugin",
+      "pkg:github/jenkinsci/dynamic-extended-choice-parameter-plugin",
+      "pkg:github/jenkinsci/dynatrace-plugin",
+      "pkg:github/jenkinsci/eagle-tester-plugin",
+      "pkg:github/batmat/easyqa_jenkins_plugin",
+      "pkg:github/jenkinsci/easyqa-plugin",
+      "pkg:github/jenkinsci/echarts-api-plugin",
+      "pkg:github/jenkinsci/catalogic-ecx-plugin",
+      "pkg:github/jenkinsci/eggplant-plugin",
+      "pkg:github/jenkinsci/eggplant-runner-plugin",
+      "pkg:github/jenkinsci/eiffel-broadcaster-plugin",
+      "pkg:github/elastest/elastest-jenkins",
+      "pkg:github/jenkinsci/elastest-plugin",
+      "pkg:github/jenkinsci/elasticbox-plugin",
+      "pkg:github/jenkinsci/elasticsearch-query-plugin",
+      "pkg:github/mikee805/elasticsearch-query-plugin",
+      "pkg:github/jenkinsci/eloyente-plugin",
+      "pkg:github/vanderhallenf/eloyente",
+      "pkg:github/jenkinsci/email-ext-plugin",
+      "pkg:github/jenkinsci/emailext-template-plugin",
+      "pkg:github/jenkinsci/embeddable-build-status-plugin",
+      "pkg:github/jenkinsci/environment-dashboard-plugin",
+      "pkg:github/jenkinsci/extended-choice-parameter-plugin",
+      "pkg:github/jenkinsci/extensible-choice-parameter-plugin",
+      "pkg:github/jenkinsci/extensivetesting-plugin",
+      "pkg:github/jenkinsci/external-monitor-job-plugin",
+      "pkg:github/fredg02/extra-columns-plugin",
+      "pkg:github/jenkinsci/extra-columns-plugin",
+      "pkg:github/jenkinsci/extreme-feedback-plugin",
+      "pkg:github/switchgears/extreme-feedback-plugin",
+      "pkg:github/jenkinsci/xfpanel-plugin",
+      "pkg:github/jenkinsci/fabric-beta-publisher-plugin",
+      "pkg:github/jenkinsci/failedjobdeactivator-plugin",
+      "pkg:github/jochen-a-fuerbacher/failedjobdeactivator",
+      "pkg:github/jenkinsci/favorite-plugin",
+      "pkg:github/jenkinsci/favorite-view-plugin",
+      "pkg:github/jenkinsci/filesystem-list-parameter-plugin",
+      "pkg:github/jenkinsci/fstrigger-plugin",
+      "pkg:github/jenkinsci/files-found-trigger-plugin",
+      "pkg:github/jenkinsci/filesystem-scm-plugin",
+      "pkg:github/jenkinsci/findbugs-plugin",
+      "pkg:github/jenkinsci/fitnesse-plugin",
+      "pkg:github/jenkinsci/flaky-test-handler-plugin",
+      "pkg:github/jenkinsci/fogbugz-plugin",
+      "pkg:github/jenkinsci/folder-auth-plugin",
+      "pkg:github/jenkinsci/fortify-plugin",
+      "pkg:github/jenkinsci/fortify-cloudscan-plugin",
+      "pkg:github/jenkinsci/fortify-on-demand-uploader-plugin",
+      "pkg:github/jenkinsci/frugal-testing-plugin",
+      "pkg:github/jenkinsci/ftppublisher-plugin",
+      "pkg:github/blemale/gatling-jenkins-plugin",
+      "pkg:github/jenkinsci/gatling-plugin",
+      "pkg:github/jenkinsci/gearman-plugin",
+      "pkg:github/arangamani/gem-publisher-jenkins",
+      "pkg:github/jenkinsci/gem-publisher-plugin",
+      "pkg:github/jenkinsci/generic-webhook-trigger-plugin",
+      "pkg:github/jenkinsci/gerrit-trigger-plugin",
+      "pkg:github/jenkinsci/git-plugin",
+      "pkg:maven/org.jenkins-ci.plugins/git",
+      "pkg:github/jenkinsci/gitbucket-plugin",
+      "pkg:github/jenkinsci/github-plugin",
+      "pkg:github/jenkinsci/github-oauth-plugin",
+      "pkg:github/jenkinsci/github-branch-source-plugin",
+      "pkg:github/jenkinsci/github-coverage-reporter-plugin",
+      "pkg:github/jenkinsci/ghprb-plugin",
+      "pkg:github/jenkinsci/github-pr-coverage-status-plugin",
+      "pkg:github/jenkinsci/gitlab-plugin",
+      "pkg:github/jenkinsci/gitlab-oauth-plugin",
+      "pkg:github/jenkinsci/gitlab-hook-plugin",
+      "pkg:github/jenkinsci/gitlab-logo-plugin",
+      "pkg:github/jenkinsci/git-changelog-plugin",
+      "pkg:github/jenkinsci/git-client-plugin",
+      "pkg:github/jenkinsci/git-parameter-plugin",
+      "pkg:github/lukanus/git-parameter",
+      "pkg:github/jenkinsci/git-server-plugin",
+      "pkg:github/jenkinsci/global-build-stats-plugin",
+      "pkg:github/jenkinsci/global-post-script-plugin",
+      "pkg:github/jenkinsci/global-variable-string-parameter-plugin",
+      "pkg:github/pmaccamp/global-variable-string-parameter",
+      "pkg:github/jenkinsci/gogs-webhook-plugin",
+      "pkg:github/jenkinsci/google-play-android-publisher-plugin",
+      "pkg:github/jenkinsci/gcal-plugin",
+      "pkg:github/astroilov/google-persistent-master-plugin",
+      "pkg:github/jenkinsci/google-cloud-backup-plugin",
+      "pkg:github/jenkinsci/google-compute-engine-plugin",
+      "pkg:github/jenkinsci/google-kubernetes-engine-plugin",
+      "pkg:github/jenkinsci/google-login-plugin",
+      "pkg:github/jenkinsci/google-oauth-plugin",
+      "pkg:github/jenkinsci/gradle-plugin",
+      "pkg:github/jenkinsci/groovy-plugin",
+      "pkg:github/jenkinsci/groovy-postbuild-plugin",
+      "pkg:github/jenkinsci/harvest-plugin",
+      "pkg:github/jenkinsci/hashicorp-vault-plugin",
+      "pkg:github/jenkinsci/cloudbees-jenkins-advisor-plugin",
+      "pkg:github/jenkinsci/hidden-parameter-plugin",
+      "pkg:github/wy-scm/hidden-parameter-plugin",
+      "pkg:github/jenkinsci/hockeyapp-plugin",
+      "pkg:github/jenkinsci/hpe-network-virtualization-plugin",
+      "pkg:github/jenkinsci/htmlpublisher-plugin",
+      "pkg:github/jenkinsci/htmlresource-plugin",
+      "pkg:github/jenkinsci/http-request-plugin",
+      "pkg:github/hyperhq/hyper-commons-plugin",
+      "pkg:github/jenkinsci/hyper-commons-plugin",
+      "pkg:github/jenkinsci/appscan-plugin",
+      "pkg:github/jenkinsci/ibm-cloud-devops-plugin",
+      "pkg:github/jenkinsci/icescrum-plugin",
+      "pkg:github/jenkinsci/ifttt-build-notifier-plugin",
+      "pkg:github/biouno/image-gallery-plugin",
+      "pkg:github/jenkinsci/image-gallery-plugin",
+      "pkg:github/jenkinsci/image-tag-parameter-plugin",
+      "pkg:github/maduma/image-tag-parameter-jenkins",
+      "pkg:github/jenkinsci/implied-labels-plugin",
+      "pkg:github/javidgon/jenkins-appconnect",
+      "pkg:github/jenkinsci/incapptic-connect-uploader-plugin",
+      "pkg:github/jenkinsci/inedo-buildmaster-plugin",
+      "pkg:github/jenkinsci/inedo-proget-plugin",
+      "pkg:github/i-m-c/jenkins-inheritance-plugin",
+      "pkg:github/jenkinsci/plugin-installation-manager-tool",
+      "pkg:github/jenkinsci/instant-messaging-plugin",
+      "pkg:github/jenkinsci/ircbot-plugin",
+      "pkg:github/jenkinsci/ivy-plugin",
+      "pkg:github/jenkinsci/jabber-server-plugin",
+      "pkg:github/jenkinsci/japex-plugin",
+      "pkg:github/jenkinsci/jclouds-plugin",
+      "pkg:github/jenkinsci/jdepend-plugin",
+      "pkg:github/jenkinsci/jdk_parameter_plugin-plugin",
+      "pkg:docker/jenkins/jenkins",
+      "pkg:github/jenkinsci/jenkins",
+      "pkg:github/jenkinsci/jenkins-cloudformation-plugin",
+      "pkg:github/vmware-archive/jenkins-reviewbot",
+      "pkg:github/jenkinsci/jianliao-plugin",
+      "pkg:github/nlmartian/jenkins-jianliao-plugin",
+      "pkg:github/jenkinsci/jigomerge-plugin",
+      "pkg:github/vberetti/jigomerge-jenkins-plugin",
+      "pkg:github/jenkinsci/jira-plugin",
+      "pkg:github/jenkinsci/jira-ext-plugin",
+      "pkg:github/jenkinsci/jiratestresultreporter-plugin",
+      "pkg:github/maplesteve/jiratestresultreporter",
+      "pkg:github/jenkinsci/jira-issue-updater-plugin",
+      "pkg:github/jenkinsci/jira-steps-plugin",
+      "pkg:github/jenkinsci/jms-messaging-plugin",
+      "pkg:github/jenkinsci/ownership-plugin",
+      "pkg:github/jenkinsci/job-config-history-plugin",
+      "pkg:github/jenkinsci/job-dsl-plugin",
+      "pkg:github/jenkinsci/jobgenerator-plugin",
+      "pkg:github/syl20bnr/jobgenerator-jenkins",
+      "pkg:github/jenkinsci/job-import-plugin",
+      "pkg:github/jenkinsci/jsgames-plugin",
+      "pkg:github/jenkinsci/junit-plugin",
+      "pkg:github/jenkinsci/jx-resources-plugin",
+      "pkg:github/jenkinsci/kanboard-plugin",
+      "pkg:github/jenkinsci/katalon-plugin",
+      "pkg:github/jenkinsci/keycloak-plugin",
+      "pkg:github/jenkinsci/kiuwan-plugin",
+      "pkg:github/jenkinsci/klaros-testmanagement-plugin",
+      "pkg:github/jenkinsci/klocwork-plugin",
+      "pkg:github/jenkinsci/kmap-plugin",
+      "pkg:github/jenkinsci/koji-plugin",
+      "pkg:github/jenkinsci/kryptowire-plugin",
+      "pkg:github/jenkinsci/kubernetes-plugin",
+      "pkg:github/jenkinsci/kubernetes-ci-plugin",
+      "pkg:github/jenkinsci/kubernetes-credentials-provider-plugin",
+      "pkg:github/jenkinsci/kubernetes-pipeline-plugin",
+      "pkg:github/jenkinsci/lambdatest-automation-plugin",
+      "pkg:github/jenkinsci/ldapemail-plugin",
+      "pkg:github/jenkinsci/libvirt-slave-plugin",
+      "pkg:github/jenkinsci/link-column-plugin",
+      "pkg:github/jenkinsci/liquibase-runner-plugin",
+      "pkg:github/prospero238/liquibase-runner",
+      "pkg:github/jenkinsci/list-git-branches-parameter-plugin",
+      "pkg:github/jenkinsci/literate-plugin",
+      "pkg:github/jenkinsci/loaderio-plugin",
+      "pkg:github/sendgridlabs/loaderio-jenkins-plugin",
+      "pkg:github/jenkinsci/lockable-resources-plugin",
+      "pkg:github/jenkinsci/locked-files-report-plugin",
+      "pkg:github/jenkinsci/logstash-plugin",
+      "pkg:github/jenkinsci/log-command-plugin",
+      "pkg:github/jenkinsci/log-parser-plugin",
+      "pkg:github/jenkinsci/lucene-search-plugin",
+      "pkg:github/jenkinsci/m2release-plugin",
+      "pkg:github/jenkinsci/mabl-integration-plugin",
+      "pkg:github/jenkinsci/mac-plugin",
+      "pkg:github/jenkinsci/mailer-plugin",
+      "pkg:github/jenkinsci/mail-commander-plugin",
+      "pkg:github/sikakura/mailcommander",
+      "pkg:github/jenkinsci/mantis-plugin",
+      "pkg:github/jenkinsci/markdown-formatter-plugin",
+      "pkg:github/jenkinsci/mashup-portlets-plugin",
+      "pkg:github/jenkinsci/mask-passwords-plugin",
+      "pkg:github/jenkinsci/mathworks-polyspace-plugin",
+      "pkg:github/mathworks/jenkins-matlab-plugin",
+      "pkg:github/jenkinsci/matrix-auth-plugin",
+      "pkg:github/jenkinsci/matrix-project-plugin",
+      "pkg:github/jenkinsci/matrix-reloaded-plugin",
+      "pkg:github/praqma/matrix-reloaded-plugin",
+      "pkg:github/jenkinsci/mattermost-plugin",
+      "pkg:github/kuleuven/jenkins-mattermost-plugin",
+      "pkg:github/jenkinsci/maven-plugin",
+      "pkg:github/jenkinsci/maven-metadata-plugin",
+      "pkg:github/markov/jenkins-maven-metadata-plugin",
+      "pkg:github/jenkinsci/maven-repository-plugin",
+      "pkg:github/jenkinsci/meliora-testlab-plugin",
+      "pkg:github/jenkinsci/mercurial-plugin",
+      "pkg:github/jenkinsci/metrics-plugin",
+      "pkg:github/jenkinsci/minio-storage-plugin",
+      "pkg:github/minio/minio-jenkins",
+      "pkg:github/jenkinsci/mission-control-view-plugin",
+      "pkg:github/jenkinsci/mongodb-plugin",
+      "pkg:github/kiy0taka/mongodb-plugin",
+      "pkg:github/jenkinsci/monitor-remote-job-plugin",
+      "pkg:github/jenkinsci/monitoring-plugin",
+      "pkg:github/jenkinsci/mq-notifier-plugin",
+      "pkg:github/jenkinsci/mstest-plugin",
+      "pkg:github/jenkinsci/multibranch-scan-webhook-trigger-plugin",
+      "pkg:github/jenkinsci/tikal-multijob-plugin",
+      "pkg:maven/org.hudsonci.plugins/jenkins-multijob-plugin",
+      "pkg:github/jenkinsci/naginator-plugin",
+      "pkg:github/jenkinsci/neoload-plugin",
+      "pkg:github/deepshiftlabs/nerrvana-plugin-for-jenkins-ci",
+      "pkg:github/jenkinsci/nerrvana-plugin",
+      "pkg:github/jenkinsci/nested-view-plugin",
+      "pkg:github/jenkinsci/netsparker-cloud-scan-plugin",
+      "pkg:github/jenkinsci/neuvector-vulnerability-scanner-plugin",
+      "pkg:github/jenkinsci/nexus-platform-plugin",
+      "pkg:github/jenkinsci/nodejs-plugin",
+      "pkg:github/jenkinsci/nodelabelparameter-plugin",
+      "pkg:github/iverberk/jenkins-nomad",
+      "pkg:github/jenkinsci/nomad-plugin",
+      "pkg:github/jenkinsci/nouvola-divecloud-plugin",
+      "pkg:github/jenkinsci/cavisson-ns-nd-integration-plugin",
+      "pkg:github/shanexpert/cavisson-ns-nd-integration-plugin",
+      "pkg:github/baritonehands/jenkinsnuget",
+      "pkg:github/jenkinsci/nuget-plugin",
+      "pkg:github/jenkinsci/nunit-plugin",
+      "pkg:github/jenkinsci/octopusdeploy-plugin",
+      "pkg:github/octopusdeploy/octopus-jenkins-plugin",
+      "pkg:github/jenkinsci/zap-plugin",
+      "pkg:github/jenkinsci/ontrack-plugin",
+      "pkg:github/jenkinsci/openid-plugin",
+      "pkg:github/jenkinsci/oic-auth-plugin",
+      "pkg:github/jenkinsci/oidc-provider-plugin",
+      "pkg:github/jenkinsci/openshift-deployer-plugin",
+      "pkg:github/jenkinsci/openshift-login-plugin",
+      "pkg:github/jenkinsci/openshift-pipeline-plugin",
+      "pkg:github/jenkinsci/openstack-cloud-plugin",
+      "pkg:github/jenkinsci/openstack-heat-plugin",
+      "pkg:github/jenkinsci/opentelemetry-plugin",
+      "pkg:github/jenkinsci/open-stf-plugin",
+      "pkg:github/justice3120/open-stf-plugin",
+      "pkg:github/jenkinsci/opsgenie-plugin",
+      "pkg:github/opsgenie/opsgenie-jenkins-plugin",
+      "pkg:github/jenkinsci/oracle-cloud-infrastructure-compute-classic-plugin",
+      "pkg:github/oracle/oci-compute-classic-jenkins-plugin",
+      "pkg:github/jenkinsci/macstadium-orka-plugin",
+      "pkg:github/jenkinsci/dependency-check-plugin",
+      "pkg:github/jenkinsci/dependency-track-plugin",
+      "pkg:github/jenkinsci/p4-plugin",
+      "pkg:github/jenkinsci/paaslane-plugin",
+      "pkg:github/jenkinsci/packageversion-plugin",
+      "pkg:github/jenkinsci/parameterized-remote-trigger-plugin",
+      "pkg:github/morficus/parameterized-remote-trigger-plugin",
+      "pkg:github/jenkinsci/parameterized-trigger-plugin",
+      "pkg:github/jenkinsci/environment-manager-tools-plugin",
+      "pkg:github/jenkinsci/parasoft-findings-plugin",
+      "pkg:github/jenkinsci/pegdown-formatter-plugin",
+      "pkg:github/jenkinsci/perfecto-plugin",
+      "pkg:github/jenkinsci/perfectomobile-plugin",
+      "pkg:github/jenkinsci/perforce-plugin",
+      "pkg:github/jenkinsci/performance-plugin",
+      "pkg:github/jenkinsci/periodicbackup-plugin",
+      "pkg:github/jenkinsci/persona-plugin",
+      "pkg:github/jenkinsci/pipeline-aggregator-view-plugin",
+      "pkg:github/jenkinsci/pipeline-classpath-step-plugin",
+      "pkg:github/jenkinsci/pipeline-githubnotify-step-plugin",
+      "pkg:github/jenkinsci/pipeline-maven-plugin",
+      "pkg:github/jenkinsci/workflow-durable-task-step-plugin",
+      "pkg:github/jenkinsci/workflow-remote-loader-plugin",
+      "pkg:github/jenkinsci/pipeline-restful-api-plugin",
+      "pkg:github/jenkinsci/workflow-support-plugin",
+      "pkg:github/jenkinsci/pipeline-utility-steps-plugin",
+      "pkg:github/jenkinsci/plain-credentials-plugin",
+      "pkg:github/ikeike443/hudsonpluginforplay",
+      "pkg:github/jenkinsci/play-plugin",
+      "pkg:github/jenkinsci/plot-plugin",
+      "pkg:github/jenkinsci/pam-auth-plugin",
+      "pkg:github/jenkinsci/pmd-plugin",
+      "pkg:github/jenkinsci/pollscm-plugin",
+      "pkg:github/jenkinsci/pom2config-plugin",
+      "pkg:github/jenkinsci/port-allocator-plugin",
+      "pkg:github/jenkinsci/promoted-builds-plugin",
+      "pkg:github/jenkinsci/proxmox-plugin",
+      "pkg:github/jenkinsci/prqa-plugin",
+      "pkg:github/jenkinsci/publish-over-cifs-plugin",
+      "pkg:github/bap2000/jenkins-publish-over-ftp-plugin",
+      "pkg:github/jenkinsci/publish-over-ftp-plugin",
+      "pkg:github/jenkinsci/publish-over-ssh-plugin",
+      "pkg:maven/org.jenkins-ci.plugins/publish-over-ssh",
+      "pkg:github/jenkinsci/publish-to-bitbucket-plugin",
+      "pkg:github/jenkinsci/puppet-enterprise-pipeline-plugin",
+      "pkg:github/puppetlabs/jenkins-pipeline-puppet-enterprise-plugin",
+      "pkg:github/jenkinsci/pwauth-plugin",
+      "pkg:github/jenkinsci/qmetry-test-management-plugin",
+      "pkg:github/jenkinsci/quality-gates-plugin",
+      "pkg:github/jenkinsci/qualys-was-plugin",
+      "pkg:github/jenkinsci/quayio-trigger-plugin",
+      "pkg:github/jenkinsci/queue-cleanup-plugin",
+      "pkg:github/jenkinsci/rabbitmq-consumer-plugin",
+      "pkg:github/jenkinsci/radargun-plugin",
+      "pkg:github/jenkinsci/radiatorview-plugin",
+      "pkg:github/jenkinsci/random-string-parameter-plugin",
+      "pkg:github/jenkinsci/rapiddeploy-plugin",
+      "pkg:github/midvision/rapiddeploy-jenkins",
+      "pkg:github/jenkinsci/readonly-parameter-plugin",
+      "pkg:github/jenkinsci/rebuild-plugin",
+      "pkg:github/jenkinsci/recipe-plugin",
+      "pkg:github/jasoncrease/redgatesqlci",
+      "pkg:github/jenkinsci/redgate-sql-ci-plugin",
+      "pkg:github/jenkinsci/pipeline-reporter-by-redpen-plugin",
+      "pkg:github/jenkinsci/redhat-dependency-analytics-plugin",
+      "pkg:github/jenkinsci/release-plugin",
+      "pkg:github/inspectit-labs/release-plugin",
+      "pkg:github/jenkinsci/release-helper-plugin",
+      "pkg:github/jenkinsci/relution-publisher-plugin",
+      "pkg:github/bklarson/jenkins-repo-plugin",
+      "pkg:github/jenkinsci/repo-plugin",
+      "pkg:github/jenkinsci/report-info-plugin",
+      "pkg:github/reportportal/plugin-jenkins",
+      "pkg:github/jenkinsci/repository-connector-plugin",
+      "pkg:github/jenkinsci/requests-plugin",
+      "pkg:github/jenkinsci/rrod-plugin",
+      "pkg:github/jenkinsci/resource-disposer-plugin",
+      "pkg:github/jenkinsci/rest-list-parameter-plugin",
+      "pkg:github/jenkinsci/reverse-proxy-auth-plugin",
+      "pkg:github/jenkinsci/rhnpush-plugin",
+      "pkg:github/jenkinsci/rich-text-publisher-plugin",
+      "pkg:github/masterhard/rich-text-publisher-plugin",
+      "pkg:github/jenkinsci/robot-plugin",
+      "pkg:github/baloise/rocket-chat-notifier",
+      "pkg:github/jenkinsci/rocketchatnotifier-plugin",
+      "pkg:github/jenkinsci/role-strategy-plugin",
+      "pkg:github/jenkinsci/rpmsign-plugin",
+      "pkg:github/jenkinsci/rqm-plugin",
+      "pkg:github/praqma/rqm-plugin",
+      "pkg:github/jenkinsci/rundeck-plugin",
+      "pkg:github/jenkins-rundeck-plugin",
+      "pkg:github/jenkinsci/s3explorer-plugin",
+      "pkg:github/d6y/hudson-s3",
+      "pkg:github/dougm/hudson-s3",
+      "pkg:github/jenkinsci/s3-plugin",
+      "pkg:github/jenkinsci/saltstack-plugin",
+      "pkg:github/jenkinsci/sametime-plugin",
+      "pkg:github/jenkinsci/saml-plugin",
+      "pkg:github/jenkinsci/sauce-ondemand-plugin",
+      "pkg:github/jenkinsci/scm-httpclient-plugin",
+      "pkg:github/jenkinsci/scp-plugin",
+      "pkg:github/jenkinsci/screenrecorder-plugin",
+      "pkg:github/jenkinsci/scriptler-plugin",
+      "pkg:github/jenkinsci/script-security-plugin",
+      "pkg:rpm/fedora/jenkins-script-security-plugin",
+      "pkg:github/jenkinsci/sctmexecutor-plugin",
+      "pkg:github/jenkinsci/security-inspector-plugin",
+      "pkg:github/jenkinsci/selection-tasks-plugin",
+      "pkg:github/jenkinsci/selenium-plugin",
+      "pkg:github/jenkinsci/seleniumhtmlreport-plugin",
+      "pkg:github/jenkinsci/swarm-plugin",
+      "pkg:github/jenkinsci/semantic-versioning-plugin",
+      "pkg:github/jenkinsci/sensedia-api-platform-plugin",
+      "pkg:github/jenkinsci/sra-deploy-plugin",
+      "pkg:github/jenkinsci/servicenow-devops-plugin",
+      "pkg:maven/io.jenkins.plugins/servicenow-devops",
+      "pkg:github/jenkinsci/shared-objects-plugin",
+      "pkg:github/jenkinsci/shelve-project-plugin",
+      "pkg:github/jenkinsci/shortcut-job-plugin",
+      "pkg:github/jenkinsci/sidebar-link-plugin",
+      "pkg:github/jenkinsci/simple-travis-runner-plugin",
+      "pkg:github/jenkinsci/sitemonitor-plugin",
+      "pkg:github/jenkinsci/skype-im-plugin",
+      "pkg:github/jenkinsci/skytap-cloud-plugin",
+      "pkg:github/jenkinsci/slack-plugin",
+      "pkg:github/jenkinsci/slack-uploader-plugin",
+      "pkg:github/masterlittle/slackuploader",
+      "pkg:github/jenkinsci/smalltest-plugin",
+      "pkg:github/smalltesthq/smalltest-jenkins-plugin",
+      "pkg:github/duyvhh/jenkins-sms",
+      "pkg:github/jenkinsci/sms-plugin",
+      "pkg:github/jenkinsci/snowsoftware-commander-plugin",
+      "pkg:github/jenkinsci/soapui-pro-functional-testing-plugin",
+      "pkg:github/jenkinsci/cloudtest-plugin",
+      "pkg:github/jenkinsci/sofy-ai-plugin",
+      "pkg:github/jenkinsci/sonargraph-integration-plugin",
+      "pkg:github/aquarellian/sonar-gerrit-plugin",
+      "pkg:github/jenkinsci/sonar-gerrit-plugin",
+      "pkg:github/jenkinsci/sonar-quality-gates-plugin",
+      "pkg:github/jenkinsci/sounds-plugin",
+      "pkg:github/jenkinsci/vault-scm-plugin",
+      "pkg:github/rellu/vault-scm-plugin",
+      "pkg:github/jenkinsci/sourcemonitor-plugin",
+      "pkg:github/jenkinsci/scm-filter-jervis-plugin",
+      "pkg:github/jenkinsci/inflectra-spira-integration-plugin",
+      "pkg:github/jenkinsci/splunk-devops-plugin",
+      "pkg:github/splunk/splunkforjenkins",
+      "pkg:github/boaglio/jenkins-plugin-sqlplus-script-runner",
+      "pkg:github/jenkinsci/sqlplus-script-runner-plugin",
+      "pkg:github/jenkinsci/squashtm-publisher-plugin",
+      "pkg:github/jenkinsci/ssh-plugin",
+      "pkg:github/jenkinsci/ssh-agents-plugin",
+      "pkg:github/jenkinsci/ssh2easy-plugin",
+      "pkg:github/jenkinsci/ssh-agent-plugin",
+      "pkg:github/jenkinsci/ssh-credentials-plugin",
+      "pkg:github/jenkinsci/ssh-slaves-plugin",
+      "pkg:github/jenkinsci/stackhammer-plugin",
+      "pkg:github/jenkinsci/pipeline-stage-view-plugin",
+      "pkg:github/jenkinsci/starteam-plugin",
+      "pkg:github/jenkinsci/windocks-start-container-plugin",
+      "pkg:github/eernie/stashbranchparametersplugin",
+      "pkg:github/jenkinsci/stash-branch-parameters-plugin",
+      "pkg:github/proski/stash-branch-parameters-plugin",
+      "pkg:github/jenkinsci/analysis-core-plugin",
+      "pkg:github/jenkinsci/storable-configs-plugin",
+      "pkg:github/jenkinsci/structs-plugin",
+      "pkg:github/jenkinsci/subversion-plugin",
+      "pkg:github/igiannis/svn_partial_release_mgr",
+      "pkg:github/jenkinsci/svn-partial-release-mgr-plugin",
+      "pkg:github/jenkinsci/svn-release-mgr-plugin",
+      "pkg:github/jenkinsci/sumologic-publisher-plugin",
+      "pkg:github/jenkinsci/support-core-plugin",
+      "pkg:github/jenkinsci/swamp-plugin",
+      "pkg:github/mirswamp/swamp-jenkins-plugin",
+      "pkg:github/jenkinsci/blackduck-detect-plugin",
+      "pkg:github/jenkinsci/tap-plugin",
+      "pkg:github/kinow/tap-plugin",
+      "pkg:github/jenkinsci/teamconcert-plugin",
+      "pkg:github/jenkinsci/tfs-plugin",
+      "pkg:github/jenkinsci/team-views-plugin",
+      "pkg:github/boozallen/jenkins-templating-engine",
+      "pkg:github/jenkinsci/templating-engine-plugin",
+      "pkg:github/jenkinsci/testcomplete-plugin",
+      "pkg:github/jenkinsci/testfairy-plugin",
+      "pkg:github/testfairy/testfairy-jenkins-plugin",
+      "pkg:github/jenkinsci/testlink-plugin",
+      "pkg:github/jenkinsci/testng-plugin-plugin",
+      "pkg:github/jenkinsci/testquality-updater-plugin",
+      "pkg:github/jenkinsci/testsigma-plugin",
+      "pkg:github/jenkinsci/selected-tests-executor-plugin",
+      "pkg:github/tamar-camus/testexecuter",
+      "pkg:github/jenkinsci/test-results-aggregator-plugin",
+      "pkg:github/jenkinsci/themis-plugin",
+      "pkg:github/jenkinsci/threadfix-plugin",
+      "pkg:github/jenkinsci/thycotic-devops-secrets-vault-plugin",
+      "pkg:github/jenkinsci/thycotic-secret-server-plugin",
+      "pkg:github/jenkinsci/tics-plugin",
+      "pkg:github/jenkinsci/timestamper-plugin",
+      "pkg:github/jenkinsci/tinfoil-scan-plugin",
+      "pkg:github/jenkinsci/token-macro-plugin",
+      "pkg:github/jenkinsci/ecutest-plugin",
+      "pkg:github/jenkinsci/trac-publisher-plugin",
+      "pkg:github/jenkinsci/translation-plugin",
+      "pkg:github/jenkinsci/tuleap-oauth-plugin",
+      "pkg:github/jenkinsci/tuleap-git-branch-source-plugin",
+      "pkg:github/turboapps/jenkins",
+      "pkg:github/jenkinsci/twitter-plugin",
+      "pkg:github/jenkinsci/upload-pgyer-plugin",
+      "pkg:github/myroid/jenkins-upload-pgyer-plugin",
+      "pkg:github/jenkinsci/urltrigger-plugin",
+      "pkg:github/jenkinsci/usemango-runner-plugin",
+      "pkg:github/jenkinsci/user1st-utester-plugin",
+      "pkg:github/jenkinsci/vaddy-plugin",
+      "pkg:github/existence/valgrind-plugin",
+      "pkg:github/jenkinsci/valgrind-plugin",
+      "pkg:github/jenkinsci/validating-email-parameter-plugin",
+      "pkg:github/szcn/validating-email-parameter-plugin",
+      "pkg:github/jenkinsci/validating-string-parameter-plugin",
+      "pkg:github/jenkinsci/vboxwrapper-plugin",
+      "pkg:github/theirix/vboxwrapper-plugin",
+      "pkg:github/jenkinsci/veracode-scanner-plugin",
+      "pkg:github/mbockus/veracode-scanner",
+      "pkg:github/jenkinsci/application-director-plugin",
+      "pkg:github/jfullam/jenkins-application-director",
+      "pkg:github/jenkinsci/view-cloner-plugin",
+      "pkg:github/jenkinsci/view26-plugin",
+      "pkg:github/jenkinsci/violations-plugin",
+      "pkg:github/jenkinsci/violation-comments-to-gitlab-plugin",
+      "pkg:github/jenkinsci/visualexpert-plugin",
+      "pkg:github/jenkinsci/visualworks-store-plugin",
+      "pkg:github/randycoulman/visualworks-store-plugin",
+      "pkg:github/jenkinsci/labmanager-plugin",
+      "pkg:github/inkysea/vmware-vrealize-automation",
+      "pkg:github/jenkinsci/vmware-vrealize-automation-plugin",
+      "pkg:github/jenkinsci/vmware-vrealize-codestream-plugin",
+      "pkg:github/jenkinsci/vncrecorder-plugin",
+      "pkg:github/jenkinsci/vncviewer-plugin",
+      "pkg:github/agovindaraju/vmware-vrealize-orchestrator",
+      "pkg:github/jenkinsci/vmware-vrealize-orchestrator-plugin",
+      "pkg:github/jenkinsci/vsphere-cloud-plugin",
+      "pkg:github/jenkinsci/vsts-cd-plugin",
+      "pkg:github/jenkinsci/walldisplay-plugin",
+      "pkg:github/jenkinsci/walti-plugin",
+      "pkg:github/walti/walti-plugin",
+      "pkg:github/jenkinsci/warnings-plugin",
+      "pkg:github/jenkinsci/warnings-ng-plugin",
+      "pkg:github/jenkinsci/warrior-plugin",
+      "pkg:github/jenkinsci/websphere-deployer-plugin",
+      "pkg:github/jenkinsci/weibo-plugin",
+      "pkg:github/jiafu1115/weibo-plugin",
+      "pkg:github/jenkinsci/whitesource-plugin",
+      "pkg:github/dandillingham/wildfly-deployer-plugin",
+      "pkg:github/jenkinsci/wildfly-deployer-plugin",
+      "pkg:github/jenkinsci/windows-slaves-plugin",
+      "pkg:github/jenkinsci/ws-execution-manager-plugin",
+      "pkg:github/jenkinsci/xcode-plugin",
+      "pkg:github/rayh/xcode-hudson-plugin",
+      "pkg:github/jenkinsci/xldeploy-plugin",
+      "pkg:github/jenkinsci/xlrelease-plugin",
+      "pkg:github/jenkinsci/xltestview-plugin",
+      "pkg:github/jenkinsci/xooa-plugin",
+      "pkg:github/jenkinsci/xpdev-plugin",
+      "pkg:github/ffromm/xpath-config-viewer",
+      "pkg:github/jenkinsci/xpath-config-viewer-plugin",
+      "pkg:github/jenkinsci/xray-connector-plugin",
+      "pkg:github/jenkinsci/xunit-plugin",
+      "pkg:github/jenkinsci/yaml-axis-plugin",
+      "pkg:github/jenkinsci/yet-another-build-visualizer-plugin",
+      "pkg:github/jenkinsci/youtrack-plugin",
+      "pkg:github/jenkinsci/zanata-plugin",
+      "pkg:github/jenkinsci/zap-pipeline-plugin",
+      "pkg:github/uen/zap-jenkins-pipeline-plugin",
+      "pkg:github/jenkinsci/zephyr-enterprise-test-management-plugin",
+      "pkg:github/jenkinsci/zephyr-for-jira-test-management-plugin",
+      "pkg:github/jenkinsci/zulip-plugin",
+      "pkg:github/cloudbees/jenkins"
+    ],
+    "cpes": [
+      "cpe:2.3:a:jenkins:360_fireline",
+      "cpe:2.3:a:jenkins:absint_a3",
+      "cpe:2.3:a:jenkins:absint_astree",
+      "cpe:2.3:a:jenkins:accurev",
+      "cpe:2.3:a:jenkins:active_choices",
+      "cpe:2.3:a:jenkins:active_directory",
+      "cpe:2.3:a:jenkins:agent_server_parameter",
+      "cpe:2.3:a:jenkins:alauda_devops_pipeline",
+      "cpe:2.3:a:jenkins:alauda_kubernetes_support",
+      "cpe:2.3:a:jenkins:amazon_ec2",
+      "cpe:2.3:a:jenkins:amazon_sns_build_notifier",
+      "cpe:2.3:a:jenkins:amazon_web_services_serverless_application_model",
+      "cpe:2.3:a:jenkins:amazon_web_services_service_application_model",
+      "cpe:2.3:a:jenkins:anchorchain",
+      "cpe:2.3:a:jenkins:anchore_container_image_scanner",
+      "cpe:2.3:a:jenkins:android_lint",
+      "cpe:2.3:a:jenkins:android_signing",
+      "cpe:2.3:a:jenkins:ansible",
+      "cpe:2.3:a:jenkins:ansible_tower",
+      "cpe:2.3:a:jenkins:apica_loadtest",
+      "cpe:2.3:a:jenkins:appdynamics",
+      "cpe:2.3:a:jenkins:applatix",
+      "cpe:2.3:a:jenkins:application_detector",
+      "cpe:2.3:a:jenkins:applitools_eyes",
+      "cpe:2.3:a:jenkins:apprenda",
+      "cpe:2.3:a:jenkins:appspider",
+      "cpe:2.3:a:jenkins:aqua_microscanner",
+      "cpe:2.3:a:jenkins:aqua_security_scanner",
+      "cpe:2.3:a:jenkins:aqua_security_severless_scanner",
+      "cpe:2.3:a:jenkins:artifact_repository_parameter",
+      "cpe:2.3:a:jenkins:asakusasatellite",
+      "cpe:2.3:a:jenkins:assembla",
+      "cpe:2.3:a:jenkins:assembla_auth",
+      "cpe:2.3:a:jenkins:assembla_merge_request_builder",
+      "cpe:2.3:a:jenkins:associated_files",
+      "cpe:2.3:a:jenkins:audit_to_database",
+      "cpe:2.3:a:jenkins:audit_trail",
+      "cpe:2.3:a:jenkins:authorize_project",
+      "cpe:2.3:a:jenkins:autocomplete_parameter",
+      "cpe:2.3:a:jenkins:autonomiq",
+      "cpe:2.3:a:jenkins:avatar",
+      "cpe:2.3:a:jenkins:aws-device-farm",
+      "cpe:2.3:a:jenkins:awseb_deployment",
+      "cpe:2.3:a:jenkins:aws_cloudwatch_logs_publisher",
+      "cpe:2.3:a:jenkins:aws_codebuild",
+      "cpe:2.3:a:jenkins:aws_codecommit_trigger",
+      "cpe:2.3:a:jenkins:aws_codedeploy",
+      "cpe:2.3:a:jenkins:aws_codepipeline",
+      "cpe:2.3:a:jenkins:aws_elastic_beanstalk_publisher",
+      "cpe:2.3:a:jenkins:aws_global_configuration",
+      "cpe:2.3:a:jenkins:azure_ad",
+      "cpe:2.3:a:jenkins:azure_cli",
+      "cpe:2.3:a:jenkins:azure_container_service",
+      "cpe:2.3:a:jenkins:azure_event_grid_notifier",
+      "cpe:2.3:a:jenkins:azure_key_vault",
+      "cpe:2.3:a:jenkins:azure_publishersettings_credentials",
+      "cpe:2.3:a:jenkins:azure_vm_agents",
+      "cpe:2.3:a:jenkins:backlog",
+      "cpe:2.3:a:jenkins:badge",
+      "cpe:2.3:a:jenkins:bart",
+      "cpe:2.3:a:jenkins:batch_task",
+      "cpe:2.3:a:jenkins:bazaar",
+      "cpe:2.3:a:jenkins:beaker_builder",
+      "cpe:2.3:a:jenkins:bearychat",
+      "cpe:2.3:a:jenkins:benchmark_evaluator",
+      "cpe:2.3:a:jenkins:bigpanda_notifier",
+      "cpe:2.3:a:jenkins:bitbucket_approve",
+      "cpe:2.3:a:jenkins:bitbucket_branch_source",
+      "cpe:2.3:a:jenkins:bitbucket_oauth",
+      "cpe:2.3:a:jenkins:bitbucket_push_and_pull_request",
+      "cpe:2.3:a:jenkins:bitbucket_server_integration",
+      "cpe:2.3:a:jenkins:black_duck_hub",
+      "cpe:2.3:a:jenkins:blue_ocean",
+      "cpe:2.3:a:jenkins:bmc_release_package_and_deployment",
+      "cpe:2.3:a:jenkins:brakeman",
+      "cpe:2.3:a:jenkins:buckminster",
+      "cpe:2.3:a:jenkins:bugzilla",
+      "cpe:2.3:a:jenkins:bugzilla_plugin",
+      "cpe:2.3:a:jenkins:build-metrics",
+      "cpe:2.3:a:jenkins:build-publisher",
+      "cpe:2.3:a:jenkins:buildgraph-view",
+      "cpe:2.3:a:jenkins:build_environment",
+      "cpe:2.3:a:jenkins:build_failure_analyzer",
+      "cpe:2.3:a:jenkins:build_graph_view",
+      "cpe:2.3:a:jenkins:build_monitor_view",
+      "cpe:2.3:a:jenkins:build_notifications",
+      "cpe:2.3:a:jenkins:build_pipeline",
+      "cpe:2.3:a:jenkins:build_with_parameters",
+      "cpe:2.3:a:jenkins:bumblebee_hp_alm",
+      "cpe:2.3:a:jenkins:byteguard_build_actions",
+      "cpe:2.3:a:jenkins:cadence_vmanager",
+      "cpe:2.3:a:jenkins:caliper_ci",
+      "cpe:2.3:a:jenkins:call_remote_job",
+      "cpe:2.3:a:jenkins:cas",
+      "cpe:2.3:a:jenkins:cccc",
+      "cpe:2.3:a:jenkins:ccm",
+      "cpe:2.3:a:jenkins:checkmarx",
+      "cpe:2.3:a:jenkins:checkstyle",
+      "cpe:2.3:a:jenkins:chef_identity",
+      "cpe:2.3:a:jenkins:chef_sinatra",
+      "cpe:2.3:a:jenkins:chosen-views-tabbar",
+      "cpe:2.3:a:jenkins:cisco_spark",
+      "cpe:2.3:a:jenkins:claim",
+      "cpe:2.3:a:jenkins:clearcase_release",
+      "cpe:2.3:a:jenkins:clif_performance_testing",
+      "cpe:2.3:a:jenkins:cloudbees_aws_credentials",
+      "cpe:2.3:a:jenkins:cloudbees_cd",
+      "cpe:2.3:a:jenkins:cloudcoreo_deploytime",
+      "cpe:2.3:a:jenkins:cloudshare_docker-machine",
+      "cpe:2.3:a:jenkins:cloud_foundry",
+      "cpe:2.3:a:jenkins:cloud_infrastructure_compute",
+      "cpe:2.3:a:jenkins:cloud_statistics",
+      "cpe:2.3:a:jenkins:cluster_statistics",
+      "cpe:2.3:a:jenkins:cobertura",
+      "cpe:2.3:a:jenkins:codefresh_integration",
+      "cpe:2.3:a:jenkins:codescan",
+      "cpe:2.3:a:jenkins:code_coverage_api",
+      "cpe:2.3:a:jenkins:code_dx",
+      "cpe:2.3:a:jenkins:collabnet",
+      "cpe:2.3:a:jenkins:compact_columns",
+      "cpe:2.3:a:jenkins:computer_queue",
+      "cpe:2.3:a:jenkins:compuware_common_configuration",
+      "cpe:2.3:a:jenkins:compuware_ispw_operations",
+      "cpe:2.3:a:jenkins:compuware_strobe_measurement",
+      "cpe:2.3:a:jenkins:compuware_topaz_for_total_test",
+      "cpe:2.3:a:jenkins:compuware_topaz_utilities",
+      "cpe:2.3:a:jenkins:compuware_xpediter_code",
+      "cpe:2.3:a:jenkins:compuware_xpediter_code_coverage",
+      "cpe:2.3:a:jenkins:compuware_zadviser_api",
+      "cpe:2.3:a:jenkins:configuration_as_code",
+      "cpe:2.3:a:jenkins:configuration_slicing",
+      "cpe:2.3:a:jenkins:config_file_provider",
+      "cpe:2.3:a:jenkins:config_rotator",
+      "cpe:2.3:a:jenkins:confluence_publisher",
+      "cpe:2.3:a:jenkins:conjur_secrets",
+      "cpe:2.3:a:jenkins:cons3rt",
+      "cpe:2.3:a:jenkins:consul_kv_builder",
+      "cpe:2.3:a:jenkins:continuous_integration_with_toad_edge",
+      "cpe:2.3:a:jenkins:contrast_continuous_application_security",
+      "cpe:2.3:a:jenkins:convertigo_mobile_platform",
+      "cpe:2.3:a:jenkins:convert_to_pipeline",
+      "cpe:2.3:a:jenkins:copr",
+      "cpe:2.3:a:jenkins:copy_artifact",
+      "cpe:2.3:a:jenkins:copy_data_to_workspace",
+      "cpe:2.3:a:jenkins:copy_to_slave",
+      "cpe:2.3:a:jenkins:couchdb-statistics",
+      "cpe:2.3:a:jenkins:coverity",
+      "cpe:2.3:a:jenkins:cppcheck",
+      "cpe:2.3:a:jenkins:cppncss",
+      "cpe:2.3:a:jenkins:credentials",
+      "cpe:2.3:a:jenkins:credentials_binding",
+      "cpe:2.3:a:jenkins:crittercism-dsym",
+      "cpe:2.3:a:jenkins:crowd_integration",
+      "cpe:2.3:a:jenkins:crx_content_package_deployer",
+      "cpe:2.3:a:jenkins:cryptomove",
+      "cpe:2.3:a:jenkins:cucumber_living_documentation",
+      "cpe:2.3:a:jenkins:current_versions_systems",
+      "cpe:2.3:a:jenkins:curseforge_publisher",
+      "cpe:2.3:a:jenkins:custom_checkbox_parameter",
+      "cpe:2.3:a:jenkins:custom_job_icon",
+      "cpe:2.3:a:jenkins:cvs",
+      "cpe:2.3:a:jenkins:dashboard_view",
+      "cpe:2.3:a:jenkins:database",
+      "cpe:2.3:a:jenkins:datadog",
+      "cpe:2.3:a:jenkins:data_theorem_mobile_app_security",
+      "cpe:2.3:a:jenkins:date_parameter",
+      "cpe:2.3:a:jenkins:dbcharts",
+      "cpe:2.3:a:jenkins:debian_package_builder",
+      "cpe:2.3:a:jenkins:delete_log",
+      "cpe:2.3:a:jenkins:delivery_pipeline",
+      "cpe:2.3:a:jenkins:delphix",
+      "cpe:2.3:a:jenkins:dependency_graph_viewer",
+      "cpe:2.3:a:jenkins:deploy",
+      "cpe:2.3:a:jenkins:deployer_framework",
+      "cpe:2.3:a:jenkins:deployhub",
+      "cpe:2.3:a:jenkins:deployment_dashboard",
+      "cpe:2.3:a:jenkins:deploy_weblogic",
+      "cpe:2.3:a:jenkins:description_column",
+      "cpe:2.3:a:jenkins:diawi_upload",
+      "cpe:2.3:a:jenkins:digitalocean",
+      "cpe:2.3:a:jenkins:dingding",
+      "cpe:2.3:a:jenkins:dingding_json_pusher",
+      "cpe:2.3:a:jenkins:dingtalk",
+      "cpe:2.3:a:jenkins:distributed_fork",
+      "cpe:2.3:a:jenkins:docker",
+      "cpe:2.3:a:jenkins:docker-build-step",
+      "cpe:2.3:a:jenkins:docker_commons",
+      "cpe:2.3:a:jenkins:docker_swarm",
+      "cpe:2.3:a:jenkins:doktor",
+      "cpe:2.3:a:jenkins:dotci",
+      "cpe:2.3:a:jenkins:dry",
+      "cpe:2.3:a:jenkins:dynamic_extended_choice_parameter",
+      "cpe:2.3:a:jenkins:dynatrace_application_monitoring",
+      "cpe:2.3:a:jenkins:eagle_tester",
+      "cpe:2.3:a:jenkins:easyqa",
+      "cpe:2.3:a:jenkins:ec2",
+      "cpe:2.3:a:jenkins:echarts_api",
+      "cpe:2.3:a:jenkins:ecx_copy_data_management",
+      "cpe:2.3:a:jenkins:eggplant",
+      "cpe:2.3:a:jenkins:eggplant_runner",
+      "cpe:2.3:a:jenkins:eiffel_broadcaster",
+      "cpe:2.3:a:jenkins:elastest",
+      "cpe:2.3:a:jenkins:elasticbox_ci",
+      "cpe:2.3:a:jenkins:elasticsearch_query",
+      "cpe:2.3:a:jenkins:electricflow",
+      "cpe:2.3:a:jenkins:eloyente",
+      "cpe:2.3:a:jenkins:email_extension",
+      "cpe:2.3:a:jenkins:email_extension_template",
+      "cpe:2.3:a:jenkins:embeddable_build_status",
+      "cpe:2.3:a:jenkins:environment_dashboard",
+      "cpe:2.3:a:jenkins:extended_choice_parameter",
+      "cpe:2.3:a:jenkins:extensible_choice_parameter",
+      "cpe:2.3:a:jenkins:extensive_testing",
+      "cpe:2.3:a:jenkins:external_monitor_job_type",
+      "cpe:2.3:a:jenkins:extra_columns",
+      "cpe:2.3:a:jenkins:extreme-feedback",
+      "cpe:2.3:a:jenkins:extreme_feedback_panel",
+      "cpe:2.3:a:jenkins:fabric_beta_publisher",
+      "cpe:2.3:a:jenkins:failed_job_deactivator",
+      "cpe:2.3:a:jenkins:favorite",
+      "cpe:2.3:a:jenkins:favorite_plugin",
+      "cpe:2.3:a:jenkins:favorite_view",
+      "cpe:2.3:a:jenkins:filesystem_list_parameter",
+      "cpe:2.3:a:jenkins:filesystem_trigger",
+      "cpe:2.3:a:jenkins:files_found_trigger",
+      "cpe:2.3:a:jenkins:file_system_scm",
+      "cpe:2.3:a:jenkins:findbugs",
+      "cpe:2.3:a:jenkins:fitnesse",
+      "cpe:2.3:a:jenkins:flaky_test_handler",
+      "cpe:2.3:a:jenkins:fogbugz",
+      "cpe:2.3:a:jenkins:folder-based_authorization_strategy",
+      "cpe:2.3:a:jenkins:fortify",
+      "cpe:2.3:a:jenkins:fortify_cloudscan",
+      "cpe:2.3:a:jenkins:fortify_on_demand",
+      "cpe:2.3:a:jenkins:fortify_on_demand_uploader",
+      "cpe:2.3:a:jenkins:frugal_testing",
+      "cpe:2.3:a:jenkins:ftp_publisher",
+      "cpe:2.3:a:jenkins:gatling",
+      "cpe:2.3:a:jenkins:gearman",
+      "cpe:2.3:a:jenkins:gem_publisher",
+      "cpe:2.3:a:jenkins:generic_webhook_trigger",
+      "cpe:2.3:a:jenkins:gerrit_trigger",
+      "cpe:2.3:a:jenkins:git",
+      "cpe:2.3:a:jenkins:gitbucket",
+      "cpe:2.3:a:jenkins:github",
+      "cpe:2.3:a:jenkins:github_authentication",
+      "cpe:2.3:a:jenkins:github_branch_source",
+      "cpe:2.3:a:jenkins:github_coverage_reporter",
+      "cpe:2.3:a:jenkins:github_oauth",
+      "cpe:2.3:a:jenkins:github_pull_request_builder",
+      "cpe:2.3:a:jenkins:github_pull_request_coverage_status",
+      "cpe:2.3:a:jenkins:gitlab",
+      "cpe:2.3:a:jenkins:gitlab_authentication",
+      "cpe:2.3:a:jenkins:gitlab_hook",
+      "cpe:2.3:a:jenkins:gitlab_logo",
+      "cpe:2.3:a:jenkins:gitlab_oauth",
+      "cpe:2.3:a:jenkins:git_changelog",
+      "cpe:2.3:a:jenkins:git_client",
+      "cpe:2.3:a:jenkins:git_parameter",
+      "cpe:2.3:a:jenkins:git_server",
+      "cpe:2.3:a:jenkins:global-build-stats",
+      "cpe:2.3:a:jenkins:global_build_stats",
+      "cpe:2.3:a:jenkins:global_post_script",
+      "cpe:2.3:a:jenkins:global_variable_string_parameter",
+      "cpe:2.3:a:jenkins:gogs",
+      "cpe:2.3:a:jenkins:google-play-android-publisher",
+      "cpe:2.3:a:jenkins:google_calendar",
+      "cpe:2.3:a:jenkins:google_cloud_backup",
+      "cpe:2.3:a:jenkins:google_compute_engine",
+      "cpe:2.3:a:jenkins:google_kubernetes_engine",
+      "cpe:2.3:a:jenkins:google_login",
+      "cpe:2.3:a:jenkins:google_oauth_credentials",
+      "cpe:2.3:a:jenkins:gradle",
+      "cpe:2.3:a:jenkins:groovy",
+      "cpe:2.3:a:jenkins:groovy_postbuild",
+      "cpe:2.3:a:jenkins:harvest_scm",
+      "cpe:2.3:a:jenkins:hashicorp_vault",
+      "cpe:2.3:a:jenkins:health_advisor_by_cloudbees",
+      "cpe:2.3:a:jenkins:hidden_parameter",
+      "cpe:2.3:a:jenkins:hockeyapp",
+      "cpe:2.3:a:jenkins:hpe_network_virtualization",
+      "cpe:2.3:a:jenkins:html_publisher",
+      "cpe:2.3:a:jenkins:html_resource",
+      "cpe:2.3:a:jenkins:http_request",
+      "cpe:2.3:a:jenkins:hyper.sh_commons",
+      "cpe:2.3:a:jenkins:ibm_application_security_on_cloud",
+      "cpe:2.3:a:jenkins:ibm_cloud_devops",
+      "cpe:2.3:a:jenkins:icescrum",
+      "cpe:2.3:a:jenkins:ifttt_build_notifier",
+      "cpe:2.3:a:jenkins:image_gallery",
+      "cpe:2.3:a:jenkins:image_tag_parameter",
+      "cpe:2.3:a:jenkins:implied_labels",
+      "cpe:2.3:a:jenkins:incapptic_connect_uploader",
+      "cpe:2.3:a:jenkins:inedo_buildmaster",
+      "cpe:2.3:a:jenkins:inedo_proget",
+      "cpe:2.3:a:jenkins:inheritance-plugin",
+      "cpe:2.3:a:jenkins:installation_manager_tool",
+      "cpe:2.3:a:jenkins:instant-messaging",
+      "cpe:2.3:a:jenkins:irc",
+      "cpe:2.3:a:jenkins:ivy",
+      "cpe:2.3:a:jenkins:jabber_server",
+      "cpe:2.3:a:jenkins:japex",
+      "cpe:2.3:a:jenkins:jclouds",
+      "cpe:2.3:a:jenkins:jdepend",
+      "cpe:2.3:a:jenkins:jdk_parameter",
+      "cpe:2.3:a:jenkins:jenkins",
+      "cpe:2.3:a:jenkins:jenkins-cloudformation-plugin",
+      "cpe:2.3:a:jenkins:jenkins-reviewbot",
+      "cpe:2.3:a:jenkins:jianliao_notification",
+      "cpe:2.3:a:jenkins:jigomerge",
+      "cpe:2.3:a:jenkins:jira",
+      "cpe:2.3:a:jenkins:jira-ext",
+      "cpe:2.3:a:jenkins:jiratestresultreporter",
+      "cpe:2.3:a:jenkins:jira_issue_updater",
+      "cpe:2.3:a:jenkins:jira_pipeline_steps",
+      "cpe:2.3:a:jenkins:jms_messaging",
+      "cpe:2.3:a:jenkins:job_and_node_ownership",
+      "cpe:2.3:a:jenkins:job_configuration_history",
+      "cpe:2.3:a:jenkins:job_dsl",
+      "cpe:2.3:a:jenkins:job_generator",
+      "cpe:2.3:a:jenkins:job_import",
+      "cpe:2.3:a:jenkins:jsgames",
+      "cpe:2.3:a:jenkins:junit",
+      "cpe:2.3:a:jenkins:jx_resources",
+      "cpe:2.3:a:jenkins:kanboard",
+      "cpe:2.3:a:jenkins:katalon",
+      "cpe:2.3:a:jenkins:keycloak_authentication",
+      "cpe:2.3:a:jenkins:kiuwan",
+      "cpe:2.3:a:jenkins:kiuwanplugin",
+      "cpe:2.3:*:jenkins:kiuwanplugin",
+      "cpe:2.3:a:jenkins:klaros-testmanagement",
+      "cpe:2.3:a:jenkins:klocwork_analysis",
+      "cpe:2.3:a:jenkins:kmap",
+      "cpe:2.3:a:jenkins:koji",
+      "cpe:2.3:a:jenkins:kryptowire",
+      "cpe:2.3:a:jenkins:kubernetes",
+      "cpe:2.3:a:jenkins:kubernetes_ci",
+      "cpe:2.3:a:jenkins:kubernetes_credentials_provider",
+      "cpe:2.3:a:jenkins:kubernetes_pipeline",
+      "cpe:2.3:a:jenkins:lambdatest-automation",
+      "cpe:2.3:a:jenkins:ldap_email",
+      "cpe:2.3:a:jenkins:libvirt_agents",
+      "cpe:2.3:a:jenkins:libvirt_slaves",
+      "cpe:2.3:a:jenkins:link_column",
+      "cpe:2.3:a:jenkins:liquibase_runner",
+      "cpe:2.3:a:jenkins:list_git_branches_parameter",
+      "cpe:2.3:a:jenkins:literate",
+      "cpe:2.3:a:jenkins:loader.io",
+      "cpe:2.3:a:jenkins:lockable_resources",
+      "cpe:2.3:a:jenkins:locked_files_report",
+      "cpe:2.3:a:jenkins:logstash",
+      "cpe:2.3:a:jenkins:log_command",
+      "cpe:2.3:a:jenkins:log_parser",
+      "cpe:2.3:a:jenkins:lucene-search",
+      "cpe:2.3:a:jenkins:m2release",
+      "cpe:2.3:a:jenkins:m2_release",
+      "cpe:2.3:a:jenkins:mabl",
+      "cpe:2.3:a:jenkins:mac",
+      "cpe:2.3:a:jenkins:mailer",
+      "cpe:2.3:a:jenkins:mail_commander",
+      "cpe:2.3:a:jenkins:mantis",
+      "cpe:2.3:a:jenkins:markdown_formatter",
+      "cpe:2.3:a:jenkins:mashup_portlets",
+      "cpe:2.3:a:jenkins:mask_passwords",
+      "cpe:2.3:a:jenkins:mathworks_polyspace",
+      "cpe:2.3:a:jenkins:matlab",
+      "cpe:2.3:a:jenkins:matrix_authorization_strategy",
+      "cpe:2.3:a:jenkins:matrix_project",
+      "cpe:2.3:a:jenkins:matrix_reloaded",
+      "cpe:2.3:a:jenkins:mattermost",
+      "cpe:2.3:a:jenkins:mattermost_notification",
+      "cpe:2.3:a:jenkins:maven",
+      "cpe:2.3:a:jenkins:maven_metadata",
+      "cpe:2.3:a:jenkins:maven_repository_server",
+      "cpe:2.3:a:jenkins:meliora_testlab",
+      "cpe:2.3:a:jenkins:mercurial",
+      "cpe:2.3:a:jenkins:metrics",
+      "cpe:2.3:a:jenkins:minio_storage",
+      "cpe:2.3:a:jenkins:mission_control",
+      "cpe:2.3:a:jenkins:mongodb",
+      "cpe:2.3:a:jenkins:monitor-remote-job",
+      "cpe:2.3:a:jenkins:monitoring",
+      "cpe:2.3:a:jenkins:mq_notifier",
+      "cpe:2.3:a:jenkins:mstest",
+      "cpe:2.3:a:jenkins:multibranch_scan_webhook_trigger",
+      "cpe:2.3:a:jenkins:multijob",
+      "cpe:2.3:a:jenkins:naginator",
+      "cpe:2.3:a:jenkins:neoload",
+      "cpe:2.3:a:jenkins:nerrvana",
+      "cpe:2.3:a:jenkins:nested_view",
+      "cpe:2.3:a:jenkins:netsparker_cloud_scan",
+      "cpe:2.3:a:jenkins:neuvector_vulnerability_scanner",
+      "cpe:2.3:a:jenkins:nexus_platform",
+      "cpe:2.3:a:jenkins:nodejs",
+      "cpe:2.3:a:jenkins:node_and_label_parameter",
+      "cpe:2.3:a:jenkins:nomad",
+      "cpe:2.3:a:jenkins:nouvola_divecloud",
+      "cpe:2.3:a:jenkins:ns-nd_integration_performance_publisher",
+      "cpe:2.3:a:jenkins:nuget",
+      "cpe:2.3:a:jenkins:nunit",
+      "cpe:2.3:a:jenkins:octopusdeploy",
+      "cpe:2.3:a:jenkins:official_owasp_zap",
+      "cpe:2.3:a:jenkins:ontrack",
+      "cpe:2.3:a:jenkins:openid",
+      "cpe:2.3:a:jenkins:openid_connect_authentication",
+      "cpe:2.3:a:jenkins:openid_connect_provider",
+      "cpe:2.3:a:jenkins:openshift_deployer",
+      "cpe:2.3:a:jenkins:openshift_login",
+      "cpe:2.3:a:jenkins:openshift_pipeline",
+      "cpe:2.3:a:jenkins:openstack_cloud",
+      "cpe:2.3:a:jenkins:openstack_heat",
+      "cpe:2.3:a:jenkins:opentelemetry",
+      "cpe:2.3:a:jenkins:open_stf",
+      "cpe:2.3:a:jenkins:opsgenie",
+      "cpe:2.3:a:jenkins:oracle_cloud_infrastructure_compute_classic",
+      "cpe:2.3:a:jenkins:orka_by_macstadium",
+      "cpe:2.3:a:jenkins:owasp_dependency-check",
+      "cpe:2.3:a:jenkins:owasp_dependency-track",
+      "cpe:2.3:a:jenkins:p4",
+      "cpe:2.3:a:jenkins:paaslane_estimate",
+      "cpe:2.3:a:jenkins:package_version",
+      "cpe:2.3:a:jenkins:parameterized_remote_trigger",
+      "cpe:2.3:a:jenkins:parameterized_trigger",
+      "cpe:2.3:a:jenkins:parasoft_environment_manager",
+      "cpe:2.3:a:jenkins:parasoft_findings",
+      "cpe:2.3:a:jenkins:pegdown_formatter",
+      "cpe:2.3:a:jenkins:perfecto",
+      "cpe:2.3:a:jenkins:perfecto_mobile",
+      "cpe:2.3:a:jenkins:perforce",
+      "cpe:2.3:a:jenkins:performance",
+      "cpe:2.3:a:jenkins:periodic_backup",
+      "cpe:2.3:a:jenkins:persona",
+      "cpe:2.3:a:jenkins:pipeline_aggregator_view",
+      "cpe:2.3:a:jenkins:pipeline_classpath_step",
+      "cpe:2.3:a:jenkins:pipeline_github_notify_step",
+      "cpe:2.3:a:jenkins:pipeline_maven_integration",
+      "cpe:2.3:a:jenkins:pipeline_nodes_and_processes",
+      "cpe:2.3:a:jenkins:pipeline_remote_loader",
+      "cpe:2.3:a:jenkins:pipeline_restful_api",
+      "cpe:2.3:a:jenkins:pipeline_supporting_apis",
+      "cpe:2.3:a:jenkins:pipeline_utility_steps",
+      "cpe:2.3:a:jenkins:plain_credentials",
+      "cpe:2.3:a:jenkins:play_framework",
+      "cpe:2.3:a:jenkins:plot",
+      "cpe:2.3:a:jenkins:pluggable_authentication_module",
+      "cpe:2.3:a:jenkins:pmd",
+      "cpe:2.3:a:jenkins:poll_scm",
+      "cpe:2.3:a:jenkins:pom2config",
+      "cpe:2.3:a:jenkins:port_allocator",
+      "cpe:2.3:a:jenkins:project_inheritance",
+      "cpe:2.3:a:jenkins:promoted_builds",
+      "cpe:2.3:a:jenkins:proxmox",
+      "cpe:2.3:a:jenkins:prqa",
+      "cpe:2.3:a:jenkins:publish_over_cifs",
+      "cpe:2.3:a:jenkins:publish_over_ftp",
+      "cpe:2.3:a:jenkins:publish_over_ssh",
+      "cpe:2.3:a:jenkins:publish_to_bitbucket",
+      "cpe:2.3:a:jenkins:puppet_enterprise_pipeline",
+      "cpe:2.3:a:jenkins:pwauth_security_realm",
+      "cpe:2.3:a:jenkins:qmetry_test_management",
+      "cpe:2.3:a:jenkins:quality_gates",
+      "cpe:2.3:a:jenkins:qualys_web_app_scanning_connector",
+      "cpe:2.3:a:jenkins:quay.io_trigger",
+      "cpe:2.3:a:jenkins:queue_cleanup",
+      "cpe:2.3:a:jenkins:rabbitmq_consumer",
+      "cpe:2.3:a:jenkins:radargun",
+      "cpe:2.3:a:jenkins:radiator_view",
+      "cpe:2.3:a:jenkins:random_string_parameter",
+      "cpe:2.3:a:jenkins:rapiddeploy",
+      "cpe:2.3:a:jenkins:readonly_parameter",
+      "cpe:2.3:a:jenkins:rebuilder",
+      "cpe:2.3:a:jenkins:recipe",
+      "cpe:2.3:a:jenkins:redgate_sql_change_automation",
+      "cpe:2.3:a:jenkins:redpen_-_pipeline_reporter_for_jira",
+      "cpe:2.3:a:jenkins:red_hat_dependency_analytics",
+      "cpe:2.3:a:jenkins:release",
+      "cpe:2.3:a:jenkins:release_helper",
+      "cpe:2.3:a:jenkins:relution_enterprise_appstore_publisher",
+      "cpe:2.3:a:jenkins:repo",
+      "cpe:2.3:a:jenkins:report_info",
+      "cpe:2.3:a:jenkins:report_portal",
+      "cpe:2.3:a:jenkins:repository_connector",
+      "cpe:2.3:a:jenkins:requests",
+      "cpe:2.3:a:jenkins:request_rename_or_delete",
+      "cpe:2.3:a:jenkins:resource_disposer",
+      "cpe:2.3:a:jenkins:rest_list_parameter",
+      "cpe:2.3:a:jenkins:reverse_proxy_auth",
+      "cpe:2.3:a:jenkins:rhnpush-plugin",
+      "cpe:2.3:a:jenkins:rich_text_publisher",
+      "cpe:2.3:a:jenkins:robot_framework",
+      "cpe:2.3:a:jenkins:rocketchat_notifier",
+      "cpe:2.3:a:jenkins:role-based_authorization_strategy",
+      "cpe:2.3:a:jenkins:rpmsign-plugin",
+      "cpe:2.3:a:jenkins:rqm",
+      "cpe:2.3:a:jenkins:rundeck",
+      "cpe:2.3:a:jenkins:s3_explorer",
+      "cpe:2.3:a:jenkins:s3_publisher",
+      "cpe:2.3:a:jenkins:saltstack",
+      "cpe:2.3:a:jenkins:sametime",
+      "cpe:2.3:a:jenkins:saml",
+      "cpe:2.3:a:jenkins:sauce_ondemand",
+      "cpe:2.3:a:jenkins:scm_httpclient",
+      "cpe:2.3:a:jenkins:scp_publisher",
+      "cpe:2.3:a:jenkins:screenrecorder",
+      "cpe:2.3:a:jenkins:scriptler",
+      "cpe:2.3:a:jenkins:script_security",
+      "cpe:2.3:a:jenkins:sctmexecutor",
+      "cpe:2.3:a:jenkins:security_inspector",
+      "cpe:2.3:a:jenkins:selection_tasks",
+      "cpe:2.3:a:jenkins:selenium",
+      "cpe:2.3:a:jenkins:selenium_html_report",
+      "cpe:2.3:a:jenkins:self-organizing_swarm_modules",
+      "cpe:2.3:a:jenkins:semantic_versioning",
+      "cpe:2.3:a:jenkins:sensedia_api_platform_tools",
+      "cpe:2.3:a:jenkins:serena_sra_deploy",
+      "cpe:2.3:a:jenkins:servicenow_devops",
+      "cpe:2.3:a:jenkins:shared_objects",
+      "cpe:2.3:a:jenkins:shelve_project",
+      "cpe:2.3:a:jenkins:shortcut_job",
+      "cpe:2.3:a:jenkins:sidebar_link",
+      "cpe:2.3:a:jenkins:simple_travis_pipeline_runner",
+      "cpe:2.3:a:jenkins:sitemonitor",
+      "cpe:2.3:a:jenkins:skype_notifier",
+      "cpe:2.3:a:jenkins:skytap_cloud_ci",
+      "cpe:2.3:a:jenkins:slack",
+      "cpe:2.3:a:jenkins:slack_notification",
+      "cpe:2.3:a:jenkins:slack_upload",
+      "cpe:2.3:a:jenkins:smalltest",
+      "cpe:2.3:a:jenkins:sms_notification",
+      "cpe:2.3:a:jenkins:snow_commander",
+      "cpe:2.3:a:jenkins:soapui_pro_functional_testing",
+      "cpe:2.3:a:jenkins:soasta_cloudtest",
+      "cpe:2.3:a:jenkins:sofy.ai",
+      "cpe:2.3:a:jenkins:sonargraph_integration",
+      "cpe:2.3:a:jenkins:sonar_gerrit",
+      "cpe:2.3:a:jenkins:sonar_quality_gates",
+      "cpe:2.3:a:jenkins:sounds",
+      "cpe:2.3:a:jenkins:sourcegear_vault",
+      "cpe:2.3:a:jenkins:sourcemonitor",
+      "cpe:2.3:a:jenkins:source_code_management_filter_jervis",
+      "cpe:2.3:a:jenkins:spira_importer",
+      "cpe:2.3:a:jenkins:splunk",
+      "cpe:2.3:a:jenkins:sqlplus_script_runner",
+      "cpe:2.3:a:jenkins:squash_tm_publisher",
+      "cpe:2.3:a:jenkins:ssh",
+      "cpe:2.3:a:jenkins:ssh-agent",
+      "cpe:2.3:a:jenkins:ssh2_easy",
+      "cpe:2.3:a:jenkins:ssh_agent",
+      "cpe:2.3:a:jenkins:ssh_credentials",
+      "cpe:2.3:a:jenkins:ssh_slaves",
+      "cpe:2.3:a:jenkins:stack_hammer",
+      "cpe:2.3:a:jenkins:stage_view",
+      "cpe:2.3:a:jenkins:starteam",
+      "cpe:2.3:a:jenkins:start_windocks",
+      "cpe:2.3:a:jenkins:start_windocks_container",
+      "cpe:2.3:a:jenkins:stash_branch_parameter",
+      "cpe:2.3:a:jenkins:static_analysis_utilities",
+      "cpe:2.3:a:jenkins:statistics_gatherer",
+      "cpe:2.3:a:jenkins:storable_configs",
+      "cpe:2.3:a:jenkins:structs",
+      "cpe:2.3:a:jenkins:subversion",
+      "cpe:2.3:a:jenkins:subversion_partial_release_manager",
+      "cpe:2.3:a:jenkins:subversion_release_manager",
+      "cpe:2.3:a:jenkins:sumologic_publisher",
+      "cpe:2.3:a:jenkins:support_core",
+      "cpe:2.3:a:jenkins:swamp",
+      "cpe:2.3:a:jenkins:swarm",
+      "cpe:2.3:a:jenkins:synopsys_detect",
+      "cpe:2.3:a:jenkins:tap",
+      "cpe:2.3:a:jenkins:team_concert",
+      "cpe:2.3:a:jenkins:team_foundation_server",
+      "cpe:2.3:a:jenkins:team_views",
+      "cpe:2.3:a:jenkins:templating_engine",
+      "cpe:2.3:a:jenkins:testcomplete_support",
+      "cpe:2.3:a:jenkins:testfairy",
+      "cpe:2.3:a:jenkins:testlink",
+      "cpe:2.3:a:jenkins:testng_results",
+      "cpe:2.3:a:jenkins:testquality_updater",
+      "cpe:2.3:a:jenkins:testsigma_test_plan_run",
+      "cpe:2.3:a:jenkins:tests_selector",
+      "cpe:2.3:a:jenkins:test_results_aggregator",
+      "cpe:2.3:a:jenkins:themis",
+      "cpe:2.3:a:jenkins:threadfix",
+      "cpe:2.3:a:jenkins:thycotic_devops_secrets_vault",
+      "cpe:2.3:a:jenkins:thycotic_secret_server",
+      "cpe:2.3:a:jenkins:tics",
+      "cpe:2.3:a:jenkins:timestamper",
+      "cpe:2.3:a:jenkins:tinfoil_security",
+      "cpe:2.3:a:jenkins:token_macro",
+      "cpe:2.3:a:jenkins:tracetronic_ecu-test",
+      "cpe:2.3:a:jenkins:trac_publisher",
+      "cpe:2.3:a:jenkins:translation_assistance",
+      "cpe:2.3:a:jenkins:tuleap_authentication",
+      "cpe:2.3:a:jenkins:tuleap_git_branch_source",
+      "cpe:2.3:a:jenkins:turboscript",
+      "cpe:2.3:a:jenkins:twitter",
+      "cpe:2.3:a:jenkins:upload_to_pgyer",
+      "cpe:2.3:a:jenkins:urltrigger",
+      "cpe:2.3:a:jenkins:usemango_runner",
+      "cpe:2.3:a:jenkins:user1st_utester",
+      "cpe:2.3:a:jenkins:vaddy",
+      "cpe:2.3:a:jenkins:valgrind",
+      "cpe:2.3:a:jenkins:validating_email_parameter",
+      "cpe:2.3:a:jenkins:validating_string_parameter",
+      "cpe:2.3:a:jenkins:vboxwrapper",
+      "cpe:2.3:a:jenkins:veracode-scanner",
+      "cpe:2.3:a:jenkins:vfabric_application_director",
+      "cpe:2.3:a:jenkins:view-cloner",
+      "cpe:2.3:a:jenkins:view26_test-reporting",
+      "cpe:2.3:a:jenkins:violations",
+      "cpe:2.3:a:jenkins:violation_comments_to_gitlab",
+      "cpe:2.3:a:jenkins:visualexpert",
+      "cpe:2.3:a:jenkins:visualworks_store",
+      "cpe:2.3:a:jenkins:visual_expert",
+      "cpe:2.3:a:jenkins:vmware_lab_manager_slaves",
+      "cpe:2.3:a:jenkins:vmware_vrealize_automation",
+      "cpe:2.3:a:jenkins:vmware_vrealize_codestream",
+      "cpe:2.3:a:jenkins:vncrecorder",
+      "cpe:2.3:a:jenkins:vncviewer",
+      "cpe:2.3:a:jenkins:vrealize_orchestrator",
+      "cpe:2.3:a:jenkins:vsphere",
+      "cpe:2.3:a:jenkins:vs_team_services_continuous_deployment",
+      "cpe:2.3:a:jenkins:wall_display",
+      "cpe:2.3:a:jenkins:walti",
+      "cpe:2.3:a:jenkins:warnings",
+      "cpe:2.3:a:jenkins:warnings_next_generation",
+      "cpe:2.3:a:jenkins:warrior_framework",
+      "cpe:2.3:a:jenkins:websphere_deployer",
+      "cpe:2.3:a:jenkins:weibo",
+      "cpe:2.3:a:jenkins:white_source",
+      "cpe:2.3:a:jenkins:wildfly_deployer",
+      "cpe:2.3:a:jenkins:wmi_windows_agents",
+      "cpe:2.3:a:jenkins:worksoft_execution_manager",
+      "cpe:2.3:a:jenkins:xcode_integration",
+      "cpe:2.3:a:jenkins:xebialabs_xl_deploy",
+      "cpe:2.3:a:jenkins:xebialabs_xl_release",
+      "cpe:2.3:a:jenkins:xl_testview",
+      "cpe:2.3:a:jenkins:xl_testviews",
+      "cpe:2.3:a:jenkins:xooa",
+      "cpe:2.3:a:jenkins:xp-dev",
+      "cpe:2.3:a:jenkins:xpath_configuration_viewer",
+      "cpe:2.3:a:jenkins:xray_-_test_management_for_jira",
+      "cpe:2.3:a:jenkins:xunit",
+      "cpe:2.3:a:jenkins:yaml_axis",
+      "cpe:2.3:a:jenkins:yet_another_build_visualizer",
+      "cpe:2.3:a:jenkins:youtrack-plugin",
+      "cpe:2.3:a:jenkins:zanata",
+      "cpe:2.3:a:jenkins:zap_pipeline",
+      "cpe:2.3:a:jenkins:zephyr_enterprise_test_management",
+      "cpe:2.3:a:jenkins:zephyr_for_jira_test_management",
+      "cpe:2.3:a:jenkins:zulip",
+      "cpe:2.3:a:jenkins:_html_resource",
+      "cpe:2.3:a:cloudbees:jenkins"
+    ]
+  },
+  "jhipster": {
+    "purls": [
+      "pkg:github/jhipster/generator-jhipster",
+      "pkg:npm/generator-jhipster",
+      "pkg:docker/vuminhtuan/generator-jhipster",
+      "pkg:docker/jhipster/jhipster",
+      "pkg:sourceforge/jhipster.mirror",
+      "pkg:github/jhipster/jhipster-kotlin",
+      "pkg:npm/generator-jhipster-kotlin"
+    ],
+    "cpes": [
+      "cpe:2.3:a:jhipster:generator-jhipster",
+      "cpe:2.3:a:jhipster:generator-jhipster-kotlin",
+      "cpe:2.3:a:jhipster:jhipster",
+      "cpe:2.3:a:jhipster:jhipster_kotlin"
+    ]
+  },
+  "joomla": {
+    "purls": [
+      "pkg:github/king1ted/joompass",
+      "pkg:github/nikosdion/joomla-expose",
+      "pkg:github/joomla/joomla-cms",
+      "pkg:rpm/opensuse/joomla",
+      "pkg:sourceforge/joomla.mirror",
+      "pkg:github/joomla-framework/session"
+    ],
+    "cpes": [
+      "cpe:2.3:a:joomla:com_facileforms",
+      "cpe:2.3:a:joomla:expose",
+      "cpe:2.3:a:joomla:joomla",
+      "cpe:2.3:a:joomla:session"
+    ]
+  },
+  "jquery": {
+    "purls": [
+      "pkg:cpan/jquery",
+      "pkg:github/jquery/jquery",
+      "pkg:npm/jquery",
+      "pkg:nuget/jQuery",
+      "pkg:rpm/fedora/js-jquery",
+      "pkg:github/jquery/jquery-ui",
+      "pkg:maven/org.webjars.npm/jquery-ui",
+      "pkg:npm/jquery-ui",
+      "pkg:rpm/fedora/js-jquery-ui",
+      "pkg:nuget/jQuery"
+    ],
+    "cpes": [
+      "cpe:2.3:a:jquery:jquery",
+      "cpe:2.3:a:jquery:jquery_ui"
+    ]
+  },
+  "keycloak": {
+    "purls": [
+      "pkg:github/keycloak/keycloak",
+      "pkg:maven/org.keycloak/keycloak-core",
+      "pkg:github/keycloak/keycloak-nodejs-auth-utils",
+      "pkg:keycloak/keycloak"
+    ],
+    "cpes": [
+      "cpe:2.3:a:keycloak:keycloak",
+      "cpe:2.3:a:keycloak:keycloak-nodejs-auth-utils",
+      "cpe:2.3:a:redhat:keycloak"
+    ]
+  },
+  "knative": {
+    "purls": [
+      "pkg:gitee/knative/serving",
+      "pkg:github/knative/serving",
+      "pkg:golang/github.com/knative/serving"
+    ],
+    "cpes": [
+      "cpe:2.3:a:knative:serving"
+    ]
+  },
+  "kubernetes": {
+    "purls": [
+      "pkg:github/kubernetes/apiserver",
+      "pkg:golang/github.com/kubernetes/apiserver",
+      "pkg:github/kubernetes-sigs/aws-iam-authenticator",
+      "pkg:rpm/fedora/golang-sigs-k8s-aws-iam-authenticator",
+      "pkg:rpm/opensuse/aws-iam-authenticator",
+      "pkg:github/kubernetes-csi/external-snapshotter",
+      "pkg:github/cri-o/cri-o",
+      "pkg:rpm/opensuse/cri-o",
+      "pkg:github/kubernetes-csi/csi-proxy",
+      "pkg:golang/github.com/kubernetes-csi/csi-proxy",
+      "pkg:docker/boky/csi-provisioner",
+      "pkg:github/kubernetes-csi/external-provisioner",
+      "pkg:rpm/opensuse/csi-external-provisioner",
+      "pkg:github/kubernetes-csi/external-resizer",
+      "pkg:rpm/opensuse/csi-external-resizer",
+      "pkg:rpm/opensuse/csi-external-snapshotter",
+      "pkg:github/kubernetes/ingress-nginx",
+      "pkg:github/kubernetes-client/java",
+      "pkg:github/brancz/kube-rbac-proxy",
+      "pkg:golang/github.com/brancz/kube-rbac-proxy",
+      "pkg:github/kubernetes/kube-state-metrics",
+      "pkg:rpm/opensuse/kube-state-metrics",
+      "pkg:code.google/kubernetes",
+      "pkg:github/kubernetes/kubernetes",
+      "pkg:github/kubernetes/minikube",
+      "pkg:rpm/opensuse/minikube",
+      "pkg:sourceforge/minikube.mirror",
+      "pkg:github/kubernetes-sigs/secrets-store-csi-driver",
+      "pkg:golang/github.com/kubernetes-sigs/secrets-store-csi-driver",
+      "pkg:googlesource/kubernetes",
+      "pkg:rpm/fedora/kubernetes",
+      "pkg:rpm/opensuse/kubernetes",
+      "pkg:sourceforge/kubernetes.mirror",
+      "pkg:github/jenkinsci/kubernetes-plugin"
+    ],
+    "cpes": [
+      "cpe:2.3:a:kubernetes:apiserver",
+      "cpe:2.3:a:kubernetes:aws-iam-authenticator",
+      "cpe:2.3:a:kubernetes:container_storage_interface_snapshotter",
+      "cpe:2.3:a:kubernetes:cri-o",
+      "cpe:2.3:a:kubernetes:csi_proxy",
+      "cpe:2.3:a:kubernetes:external-provisioner",
+      "cpe:2.3:a:kubernetes:external-resizer",
+      "cpe:2.3:a:kubernetes:external-snapshotter",
+      "cpe:2.3:a:kubernetes:ingress-nginx",
+      "cpe:2.3:a:kubernetes:java",
+      "cpe:2.3:a:kubernetes:kube-apiserver",
+      "cpe:2.3:a:kubernetes:kube-rbac-proxy",
+      "cpe:2.3:a:kubernetes:kube-state-metrics",
+      "cpe:2.3:a:kubernetes:kubernetes",
+      "cpe:2.3:a:kubernetes:minikube",
+      "cpe:2.3:a:kubernetes:nginx_ingress_controller",
+      "cpe:2.3:a:kubernetes:secrets-store-csi-driver",
+      "cpe:2.3:a:kubernetes:secrets_store_csi_driver",
+      "cpe:2.3:a:google:kubernetes",
+      "cpe:2.3:a:jenkins:kubernetes"
+    ]
+  },
+  "kyverno": {
+    "purls": [
+      "pkg:github/kyverno/kyverno",
+      "pkg:golang/github.com/kyverno/kyverno"
+    ],
+    "cpes": [
+      "cpe:2.3:a:kyverno:kyverno",
+      "cpe:2.3:a:nirmata:kyverno"
+    ]
+  },
+  "laravel": {
+    "purls": [
+      "pkg:composer/laravel/framework",
+      "pkg:github/laravel/framework",
+      "pkg:composer/laravel/laravel",
+      "pkg:github/laravel/laravel",
+      "pkg:composer/livewire/livewire",
+      "pkg:github/livewire/livewire",
+      "pkg:composer/laravel/pulse",
+      "pkg:github/laravel/pulse"
+    ],
+    "cpes": [
+      "cpe:2.3:a:laravel:framework",
+      "cpe:2.3:a:laravel:laravel",
+      "cpe:2.3:a:laravel:livewire",
+      "cpe:2.3:a:laravel:pulse"
+    ]
+  },
+  "libreoffice": {
+    "purls": [
+      "pkg:deb/debian/libreoffice",
+      "pkg:deb/ubuntu/libreoffice",
+      "pkg:github/libreoffice/core",
+      "pkg:libreoffice/core",
+      "pkg:rpm/fedora/libreoffice",
+      "pkg:rpm/opensuse/libreoffice"
+    ],
+    "cpes": [
+      "cpe:2.3:a:libreoffice:libreoffice"
+    ]
+  },
+  "linuxmint": {
+    "purls": [
+      "pkg:deb/debian/cinnamon",
+      "pkg:deb/ubuntu/cinnamon",
+      "pkg:github/linuxmint/cinnamon",
+      "pkg:rpm/fedora/cinnamon",
+      "pkg:rpm/opensuse/cinnamon",
+      "pkg:github/linuxmint/mintinstall",
+      "pkg:github/linuxmint/pix",
+      "pkg:rpm/opensuse/pix",
+      "pkg:sourceforge/pix.mirror",
+      "pkg:github/linuxmint/warpinator",
+      "pkg:rpm/opensuse/warpinator",
+      "pkg:github/linuxmint/xreader",
+      "pkg:rpm/fedora/xreader"
+    ],
+    "cpes": [
+      "cpe:2.3:a:linuxmint:cinnamon",
+      "cpe:2.3:a:linuxmint:mintinstall",
+      "cpe:2.3:a:linuxmint:pix",
+      "cpe:2.3:a:linuxmint:warpinator",
+      "cpe:2.3:a:linuxmint:xreader"
+    ]
+  },
+  "liquibase": {
+    "purls": [
+      "pkg:github/liquibase/liquibase",
+      "pkg:maven/org.liquibase/liquibase-core",
+      "pkg:rpm/fedora/liquibase",
+      "pkg:rpm/opensuse/liquibase"
+    ],
+    "cpes": [
+      "cpe:2.3:a:liquibase:liquibase"
+    ]
+  },
+  "longhorn": {
+    "purls": [
+      "pkg:github/longhorn/longhorn",
+      "pkg:sourceforge/longhorn.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:longhorn:longhorn",
+      "cpe:2.3:a:linuxfoundation:longhorn"
+    ]
+  },
+  "lua": {
+    "purls": [
+      "pkg:github/lua/lua",
+      "pkg:rpm/centos/lua",
+      "pkg:rpm/fedora/lua"
+    ],
+    "cpes": [
+      "cpe:2.3:a:lua:lua"
+    ]
+  },
+  "mageia": {
+    "purls": [
+      "pkg:docker/mageia"
+    ],
+    "cpes": [
+      "cpe:2.3:o:mageia:mageia"
+    ]
+  },
+  "magento": {
+    "purls": [
+      "pkg:github/firegento/magento",
+      "pkg:magento/project-community-edition",
+      "pkg:github/magento/magento2",
+      "pkg:github/magento/magento2-upward-connector",
+      "pkg:github/magento/upward-php",
+      "pkg:sourceforge/magento-open-source.mirror",
+      "pkg:github/openmage/magento-lts"
+    ],
+    "cpes": [
+      "cpe:2.3:a:magento:magento",
+      "cpe:2.3:a:magento:magento2",
+      "cpe:2.3:a:magento:upward_connector",
+      "cpe:2.3:a:magento:upward_php",
+      "cpe:2.3:a:magentocommerce:magento",
+      "cpe:2.3:a:openmage:magento"
+    ]
+  },
+  "mariadb": {
+    "purls": [
+      "pkg:deb/debian/mariadb-server",
+      "pkg:deb/ubuntu/mariadb-server",
+      "pkg:docker/mariadb/mariadb-docker",
+      "pkg:docker/mariadb/server",
+      "pkg:github/mariadb/server",
+      "pkg:rpm/fedora/mariadb",
+      "pkg:rpm/opensuse/mariadb",
+      "pkg:github/mariadb-corporation/maxscale"
+    ],
+    "cpes": [
+      "cpe:2.3:a:mariadb:mariadb",
+      "cpe:2.3:a:mariadb:maxscale"
+    ]
+  },
+  "matomo": {
+    "purls": [
+      "pkg:docker/matomo",
+      "pkg:github/matomo-org/docker",
+      "pkg:github/brotkrueml/typo3-matomo-integration",
+      "pkg:github/matomo-org/matomo",
+      "pkg:rpm/opensuse/matomo",
+      "pkg:docker/piwik",
+      "pkg:github/daschtour/matomo-mediawiki-extension"
+    ],
+    "cpes": [
+      "cpe:2.3:a:matomo:docker",
+      "cpe:2.3:a:matomo:integration",
+      "cpe:2.3:a:matomo:matomo",
+      "cpe:2.3:a:matomo:piwik_fpm-alpine_docker_image",
+      "cpe:2.3:a:matomo_project:matomo",
+      "cpe:2.3:a:mediawiki:matomo"
+    ]
+  },
+  "mattermost": {
+    "purls": [
+      "pkg:github/mattermost/mattermost-for-confluence",
+      "pkg:github/mattermost/focalboard",
+      "pkg:github/mattermost/mattermost-server",
+      "pkg:github/mattermost/mattermost-plugin-channel-export",
+      "pkg:golang/github.com/mattermost/mattermost-plugin-channel-export",
+      "pkg:github/mattermost/desktop",
+      "pkg:sourceforge/mattermost-desktop.mirror",
+      "pkg:github/mattermost/mattermost-mobile",
+      "pkg:github/mattermost/mattermost-plugin-github",
+      "pkg:github/mattermost/mattermost-plugin-msteams-meetings",
+      "pkg:golang/github.com/mattermost/mattermost-plugin-msteams-meetings",
+      "pkg:github/mattermost/mattermost-plugin-playbooks",
+      "pkg:github/jenkinsci/mattermost-plugin"
+    ],
+    "cpes": [
+      "cpe:2.3:a:mattermost:confluence",
+      "cpe:2.3:a:mattermost:focalboard",
+      "cpe:2.3:a:mattermost:mattermost",
+      "cpe:2.3:a:mattermost:mattermost_channel_export",
+      "cpe:2.3:a:mattermost:mattermost_desktop",
+      "cpe:2.3:a:mattermost:mattermost_mobile",
+      "cpe:2.3:a:mattermost:mattermost_plugins",
+      "cpe:2.3:a:mattermost:mattermost_server",
+      "cpe:2.3:a:mattermost:msteams_plugin",
+      "cpe:2.3:a:mattermost:ms_teams",
+      "cpe:2.3:a:mattermost:playbooks",
+      "cpe:2.3:a:mattermost:server",
+      "cpe:2.3:a:jenkins:mattermost"
+    ]
+  },
+  "mautic": {
+    "purls": [
+      "pkg:github/mautic/mautic",
+      "pkg:sourceforge/mautic.mirror",
+      "pkg:drupal/mautic"
+    ],
+    "cpes": [
+      "cpe:2.3:a:mautic:mautic",
+      "cpe:2.3:a:acquia:mautic"
+    ]
+  },
+  "mediawiki": {
+    "purls": [
+      "pkg:github/wikimedia/mediawiki-extensions-abusefilter",
+      "pkg:github/wikimedia/mediawiki-extensions-campaignevents",
+      "pkg:github/wikimedia/mediawiki-extensions-centralauth",
+      "pkg:github/wikimedia/mediawiki-extensions-checkuser",
+      "pkg:github/wikimedia/mediawiki-extensions-createredirect",
+      "pkg:github/daschtour/matomo-mediawiki-extension",
+      "pkg:deb/debian/mediawiki",
+      "pkg:deb/ubuntu/mediawiki",
+      "pkg:github/wikimedia/mediawiki",
+      "pkg:rpm/fedora/mediawiki",
+      "pkg:rpm/opensuse/mediawiki",
+      "pkg:wikimedia/mediawiki",
+      "pkg:github/wikimedia/mediawiki-extensions-mobilefrontend",
+      "pkg:github/wikimedia/mediawiki-extensions-score",
+      "pkg:github/wikimedia/mediawiki-extensions-scribunto",
+      "pkg:github/wikimedia/mediawiki-extensions-semanticdrilldown",
+      "pkg:github/starcitizentools/mediawiki-extensions-shortdescription",
+      "pkg:github/wikimedia/mediawiki-extensions-visualeditor",
+      "pkg:github/wikisource/ws-cat-browser",
+      "pkg:github/semanticmediawiki/semanticmediawiki"
+    ],
+    "cpes": [
+      "cpe:2.3:a:mediawiki:abusefilter",
+      "cpe:2.3:a:mediawiki:campaignevents",
+      "cpe:2.3:a:mediawiki:centralauth",
+      "cpe:2.3:a:mediawiki:checkuser",
+      "cpe:2.3:a:mediawiki:createredirect",
+      "cpe:2.3:a:mediawiki:matomo",
+      "cpe:2.3:a:mediawiki:mediawik",
+      "cpe:2.3:a:mediawiki:mediawiki",
+      "cpe:2.3:a:mediawiki:mobilefrontend",
+      "cpe:2.3:a:mediawiki:score",
+      "cpe:2.3:a:mediawiki:scribunto",
+      "cpe:2.3:a:mediawiki:semantic_drilldown",
+      "cpe:2.3:a:mediawiki:shortdescription",
+      "cpe:2.3:a:mediawiki:visual_editor",
+      "cpe:2.3:a:mediawiki:wikisource_category_browser",
+      "cpe:2.3:a:semantic-mediawiki:mediawiki"
+    ]
+  },
+  "memcached": {
+    "purls": [
+      "pkg:deb/debian/memcached",
+      "pkg:deb/ubuntu/memcached",
+      "pkg:docker/memcached",
+      "pkg:github/memcached/memcached",
+      "pkg:gitlab/redhat/memcached",
+      "pkg:rpm/centos/memcached",
+      "pkg:rpm/fedora/memcached",
+      "pkg:github/docker-library/memcached",
+      "pkg:gitlab/naturalis/memcached",
+      "pkg:golang/github.com/memcached/memcached",
+      "pkg:sourceforge/memcached"
+    ],
+    "cpes": [
+      "cpe:2.3:a:memcached:memcached",
+      "cpe:2.3:a:docker:memcached",
+      "cpe:2.3:a:memcachedb:memcached"
+    ]
+  },
+  "mongodb": {
+    "purls": [
+      "pkg:github/mongodb/mongodb-atlas-kubernetes",
+      "pkg:golang/github.com/mongodb/mongodb-atlas-kubernetes",
+      "pkg:github/mongodb/js-bson",
+      "pkg:maven/org.webjars.npm/bson",
+      "pkg:npm/bson",
+      "pkg:rpm/fedora/nodejs-bson",
+      "pkg:github/mongodb-js/compass",
+      "pkg:deb/debian/mongo-c-driver",
+      "pkg:deb/ubuntu/mongo-c-driver",
+      "pkg:github/mongodb/mongo-c-driver",
+      "pkg:rpm/fedora/mongo-c-driver",
+      "pkg:rpm/opensuse/mongo-c-driver",
+      "pkg:deb/debian/mongo-tools",
+      "pkg:deb/ubuntu/mongo-tools",
+      "pkg:github/mongodb/mongo-tools",
+      "pkg:rpm/opensuse/mongo-tools",
+      "pkg:deb/debian/golang-mongodb-mongo-driver",
+      "pkg:github/mongodb/mongo-go-driver",
+      "pkg:rpm/fedora/golang-mongodb-mongo-driver",
+      "pkg:github/mongodb/mongo-java-driver",
+      "pkg:maven/org.mongodb/mongo-java-driver",
+      "pkg:github/mongodb/mongodb-enterprise-kubernetes",
+      "pkg:deb/debian/libbson",
+      "pkg:deb/ubuntu/libbson",
+      "pkg:github/mongodb/libbson",
+      "pkg:rpm/fedora/libbson",
+      "pkg:deb/debian/libmongocrypt",
+      "pkg:deb/ubuntu/libmongocrypt",
+      "pkg:github/mongodb/libmongocrypt",
+      "pkg:npm/mongodb-client-encryption",
+      "pkg:rpm/fedora/libmongocrypt",
+      "pkg:rpm/opensuse/libmongocrypt",
+      "pkg:deb/debian/mongodb",
+      "pkg:deb/ubuntu/mongodb",
+      "pkg:github/mongodb/mongo",
+      "pkg:github/mongodb-js/mongosh",
+      "pkg:npm/mongosh",
+      "pkg:github/mongodb/node-mongodb-native",
+      "pkg:npm/mongodb",
+      "pkg:github/mongodb/mongo-php-driver",
+      "pkg:github/mongodb/mongo-python-driver",
+      "pkg:github/mongodb/mongo-ruby-driver",
+      "pkg:github/mongodb/mongo-rust-driver",
+      "pkg:github/mongodb/mongo-swift-driver",
+      "pkg:github/anynines/a9s-mongodb-app-old",
+      "pkg:github/lucaspinto/a9s_mongodb_app",
+      "pkg:github/jenkinsci/mongodb-plugin",
+      "pkg:github/kiy0taka/mongodb-plugin"
+    ],
+    "cpes": [
+      "cpe:2.3:a:mongodb:atlas_kubernetes_operator",
+      "cpe:2.3:a:mongodb:bson",
+      "cpe:2.3:a:mongodb:compass",
+      "cpe:2.3:a:mongodb:c_driver",
+      "cpe:2.3:a:mongodb:database_tools",
+      "cpe:2.3:a:mongodb:go_driver",
+      "cpe:2.3:a:mongodb:java_driver",
+      "cpe:2.3:a:mongodb:js-bson",
+      "cpe:2.3:a:mongodb:kubernetes_operator",
+      "cpe:2.3:a:mongodb:libbson",
+      "cpe:2.3:a:mongodb:libmongocrypt",
+      "cpe:2.3:a:mongodb:mongodb",
+      "cpe:2.3:a:mongodb:mongodb_enterprise_kubernetes_operator",
+      "cpe:2.3:a:mongodb:mongosh",
+      "cpe:2.3:a:mongodb:node.js",
+      "cpe:2.3:a:mongodb:php_driver",
+      "cpe:2.3:a:mongodb:pymongo",
+      "cpe:2.3:a:mongodb:python_driver",
+      "cpe:2.3:a:mongodb:ruby_driver",
+      "cpe:2.3:a:mongodb:rust_driver",
+      "cpe:2.3:a:mongodb:swift_driver",
+      "cpe:2.3:a:anynines:mongodb",
+      "cpe:2.3:a:jenkins:mongodb"
+    ]
+  },
+  "moodle": {
+    "purls": [
+      "pkg:docker/bitnami/moodle",
+      "pkg:github/moodle/moodle",
+      "pkg:rpm/fedora/moodle",
+      "pkg:rpm/opensuse/moodle",
+      "pkg:github/moodle-saml/auth",
+      "pkg:github/jcrodriguez-dis/moodle-mod_vpl"
+    ],
+    "cpes": [
+      "cpe:2.3:a:moodle:moodle",
+      "cpe:2.3:a:moodle:saml_auth",
+      "cpe:2.3:a:moodle:saml_authentication",
+      "cpe:2.3:a:moodle:virtual_programming_lab"
+    ]
+  },
+  "mysql": {
+    "purls": [
+      "pkg:github/eventum/eventum",
+      "pkg:deb/debian/mysql-8.0",
+      "pkg:deb/ubuntu/mysql-8.0",
+      "pkg:docker/mysql",
+      "pkg:github/mysql/mysql-server",
+      "pkg:rpm/centos/mysql-8.0",
+      "pkg:rpm/opensuse/mysql-server",
+      "pkg:github/mysql/mysql-workbench",
+      "pkg:deb/debian/mysql-workbench",
+      "pkg:deb/ubuntu/mysql-workbench",
+      "pkg:rpm/fedora/mysql-workbench",
+      "pkg:rpm/opensuse/mysql-workbench",
+      "pkg:deb/debian/node-mysql",
+      "pkg:deb/ubuntu/node-mysql",
+      "pkg:github/mysqljs/mysql",
+      "pkg:maven/org.webjars.npm/mysql",
+      "pkg:npm/mysql",
+      "pkg:rpm/fedora/nodejs-mysql"
+    ],
+    "cpes": [
+      "cpe:2.3:a:mysql:eventum",
+      "cpe:2.3:a:mysql:mysql",
+      "cpe:2.3:a:mysql:mysql_eventum",
+      "cpe:2.3:a:mysql:mysql_server",
+      "cpe:2.3:a:mysql:mysql_tools",
+      "cpe:2.3:a:mysql:mysql_workbench",
+      "cpe:2.3:a:mysqljs:mysql",
+      "cpe:2.3:a:mysql_project:mysql",
+      "cpe:2.3:a:oracle:mysql"
+    ]
+  },
+  "neo4j": {
+    "purls": [
+      "pkg:github/neo4j-contrib/neo4j-apoc-procedures",
+      "pkg:golang/github.com/neo4j-contrib/neo4j-apoc-procedures",
+      "pkg:docker/neo4j",
+      "pkg:gem/neo4j",
+      "pkg:github/neo4j/neo4j",
+      "pkg:maven/org.neo4j/neo4j",
+      "pkg:npm/neo4j",
+      "pkg:pypi/neo4j"
+    ],
+    "cpes": [
+      "cpe:2.3:a:neo4j:awesome_procedures",
+      "cpe:2.3:a:neo4j:awesome_procedures_on_cyper",
+      "cpe:2.3:a:neo4j:awesome_procedures_on_cypher",
+      "cpe:2.3:a:neo4j:graph_databse",
+      "cpe:2.3:a:neo4j:neo4j"
+    ]
+  },
+  "neos": {
+    "purls": [
+      "pkg:github/neos/form",
+      "pkg:github/neos/neos"
+    ],
+    "cpes": [
+      "cpe:2.3:a:neos:form",
+      "cpe:2.3:a:neos:neos_cms",
+      "cpe:2.3:a:typo3:neos"
+    ]
+  },
+  "netbsd": {
+    "purls": [
+      "pkg:netbsd/netbsd",
+      "pkg:deb/debian/tnftp",
+      "pkg:deb/ubuntu/tnftp",
+      "pkg:github/hharte/tnftp",
+      "pkg:rpm/fedora/tnftp",
+      "pkg:rpm/opensuse/tnftp"
+    ],
+    "cpes": [
+      "cpe:2.3:o:netbsd:netbsd",
+      "cpe:2.3:a:netbsd:tnftpd"
+    ]
+  },
+  "nextcloud": {
+    "purls": [
+      "pkg:github/nextcloud/approval",
+      "pkg:github/nextcloud/calendar",
+      "pkg:github/nextcloud/circles",
+      "pkg:github/nextcloud/contacts",
+      "pkg:github/nextcloud/deck",
+      "pkg:github/nextcloud/desktop",
+      "pkg:github/nextcloud/end_to_end_encryption",
+      "pkg:github/paullereverend/nextcloudextract",
+      "pkg:github/nextcloud/files_accesscontrol",
+      "pkg:github/nextcloud/globalsiteselector",
+      "pkg:github/nextcloud/groupfolders",
+      "pkg:github/nextcloud/guests",
+      "pkg:github/nextcloud/lookup-server",
+      "pkg:github/nextcloud/mail",
+      "pkg:github/nextcloud/news",
+      "pkg:github/nextcloud/news-android",
+      "pkg:github/nextcloud/android",
+      "pkg:github/nextcloud/nextcloudpi",
+      "pkg:github/nextcloud/files_automatedtagging",
+      "pkg:github/nextcloud/server",
+      "pkg:github/nextcloud/spreed",
+      "pkg:github/nextcloud/officeonline",
+      "pkg:github/nextcloud/password_policy",
+      "pkg:github/nextcloud/preferred_providers",
+      "pkg:github/nextcloud/richdocuments",
+      "pkg:gitlab/gitlab-gold/nextcloud-server",
+      "pkg:sourceforge/nextcloud-server.mirror",
+      "pkg:github/nextcloud/social",
+      "pkg:github/nextcloud/tables",
+      "pkg:github/nextcloud/twofactor_webauthn",
+      "pkg:github/nextcloud/files_zip"
+    ],
+    "cpes": [
+      "cpe:2.3:a:nextcloud:approval",
+      "cpe:2.3:a:nextcloud:calendar",
+      "cpe:2.3:a:nextcloud:circles",
+      "cpe:2.3:a:nextcloud:contacts",
+      "cpe:2.3:a:nextcloud:deck",
+      "cpe:2.3:a:nextcloud:desktop",
+      "cpe:2.3:a:nextcloud:end-to-end_encryption",
+      "cpe:2.3:a:nextcloud:extract",
+      "cpe:2.3:a:nextcloud:files_access_control",
+      "cpe:2.3:a:nextcloud:global_site_selector",
+      "cpe:2.3:a:nextcloud:group_folders",
+      "cpe:2.3:a:nextcloud:guests",
+      "cpe:2.3:a:nextcloud:lookup-server",
+      "cpe:2.3:a:nextcloud:mail",
+      "cpe:2.3:a:nextcloud:news",
+      "cpe:2.3:a:nextcloud:nextcloud",
+      "cpe:2.3:a:nextcloud:nextcloudpi",
+      "cpe:2.3:a:nextcloud:nextcloud_files_automated_tagging",
+      "cpe:2.3:a:nextcloud:nextcloud_mail",
+      "cpe:2.3:a:nextcloud:nextcloud_server",
+      "cpe:2.3:a:nextcloud:nextcloud_talk",
+      "cpe:2.3:a:nextcloud:officeonline",
+      "cpe:2.3:a:nextcloud:password_policy",
+      "cpe:2.3:a:nextcloud:preferred_providers",
+      "cpe:2.3:a:nextcloud:richdocuments",
+      "cpe:2.3:a:nextcloud:server",
+      "cpe:2.3:a:nextcloud:social",
+      "cpe:2.3:a:nextcloud:tables",
+      "cpe:2.3:a:nextcloud:talk",
+      "cpe:2.3:a:nextcloud:two-factor_webauthn",
+      "cpe:2.3:a:nextcloud:zipper"
+    ]
+  },
+  "nginx": {
+    "purls": [
+      "pkg:deb/debian/nginx",
+      "pkg:deb/ubuntu/nginx",
+      "pkg:github/nginx/nginx",
+      "pkg:nginx/nginx",
+      "pkg:rpm/fedora/nginx",
+      "pkg:rpm/opensuse/nginx",
+      "pkg:github/nginx/njs",
+      "pkg:github/nginx/unit",
+      "pkg:docker/nginx",
+      "pkg:github/stnoonan/spnego-http-auth-nginx-module",
+      "pkg:rpm/centos/nginx"
+    ],
+    "cpes": [
+      "cpe:2.3:a:nginx:nginx",
+      "cpe:2.3:a:nginx:njs",
+      "cpe:2.3:a:nginx:unit",
+      "cpe:2.3:a:f5:nginx",
+      "cpe:2.3:a:igor_sysoev:nginx"
+    ]
+  },
+  "nixos": {
+    "purls": [
+      "pkg:github/nixos/hydra",
+      "pkg:deb/debian/nix",
+      "pkg:deb/ubuntu/nix",
+      "pkg:github/nixos/nix",
+      "pkg:github/nixos/nixpkgs",
+      "pkg:github/nixos/patchelf",
+      "pkg:docker/nixos/nix"
+    ],
+    "cpes": [
+      "cpe:2.3:a:nixos:hydra",
+      "cpe:2.3:a:nixos:nix",
+      "cpe:2.3:o:nixos:nix",
+      "cpe:2.3:o:nixos:nixos",
+      "cpe:2.3:o:nixos:patchelf",
+      "cpe:2.3:o:nixos_project:nixos"
+    ]
+  },
+  "nodejs": {
+    "purls": [
+      "pkg:deb/debian/nodejs",
+      "pkg:deb/ubuntu/nodejs",
+      "pkg:github/nodejs/node",
+      "pkg:rpm/fedora/nodejs",
+      "pkg:bitbucket/pycodescene/undici",
+      "pkg:deb/debian/node-undici",
+      "pkg:deb/ubuntu/node-undici",
+      "pkg:github/nodejs/undici",
+      "pkg:maven/org.webjars.npm/undici",
+      "pkg:npm/undici",
+      "pkg:github/jenkinsci/nodejs-plugin"
+    ],
+    "cpes": [
+      "cpe:2.3:a:nodejs:node.js",
+      "cpe:2.3:a:nodejs:nodejs",
+      "cpe:2.3:a:nodejs:undici",
+      "cpe:2.3:a:jenkins:nodejs"
+    ]
+  },
+  "numpy": {
+    "purls": [
+      "pkg:deb/debian/numpy",
+      "pkg:deb/ubuntu/numpy",
+      "pkg:github/numpy/numpy",
+      "pkg:rpm/centos/numpy",
+      "pkg:rpm/fedora/numpy",
+      "pkg:sourceforge/numpy.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:numpy:numpy"
+    ]
+  },
+  "nuxt": {
+    "purls": [
+      "pkg:github/nuxt/devtools",
+      "pkg:npm/%40nuxt/devtools",
+      "pkg:github/nuxt/framework",
+      "pkg:golang/github.com/nuxt/framework",
+      "pkg:maven/org.webjars.bowergithub.nuxt/framework",
+      "pkg:github/nuxt/nuxt",
+      "pkg:golang/github.com/nuxt/nuxt",
+      "pkg:npm/nuxt"
+    ],
+    "cpes": [
+      "cpe:2.3:a:nuxt:devtools",
+      "cpe:2.3:a:nuxt:framework",
+      "cpe:2.3:a:nuxt:nuxt"
+    ]
+  },
+  "oneplus": {
+    "purls": [
+      "pkg:github/jocxfin/opapplocker"
+    ],
+    "cpes": [
+      "cpe:2.3:a:oneplus:app_locker"
+    ]
+  },
+  "openbao": {
+    "purls": [
+      "pkg:golang/github.com/openbao/openbao-plugin-secrets-kv"
+    ],
+    "cpes": [
+      "cpe:2.3:a:openbao:openbao"
+    ]
+  },
+  "openbsd": {
+    "purls": [
+      "pkg:github/libressl-portable/openbsd",
+      "pkg:github/libressl-portable/portable",
+      "pkg:rpm/opensuse/libressl",
+      "pkg:sourceforge/libressl-3-2-0-for-windows",
+      "pkg:github/openbsd/src",
+      "pkg:openbsd/openbsd",
+      "pkg:deb/ubuntu/opensmtpd",
+      "pkg:github/opensmtpd/opensmtpd",
+      "pkg:rpm/fedora/opensmtpd",
+      "pkg:rpm/opensuse/opensmtpd",
+      "pkg:github/openssh/openssh-portable",
+      "pkg:mindrot/openss",
+      "pkg:openbsd/openssh",
+      "pkg:rpm/fedora/openssh",
+      "pkg:rpm/opensuse/openssh"
+    ],
+    "cpes": [
+      "cpe:2.3:a:openbsd:libressl",
+      "cpe:2.3:a:openbsd:openbsd",
+      "cpe:2.3:o:openbsd:openbsd",
+      "cpe:2.3:a:openbsd:opensmtpd",
+      "cpe:2.3:a:openbsd:openssh"
+    ]
+  },
+  "openssl": {
+    "purls": [
+      "pkg:deb/debian/openssl",
+      "pkg:deb/ubuntu/openssl",
+      "pkg:github/openssl/openssl",
+      "pkg:rpm/centos/openssl",
+      "pkg:rpm/fedora/openssl",
+      "pkg:rpm/opensuse/openssl",
+      "pkg:gitlab/redhat/openssl",
+      "pkg:deb/debian/ruby-openssl",
+      "pkg:deb/ubuntu/ruby-openssl",
+      "pkg:gem/openssl",
+      "pkg:github/ruby/openssl",
+      "pkg:cargo/openssl",
+      "pkg:deb/debian/rust-openssl",
+      "pkg:deb/ubuntu/rust-openssl",
+      "pkg:github/sfackler/rust-openssl"
+    ],
+    "cpes": [
+      "cpe:2.3:a:openssl:openssl",
+      "cpe:2.3:a:openssl_project:openssl",
+      "cpe:2.3:a:redhat:openssl",
+      "cpe:2.3:a:ruby-lang:openssl",
+      "cpe:2.3:a:sfackler:openssl"
+    ]
+  },
+  "opensuse": {
+    "purls": [
+      "pkg:rpm/opensuse/autoyast2",
+      "pkg:deb/debian/canna",
+      "pkg:deb/ubuntu/canna",
+      "pkg:rpm/fedora/canna",
+      "pkg:rpm/opensuse/canna",
+      "pkg:rpm/opensuse/cryptctl",
+      "pkg:github/opensuse/cscreen",
+      "pkg:rpm/opensuse/cscreen",
+      "pkg:deb/cyrus-sasl2",
+      "pkg:deb/ubuntu/cyrus-sasl2",
+      "pkg:github/cyrusimap/cyrus-sasl",
+      "pkg:gitlab/redhat/cyrus-sasl",
+      "pkg:golang/github.com/cyrusimap/cyrus-sasl",
+      "pkg:rpm/fedora/cyrus-sasl",
+      "pkg:rpm/opensuse/cyrus-sasl",
+      "pkg:rpm/opensuse/evergreen",
+      "pkg:rpm/opensuse/inn",
+      "pkg:docker/opensuse/leap",
+      "pkg:opensuse/leap",
+      "pkg:rpm/opensuse/leap-release",
+      "pkg:deb/debian/libeconf0",
+      "pkg:deb/ubuntu/libeconf0",
+      "pkg:github/opensuse/libeconf",
+      "pkg:rpm/fedora/libeconf",
+      "pkg:rpm/opensuse/libeconf",
+      "pkg:deb/debian/libsolv",
+      "pkg:deb/ubuntu/libsolv",
+      "pkg:github/opensuse/libsolv",
+      "pkg:rpm/centos/libsolv",
+      "pkg:rpm/fedora/libsolv",
+      "pkg:rpm/opensuse/libsolv",
+      "pkg:github/opensuse/libstorage",
+      "pkg:github/opensuse/libstorage-ng",
+      "pkg:rpm/opensuse/libstorage-ng",
+      "pkg:github/besser82/libxcrypt",
+      "pkg:rpm/fedora/libxcrypt",
+      "pkg:rpm/opensuse/libxcrypt",
+      "pkg:github/opensuse/libzypp",
+      "pkg:rpm/fedora/libzypp",
+      "pkg:rpm/opensuse/libzypp",
+      "pkg:rpm/opensuse/libzypp-plugin-appdata",
+      "pkg:github/suse/doc-sleha",
+      "pkg:github/opensuse/mirrorcache",
+      "pkg:deb/debian/munge",
+      "pkg:deb/ubuntu/munge",
+      "pkg:github/dun/munge",
+      "pkg:gitlab/redhat/munge",
+      "pkg:rpm/centos/munge",
+      "pkg:rpm/fedora/munge",
+      "pkg:rpm/opensuse/munge",
+      "pkg:github/particlekit/munin-docker",
+      "pkg:rpm/fedora/munin",
+      "pkg:rpm/opensuse/munin",
+      "pkg:github/opensuse/obs-service-source_validator",
+      "pkg:rpm/opensuse/obs-service-source_validator",
+      "pkg:rpm/opensuse/openldap2",
+      "pkg:github/opensuse/kernel",
+      "pkg:github/suse/kernel",
+      "pkg:opensuse/opensuse",
+      "pkg:rpm/opensuse/opensuse-release",
+      "pkg:github/opensuse/open-build-service",
+      "pkg:github/opensuse/obs-service-set-version",
+      "pkg:deb/ubuntu/osc",
+      "pkg:github/opensuse/osc",
+      "pkg:pypi/osc",
+      "pkg:github/opensuse/paste",
+      "pkg:bitbucket/knarf/pcp",
+      "pkg:deb/debian/pcp",
+      "pkg:deb/ubuntu/pcp",
+      "pkg:github/performancecopilot/pcp",
+      "pkg:gitlab/redhat/pcp",
+      "pkg:rpm/centos/pcp",
+      "pkg:rpm/fedora/pcp",
+      "pkg:rpm/opensuse/pcp",
+      "pkg:pypi/postorius",
+      "pkg:rpm/fedora/python-postorius",
+      "pkg:rpm/opensuse/python-postorius",
+      "pkg:rpm/opensuse/rmt-server",
+      "pkg:github/opensuse/supportutils",
+      "pkg:rpm/opensuse/supportutils",
+      "pkg:github/opensuse/sysconfig",
+      "pkg:github/opensuse/obs-service-tar-scm",
+      "pkg:rpm/fedora/obs-service-tar_scm",
+      "pkg:rpm/opensuse/obs-service-tar_scm",
+      "pkg:rpm/opensuse/texlive-filesystem",
+      "pkg:github/opensuse/travel-support-program",
+      "pkg:docker/opensuse/tumbleweed",
+      "pkg:github/gregkh/tumbleweed",
+      "pkg:rpm/opensuse/kopano-spamd",
+      "pkg:github/opensuse/opensuse-welcome",
+      "pkg:rpm/opensuse/opensuse-welcome",
+      "pkg:github/opensuse/wicked",
+      "pkg:rpm/fedora/wicked",
+      "pkg:rpm/opensuse/wicked",
+      "pkg:github/yast/yast-multipath",
+      "pkg:rpm/opensuse/yast2-multipath",
+      "pkg:github/yast/yast-printer",
+      "pkg:rpm/opensuse/yast2-printer",
+      "pkg:github/yast/yast-samba-provision",
+      "pkg:rpm/opensuse/yast2-samba-provision",
+      "pkg:deb/ubuntu/zypper",
+      "pkg:gem/zypper",
+      "pkg:github/opensuse/rubygem-zypper",
+      "pkg:github/opensuse/zypper",
+      "pkg:rpm/fedora/zypper",
+      "pkg:rpm/opensuse/zypper",
+      "pkg:sourceforge/pkgzypper"
+    ],
+    "cpes": [
+      "cpe:2.3:a:opensuse:autoyast2",
+      "cpe:2.3:a:opensuse:canna",
+      "cpe:2.3:a:opensuse:cryptctl",
+      "cpe:2.3:a:opensuse:cscreen",
+      "cpe:2.3:a:opensuse:cyrus-sasl",
+      "cpe:2.3:o:opensuse:evergreen",
+      "cpe:2.3:a:opensuse:inn",
+      "cpe:2.3:o:opensuse:leap",
+      "cpe:2.3:a:opensuse:libeconf",
+      "cpe:2.3:a:opensuse:libsolv",
+      "cpe:2.3:a:opensuse:libstorage",
+      "cpe:2.3:a:opensuse:libstorage-ng",
+      "cpe:2.3:a:opensuse:libxcrypt",
+      "cpe:2.3:a:opensuse:libzypp",
+      "cpe:2.3:a:opensuse:libzypp-plugin-appdata",
+      "cpe:2.3:o:opensuse:linux_enterprise_high_availability_extension",
+      "cpe:2.3:a:opensuse:mirrorcache",
+      "cpe:2.3:a:opensuse:munge",
+      "cpe:2.3:a:opensuse:munin",
+      "cpe:2.3:a:opensuse:obs-service-source_validator",
+      "cpe:2.3:a:opensuse:openldap2",
+      "cpe:2.3:o:opensuse:opensuse",
+      "cpe:2.3:a:opensuse:open_buildservice",
+      "cpe:2.3:a:opensuse:open_build_service",
+      "cpe:2.3:o:opensuse:open_build_service",
+      "cpe:2.3:a:opensuse:osc",
+      "cpe:2.3:a:opensuse:paste",
+      "cpe:2.3:a:opensuse:pcp",
+      "cpe:2.3:a:opensuse:python-postorius",
+      "cpe:2.3:a:opensuse:rmt-server",
+      "cpe:2.3:a:opensuse:supportutils",
+      "cpe:2.3:a:opensuse:sysconfig",
+      "cpe:2.3:o:opensuse:tar_scm",
+      "cpe:2.3:a:opensuse:texlive-filesystem",
+      "cpe:2.3:a:opensuse:travel_support_program",
+      "cpe:2.3:a:opensuse:tumbleweed",
+      "cpe:2.3:o:opensuse:tumbleweed",
+      "cpe:2.3:a:opensuse:tumbleweed_kopano-spamd",
+      "cpe:2.3:a:opensuse:welcome",
+      "cpe:2.3:a:opensuse:wicked",
+      "cpe:2.3:a:opensuse:yast2-multipath",
+      "cpe:2.3:a:opensuse:yast2-printer",
+      "cpe:2.3:a:opensuse:yast2-samba-provision",
+      "cpe:2.3:a:opensuse:zypper"
+    ]
+  },
+  "openvpn": {
+    "purls": [
+      "pkg:docker/diadebeltphy/openvpn-connect-mac-download",
+      "pkg:docker/zhujintao/openvpn-connect",
+      "pkg:deb/debian/easy-rsa",
+      "pkg:deb/ubuntu/easy-rsa",
+      "pkg:github/openvpn/easy-rsa",
+      "pkg:rpm/fedora/easy-rsa",
+      "pkg:rpm/opensuse/easy-rsa",
+      "pkg:deb/debian/openvpn",
+      "pkg:deb/ubuntu/openvpn",
+      "pkg:github/openvpn/openvpn",
+      "pkg:github/openvpn/openvpn3-linux",
+      "pkg:rpm/opensuse/openvpn3-linux",
+      "pkg:gem/lita-openvpnas",
+      "pkg:github/openvpn/puppet-openvpnas",
+      "pkg:npm/openvpn-access-server-scripts",
+      "pkg:pypi/pyovpn-as",
+      "pkg:github/openvpn/openvpn-gui",
+      "pkg:github/openvpn/ovpn-dco-win",
+      "pkg:github/openvpn/tap-windows6"
+    ],
+    "cpes": [
+      "cpe:2.3:a:openvpn:connect",
+      "cpe:2.3:a:openvpn:easy-rsa",
+      "cpe:2.3:a:openvpn:openvpn",
+      "cpe:2.3:a:openvpn:openvpn3linux",
+      "cpe:2.3:a:openvpn:openvpn_3",
+      "cpe:2.3:a:openvpn:openvpn_access_server",
+      "cpe:2.3:a:openvpn:openvpn_gui",
+      "cpe:2.3:a:openvpn:ovpn-dco-win",
+      "cpe:2.3:a:openvpn:tap-windows6"
+    ]
+  },
+  "openwrt": {
+    "purls": [
+      "pkg:github/coolsnowwolf/lede",
+      "pkg:github/openwrt/openwrt",
+      "pkg:github/openwrt/luci",
+      "pkg:pypi/openwrt-luci-rpc",
+      "pkg:docker/openwrtorg/sdk",
+      "pkg:gitlab/sdr/openwrt",
+      "pkg:sourceforge/openwrt"
+    ],
+    "cpes": [
+      "cpe:2.3:a:openwrt:lede",
+      "cpe:2.3:o:openwrt:lede",
+      "cpe:2.3:a:openwrt:luci",
+      "cpe:2.3:a:openwrt:openwrt",
+      "cpe:2.3:o:openwrt:openwrt"
+    ]
+  },
+  "openzfs": {
+    "purls": [
+      "pkg:github/openzfs/zfs"
+    ],
+    "cpes": [
+      "cpe:2.3:a:openzfs:openzfs"
+    ]
+  },
+  "opnsense": {
+    "purls": [
+      "pkg:github/opnsense/core",
+      "pkg:sourceforge/opnsense",
+      "pkg:github/pfsense/pfsense"
+    ],
+    "cpes": [
+      "cpe:2.3:a:opnsense:opnsense",
+      "cpe:2.3:a:opnsense_project:opnsense"
+    ]
+  },
+  "ovirt": {
+    "purls": [
+      "pkg:github/ovirt/cockpit-ovirt",
+      "pkg:rpm/opensuse/cockpit-ovirt",
+      "pkg:github/ovirt/ovirt-log-collector",
+      "pkg:github/ovirt/mom",
+      "pkg:github/ovirt/ovirt-node",
+      "pkg:github/ovirt/ovirt-engine",
+      "pkg:github/ovirt/ovirt-ansible",
+      "pkg:github/ovirt/ovirt-ansible-collection",
+      "pkg:github/ovirt/ovirt-engine-cli",
+      "pkg:github/ovirt/ovirt-hosted-engine-setup",
+      "pkg:github/ovirt/vdsm"
+    ],
+    "cpes": [
+      "cpe:2.3:a:ovirt:cockpit-ovirt",
+      "cpe:2.3:a:ovirt:log_collector",
+      "cpe:2.3:a:ovirt:mom",
+      "cpe:2.3:o:ovirt:node",
+      "cpe:2.3:a:ovirt:ovirt",
+      "cpe:2.3:a:ovirt:ovirt-ansible-roles",
+      "cpe:2.3:a:ovirt:ovirt-engine",
+      "cpe:2.3:a:ovirt:ovirt-engine-cli",
+      "cpe:2.3:a:ovirt:ovirt-hosted-engine-setup",
+      "cpe:2.3:a:ovirt:ovirt-node",
+      "cpe:2.3:a:ovirt:vdsm"
+    ]
+  },
+  "perl": {
+    "purls": [
+      "pkg:cpan/cgi-application",
+      "pkg:github/markstos/cgi--application",
+      "pkg:cpan/cpan",
+      "pkg:github/andk/cpanpm",
+      "pkg:cpan/convert-uulib",
+      "pkg:cpan/dbi",
+      "pkg:github/perl5-dbi/dbi",
+      "pkg:gitlab/redhat/perl-dbi",
+      "pkg:rpm/centos/perl-dbi",
+      "pkg:rpm/fedora/perl-dbi",
+      "pkg:rpm/opensuse/perl-dbi",
+      "pkg:cpan/pathtools",
+      "pkg:github/tsee/pathtools",
+      "pkg:gitlab/redhat/perl-pathtools",
+      "pkg:rpm/fedora/perl-pathtools",
+      "pkg:rpm/opensuse/perl-pathtools",
+      "pkg:deb/debian/pcre2",
+      "pkg:deb/ubuntu/pcre2",
+      "pkg:github/rurban/pcre",
+      "pkg:gitlab/redhat/pcre",
+      "pkg:nuget/pcre",
+      "pkg:pypi/pcre2",
+      "pkg:rpm/fedora/pcre",
+      "pkg:rpm/opensuse/pcre2",
+      "pkg:sourceforge/pcre",
+      "pkg:deb/debian/perl",
+      "pkg:deb/ubuntu/perl",
+      "pkg:github/perl/perl5",
+      "pkg:perl/perl5",
+      "pkg:rpm/fedora/perl",
+      "pkg:rpm/opensuse/perl",
+      "pkg:cpan/perl-dist-strawberry",
+      "pkg:github/strawberryperl/perl-dist-strawberry"
+    ],
+    "cpes": [
+      "cpe:2.3:a:perl:cgi_application_module",
+      "cpe:2.3:a:perl:comprehensive_perl_archive_network",
+      "cpe:2.3:a:perl:convert_uulib",
+      "cpe:2.3:a:perl:database_interface",
+      "cpe:2.3:a:perl:dbi",
+      "cpe:2.3:a:perl:pathtools",
+      "cpe:2.3:a:perl:pcre",
+      "cpe:2.3:a:perl:perl",
+      "cpe:2.3:a:perl:strawberryperl"
+    ]
+  },
+  "php": {
+    "purls": [
+      "pkg:github/pear/archive_tar",
+      "pkg:gitlab/perl-archive-tar",
+      "pkg:rpm/opensuse/php7-pear-archive_tar",
+      "pkg:github/m971119/blog_cms",
+      "pkg:github/m6w6/ext-http",
+      "pkg:deb/debian/php-imagick",
+      "pkg:deb/ubuntu/php-imagick",
+      "pkg:github/imagick/imagick",
+      "pkg:nuget/PHP7_64BIT_IMAGICK_6937",
+      "pkg:opensuse/php7-imagick",
+      "pkg:rpm/fedora/php-pecl-imagick",
+      "pkg:rpm/opensuse/php8-imagick",
+      "pkg:sourceforge/banex",
+      "pkg:bitbucket/sandfish/php-pear",
+      "pkg:deb/debian/php-pear",
+      "pkg:deb/ubuntu/php-pear",
+      "pkg:github/pear/pear-core",
+      "pkg:gitlab/redhat/php-pear",
+      "pkg:rpm/fedora/php-pear",
+      "pkg:rpm/opensuse/php-pear",
+      "pkg:deb/debian/php-phpdocumentor-reflection-common",
+      "pkg:deb/ubuntu/php-phpdocumentor-reflection-common",
+      "pkg:gem/phpdocr",
+      "pkg:github/php/doc-en",
+      "pkg:github/phpdocumentor/phpdocumentor",
+      "pkg:gitlab/zerodogg/phpdocr",
+      "pkg:opensuse/php-phpstan-phpdoc-parser",
+      "pkg:rpm/fedora/phpdoc",
+      "pkg:rpm/opensuse/php5-pear-phpdocumentor",
+      "pkg:sourceforge/phpdocu",
+      "pkg:github/php/php-src",
+      "pkg:sourceforge/phpbookingcalendar",
+      "pkg:sourceforge/phpsquidpass",
+      "pkg:bitbucket/salimane/xhprof",
+      "pkg:github/phacility/xhprof",
+      "pkg:opensuse/php53-xhprof",
+      "pkg:rpm/fedora/php-pecl-xhprof",
+      "pkg:rpm/opensuse/php5-xhprof",
+      "pkg:composer/phpxmlrpc/phpxmlrpc",
+      "pkg:github/gggeek/phpxmlrpc"
+    ],
+    "cpes": [
+      "cpe:2.3:a:php:archive_tar",
+      "cpe:2.3:a:php:blog_cms",
+      "cpe:2.3:a:php:ext-http",
+      "cpe:2.3:a:php:imagick",
+      "cpe:2.3:a:php:mysql_banner_exchange",
+      "cpe:2.3:a:php:pear",
+      "cpe:2.3:a:php:pear_archive_tar",
+      "cpe:2.3:a:php:pecl_http",
+      "cpe:2.3:a:php:pecl_phpdoc",
+      "cpe:2.3:a:php:php",
+      "cpe:2.3:a:php:phpbookingcalendar",
+      "cpe:2.3:a:php:phpsquidpass",
+      "cpe:2.3:a:php:xhprof",
+      "cpe:2.3:a:php:xml_rpc"
+    ]
+  },
+  "phpbb": {
+    "purls": [
+      "pkg:github/phpbb/phpbb",
+      "pkg:rpm/opensuse/phpbb",
+      "pkg:github/punbb/punbb"
+    ],
+    "cpes": [
+      "cpe:2.3:a:phpbb:phpbb",
+      "cpe:2.3:a:phpbb_group:phpbb"
+    ]
+  },
+  "phpmyadmin": {
+    "purls": [
+      "pkg:composer/phpmyadmin/phpmyadmin",
+      "pkg:docker/phpmyadmin/phpmyadmin",
+      "pkg:github/phpmyadmin/phpmyadmin",
+      "pkg:rpm/fedora/phpmyadmin",
+      "pkg:rpm/opensuse/phpmyadmin"
+    ],
+    "cpes": [
+      "cpe:2.3:a:phpmyadmin:phpmyadmin"
+    ]
+  },
+  "plone": {
+    "purls": [
+      "pkg:github/plone/products.isurlinportal",
+      "pkg:pypi/products.isurlinportal",
+      "pkg:github/plone/plone.namedfile",
+      "pkg:pypi/plone.namedfile",
+      "pkg:github/plone/plone",
+      "pkg:github/plone/products.plonepas",
+      "pkg:pypi/products.plonepas",
+      "pkg:pypi/plone",
+      "pkg:docker/plone",
+      "pkg:github/plone/plone.docker",
+      "pkg:github/plone/plone.rest",
+      "pkg:pypi/plone.rest",
+      "pkg:github/plone/volto",
+      "pkg:npm/%40plone/volto"
+    ],
+    "cpes": [
+      "cpe:2.3:a:plone:isurlinportal",
+      "cpe:2.3:a:plone:namedfile",
+      "cpe:2.3:a:plone:plone",
+      "cpe:2.3:a:plone:plonepas",
+      "cpe:2.3:a:plone:plone_cms",
+      "cpe:2.3:a:plone:plone_docker_image",
+      "cpe:2.3:a:plone:plone_docker_official_image",
+      "cpe:2.3:a:plone:rest",
+      "cpe:2.3:a:plone:volto"
+    ]
+  },
+  "postfix": {
+    "purls": [
+      "pkg:deb/debian/postfix",
+      "pkg:deb/ubuntu/postfix",
+      "pkg:gitlab/redhat/postfix",
+      "pkg:npm/postfix",
+      "pkg:rpm/fedora/postfix",
+      "pkg:rpm/opensuse/postfix",
+      "pkg:github/vdukhovni/postfix"
+    ],
+    "cpes": [
+      "cpe:2.3:a:postfix:postfix",
+      "cpe:2.3:a:wietse_venema:postfix"
+    ]
+  },
+  "postgresql": {
+    "purls": [
+      "pkg:docker/dpage/pgadmin4",
+      "pkg:github/postgres/pgadmin4",
+      "pkg:rpm/fedora/pgadmin4",
+      "pkg:rpm/opensuse/pgadmin4",
+      "pkg:github/pgjdbc/pgjdbc",
+      "pkg:deb/debian/postgresql",
+      "pkg:deb/ubuntu/postgresql",
+      "pkg:docker/postgres",
+      "pkg:github/postgres/postgres",
+      "pkg:gitlab/redhat/postgresql",
+      "pkg:rpm/fedora/postgresql",
+      "pkg:deb/debian/postgresql-common",
+      "pkg:deb/ubuntu/postgresql-common",
+      "pkg:deb/debian/psqlodbc",
+      "pkg:deb/ubuntu/psqlodbc",
+      "pkg:github/distrotech/psqlodbc",
+      "pkg:rpm/opensuse/psqlodbc",
+      "pkg:github/anynines/a9s-postgres-app-old"
+    ],
+    "cpes": [
+      "cpe:2.3:a:postgresql:pgadmin_4",
+      "cpe:2.3:a:postgresql:pgjdbc",
+      "cpe:2.3:a:postgresql:postgresql",
+      "cpe:2.3:a:postgresql:postgresql-common",
+      "cpe:2.3:a:postgresql:postgresql_jdbc_driver",
+      "cpe:2.3:a:postgresql:psqlodbc",
+      "cpe:2.3:a:anynines:postgresql"
+    ]
+  },
+  "privatebin": {
+    "purls": [
+      "pkg:github/privatebin/privatebin",
+      "pkg:rpm/opensuse/privatebin"
+    ],
+    "cpes": [
+      "cpe:2.3:a:privatebin:privatebin"
+    ]
+  },
+  "proftpd": {
+    "purls": [
+      "pkg:deb/debian/proftpd-basic",
+      "pkg:deb/debian/proftpd-core",
+      "pkg:deb/ubuntu/proftpd-basic",
+      "pkg:deb/ubuntu/proftpd-core",
+      "pkg:github/proftpd/proftpd",
+      "pkg:rpm/fedora/proftpd",
+      "pkg:rpm/opensuse/proftpd",
+      "pkg:golang/github.com/proftpd/proftpd"
+    ],
+    "cpes": [
+      "cpe:2.3:a:proftpd:proftpd",
+      "cpe:2.3:a:proftpd_project:proftpd"
+    ]
+  },
+  "prometheus": {
+    "purls": [
+      "pkg:deb/debian/prometheus-alertmanager",
+      "pkg:deb/ubuntu/prometheus-alertmanager",
+      "pkg:docker/ubuntu/prometheus-alertmanager",
+      "pkg:golang/github.com/prometheus/alertmanager",
+      "pkg:rpm/opensuse/alertmanager",
+      "pkg:sourceforge/alertmanager.mirror",
+      "pkg:github/prometheus/blackbox_exporter",
+      "pkg:rpm/opensuse/blackbox_exporter",
+      "pkg:rpm/opensuse/golang-github-prometheus-blackbox_exporter",
+      "pkg:rpm/opensuse/prometheus-blackbox_exporter",
+      "pkg:github/prometheus/client_golang",
+      "pkg:github/prometheus/exporter-toolkit",
+      "pkg:golang/github.com/prometheus/exporter-toolkit",
+      "pkg:deb/debian/prometheus",
+      "pkg:deb/ubuntu/prometheus",
+      "pkg:github/prometheus/prometheus",
+      "pkg:rpm/fedora/golang-github-prometheus",
+      "pkg:sourceforge/prometheus.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:prometheus:alertmanager",
+      "cpe:2.3:a:prometheus:blackbox_exporter",
+      "cpe:2.3:a:prometheus:client_golang",
+      "cpe:2.3:a:prometheus:exporter_toolkit",
+      "cpe:2.3:a:prometheus:prometheus"
+    ]
+  },
+  "puppet": {
+    "purls": [
+      "pkg:gem/bolt",
+      "pkg:github/puppetlabs/bolt",
+      "pkg:github/puppetlabs-toy-chest/chloride",
+      "pkg:github/puppetlabs/cisco_ios",
+      "pkg:deb/debian/facter",
+      "pkg:deb/ubuntu/facter",
+      "pkg:gem/facter",
+      "pkg:github/puppetlabs/facter",
+      "pkg:gitlab/cleveron/facter",
+      "pkg:rpm/fedora/facter",
+      "pkg:rpm/opensuse/facter",
+      "pkg:deb/debian/puppet-module-puppetlabs-firewall",
+      "pkg:deb/ubuntu/puppet-module-puppetlabs-firewall",
+      "pkg:github/puppetlabs/puppetlabs-firewall",
+      "pkg:bitbucket/guymatz/hiera",
+      "pkg:bitbucket/schatt/hiera",
+      "pkg:deb/debian/hiera",
+      "pkg:deb/ubuntu/hiera",
+      "pkg:gem/hiera",
+      "pkg:github/puppetlabs/hiera",
+      "pkg:rpm/fedora/hiera",
+      "pkg:github/choria-legacy/mcollective-puppet-agent",
+      "pkg:github/puppetlabs/mcollective-puppet-agent",
+      "pkg:github/choria-legacy/mcollective-sshkey-security",
+      "pkg:deb/debian/puppet",
+      "pkg:deb/ubuntu/puppet",
+      "pkg:github/puppetlabs/puppet",
+      "pkg:puppet/open-source-puppet",
+      "pkg:rpm/fedora/puppet",
+      "pkg:rpm/opensuse/puppet",
+      "pkg:deb/debian/puppet-module-puppetlabs-apache",
+      "pkg:deb/ubuntu/puppet-module-puppetlabs-apache",
+      "pkg:github/puppetlabs/puppetlabs-apache",
+      "pkg:gitlab/simp/puppetlabs-apache",
+      "pkg:deb/debian/puppet-module-puppetlabs-mysql",
+      "pkg:deb/ubuntu/puppet-module-puppetlabs-mysql",
+      "pkg:docker/eugenetolan/puppetlabs-mysql",
+      "pkg:github/eugenetolan/puppetlabs-mysql",
+      "pkg:github/puppetlabs/puppetlabs-mysql",
+      "pkg:gitlab/simp/puppetlabs-mysql",
+      "pkg:github/puppetlabs/puppetlabs-puppet_agent",
+      "pkg:github/sodabrew/puppet-dashboard",
+      "pkg:github/puppetlabs/puppetserver",
+      "pkg:github/puppetlabs-toy-chest/razor-server",
+      "pkg:deb/debian/puppet-module-puppetlabs-stdlib",
+      "pkg:deb/ubuntu/puppet-module-puppetlabs-stdlib",
+      "pkg:github/puppetlabs/puppetlabs-stdlib",
+      "pkg:gitlab/simp/puppetlabs-stdlib",
+      "pkg:rpm/opensuse/puppetlabs-stdlib",
+      "pkg:gem/puppet"
+    ],
+    "cpes": [
+      "cpe:2.3:a:puppet:bolt",
+      "cpe:2.3:a:puppet:chloride",
+      "cpe:2.3:a:puppet:cisco_ios",
+      "cpe:2.3:a:puppet:facter",
+      "cpe:2.3:a:puppet:firewall",
+      "cpe:2.3:a:puppet:hiera",
+      "cpe:2.3:a:puppet:mcollective-puppet-agent",
+      "cpe:2.3:a:puppet:mcollective-sshkey-security",
+      "cpe:2.3:a:puppet:puppet",
+      "cpe:2.3:a:puppet:puppetlabs-apache",
+      "cpe:2.3:a:puppet:puppetlabs-mysql",
+      "cpe:2.3:a:puppet:puppet_agent",
+      "cpe:2.3:a:puppet:puppet_dashboard",
+      "cpe:2.3:a:puppet:puppet_enterprise",
+      "cpe:2.3:a:puppet:puppet_server",
+      "cpe:2.3:a:puppet:razor-server",
+      "cpe:2.3:a:puppet:stdlib",
+      "cpe:2.3:a:puppetlabs:puppet"
+    ]
+  },
+  "python": {
+    "purls": [
+      "pkg:github/bbangert/beaker",
+      "pkg:pypi/beaker",
+      "pkg:cpan/python-decorator",
+      "pkg:deb/debian/python-decorator",
+      "pkg:deb/ubuntu/python-decorator",
+      "pkg:gem/ruby_decorators",
+      "pkg:gitlab/redhat/python-decorator",
+      "pkg:pypi/decorator",
+      "pkg:rpm/fedora/python-decorator",
+      "pkg:rpm/opensuse/python-decorator",
+      "pkg:deb/debian/pypy-enum34",
+      "pkg:deb/debian/python-enum34",
+      "pkg:deb/ubuntu/pypy-enum34",
+      "pkg:deb/ubuntu/python-enum34",
+      "pkg:github/certik/enum34",
+      "pkg:pypi/enum34",
+      "pkg:rpm/fedora/python-enum34",
+      "pkg:rpm/opensuse/python-enum34",
+      "pkg:deb/debian/python-hpack",
+      "pkg:deb/ubuntu/python-hpack",
+      "pkg:github/python-hyper/hpack",
+      "pkg:gitlab/kalilinux/python-hpack",
+      "pkg:pypi/hpack",
+      "pkg:rpm/fedora/python-hpack",
+      "pkg:rpm/opensuse/python-hpack",
+      "pkg:github/python-hyper/hyper",
+      "pkg:pypi/hyper",
+      "pkg:pypi/jw.util",
+      "pkg:deb/debian/jython",
+      "pkg:deb/ubuntu/jython",
+      "pkg:github/jython/jython",
+      "pkg:maven/org.python/jython",
+      "pkg:rpm/fedora/jython",
+      "pkg:rpm/opensuse/jython",
+      "pkg:sourceforge/jython",
+      "pkg:deb/debian/python-keyring",
+      "pkg:deb/ubuntu/python-keyring",
+      "pkg:github/jaraco/keyring",
+      "pkg:pypi/keyring",
+      "pkg:rpm/opensuse/python-keyring",
+      "pkg:deb/debian/python-networkx",
+      "pkg:deb/ubuntu/python-networkx",
+      "pkg:github/networkx/networkx",
+      "pkg:gitlab/redhat/python-networkx",
+      "pkg:pypi/networkx",
+      "pkg:rpm/fedora/python-networkx",
+      "pkg:rpm/opensuse/python-networkx",
+      "pkg:sourceforge/networkx.mirror",
+      "pkg:pypi/novajoin",
+      "pkg:bitbucket/openpyxl/openpyxl",
+      "pkg:deb/debian/python-openpyxl",
+      "pkg:deb/ubuntu/python-openpyxl",
+      "pkg:pypi/openpyxl",
+      "pkg:rpm/fedora/python-openpyxl",
+      "pkg:rpm/opensuse/python-openpyxl",
+      "pkg:github/python-pillow/pillow",
+      "pkg:gitlab/redhat/python-pillow",
+      "pkg:pypi/pillow",
+      "pkg:rpm/fedora/python-pillow",
+      "pkg:rpm/opensuse/python-pillow",
+      "pkg:sourceforge/pillow.mirror",
+      "pkg:github/pypa/pip",
+      "pkg:golang/github.com/pypa/pip",
+      "pkg:pypi/pip",
+      "pkg:github/erlichmen/py-bcrypt",
+      "pkg:pypi/py-bcrypt",
+      "pkg:rpm/fedora/py-bcrypt",
+      "pkg:rpm/opensuse/py-bcrypt",
+      "pkg:github/coldheat/pybluemonday",
+      "pkg:pypi/pybluemonday",
+      "pkg:deb/debian/python-pycryptodome",
+      "pkg:deb/ubuntu/python-pycryptodome",
+      "pkg:docker/pypi/pycryptodome",
+      "pkg:github/legrandin/pycryptodome",
+      "pkg:gitlab/redhat/python-pycryptodome",
+      "pkg:pypi/pycryptodome",
+      "pkg:rpm/fedora/python-pycryptodome",
+      "pkg:rpm/opensuse/python-pycryptodome",
+      "pkg:docker/pypiserver/pypiserver",
+      "pkg:github/pypiserver/pypiserver",
+      "pkg:pypi/pypiserver",
+      "pkg:rpm/opensuse/python-pypiserver",
+      "pkg:deb/debian/python",
+      "pkg:github/python/cpython",
+      "pkg:python/python",
+      "pkg:rpm/opensuse/python",
+      "pkg:pypi/gnupg",
+      "pkg:rpm/fedora/python-gnupg",
+      "pkg:rpm/opensuse/python-gnupg",
+      "pkg:rpm/opensuse/python-python-gnupg",
+      "pkg:sourceforge/py-gnupg",
+      "pkg:deb/debian/python-priority",
+      "pkg:deb/ubuntu/python-priority",
+      "pkg:github/python-hyper/priority",
+      "pkg:pypi/priority",
+      "pkg:rpm/fedora/python-priority",
+      "pkg:rpm/opensuse/python-priority",
+      "pkg:deb/debian/python-xdg",
+      "pkg:deb/ubuntu/python-xdg",
+      "pkg:gitlab/redhat/pyxdg",
+      "pkg:pypi/pyxdg",
+      "pkg:rpm/fedora/pyxdg",
+      "pkg:rpm/opensuse/python-pyxdg",
+      "pkg:pypi/pyxml",
+      "pkg:rpm/fedora/pyxml",
+      "pkg:sourceforge/pyxml",
+      "pkg:deb/debian/requests",
+      "pkg:deb/ubuntu/requests",
+      "pkg:github/psf/requests",
+      "pkg:gitlab/gitlab-org/requests",
+      "pkg:gitlab/kalilinux/requests",
+      "pkg:pypi/requests",
+      "pkg:rpm/fedora/python-requests",
+      "pkg:rpm/opensuse/python-requests",
+      "pkg:deb/debian/python-rply",
+      "pkg:deb/ubuntu/python-rply",
+      "pkg:pypi/rply",
+      "pkg:rpm/fedora/python-rply",
+      "pkg:rpm/opensuse/python-rply",
+      "pkg:deb/debian/python3-rsa",
+      "pkg:deb/debian/python-rsa",
+      "pkg:deb/ubuntu/python3-rsa",
+      "pkg:deb/ubuntu/python-rsa",
+      "pkg:github/sybrenstuvel/python-rsa",
+      "pkg:gitlab/redhat/python-rsa",
+      "pkg:pypi/rsa",
+      "pkg:rpm/fedora/python-rsa",
+      "pkg:rpm/opensuse/python-rsa",
+      "pkg:deb/debian/pypy-setuptools",
+      "pkg:deb/debian/python-setuptools",
+      "pkg:deb/ubuntu/pypy-setuptools",
+      "pkg:deb/ubuntu/python-setuptools",
+      "pkg:github/pypa/setuptools",
+      "pkg:gitlab/python-setuptools",
+      "pkg:pypi/setuptools",
+      "pkg:rpm/fedora/python-setuptools",
+      "pkg:rpm/opensuse/python-setuptools",
+      "pkg:deb/debian/python-tablib",
+      "pkg:deb/ubuntu/python-tablib",
+      "pkg:pypi/tablib",
+      "pkg:rpm/fedora/python-tablib",
+      "pkg:rpm/opensuse/python-tablib",
+      "pkg:fedora/python-tgcaptcha",
+      "pkg:pypi/tgcaptcha",
+      "pkg:rpm/fedora/python-tgcaptcha2",
+      "pkg:github/paulledemon/tkvideoplayer",
+      "pkg:pypi/tkvideoplayer",
+      "pkg:github/python/typed_ast",
+      "pkg:pypi/typed-ast",
+      "pkg:rpm/fedora/python3-typed_ast",
+      "pkg:github/ultrajson/ultrajson",
+      "pkg:golang/github.com/ultrajson/ultrajson",
+      "pkg:pypi/ujson",
+      "pkg:deb/debian/python-urllib3",
+      "pkg:deb/ubuntu/python-urllib3",
+      "pkg:github/urllib3/urllib3",
+      "pkg:gitlab/kalilinux/python-urllib3",
+      "pkg:gitlab/redhat/python-urllib3",
+      "pkg:pypi/urllib3",
+      "pkg:rpm/centos/python-urllib3",
+      "pkg:rpm/fedora/python-urllib3",
+      "pkg:rpm/opensuse/python-urllib3",
+      "pkg:github/pypa/virtualenv",
+      "pkg:golang/github.com/pypa/virtualenv",
+      "pkg:pypi/virtualenv"
+    ],
+    "cpes": [
+      "cpe:2.3:a:python:beaker",
+      "cpe:2.3:a:python:decorator",
+      "cpe:2.3:a:python:enum34",
+      "cpe:2.3:a:python:hpack",
+      "cpe:2.3:a:python:hyper",
+      "cpe:2.3:a:python:jw.util",
+      "cpe:2.3:a:python:jython",
+      "cpe:2.3:a:python:keyring",
+      "cpe:2.3:a:python:networkx",
+      "cpe:2.3:a:python:novajoin",
+      "cpe:2.3:a:python:openpyxl",
+      "cpe:2.3:a:python:pillow",
+      "cpe:2.3:a:python:pip",
+      "cpe:2.3:a:python:py-bcrypt",
+      "cpe:2.3:a:python:pybluemonday",
+      "cpe:2.3:a:python:pycryptodome",
+      "cpe:2.3:a:python:pypiserver",
+      "cpe:2.3:a:python:python",
+      "cpe:2.3:a:python:python-gnupg",
+      "cpe:2.3:a:python:python_priority_library",
+      "cpe:2.3:a:python:pyxdg",
+      "cpe:2.3:a:python:pyxml",
+      "cpe:2.3:a:python:requests",
+      "cpe:2.3:a:python:rply",
+      "cpe:2.3:a:python:rsa",
+      "cpe:2.3:a:python:setuptools",
+      "cpe:2.3:a:python:tablib",
+      "cpe:2.3:a:python:tgcaptcha2",
+      "cpe:2.3:a:python:tkvideoplayer",
+      "cpe:2.3:a:python:typed_ast",
+      "cpe:2.3:a:python:ujson",
+      "cpe:2.3:a:python:ultrajson",
+      "cpe:2.3:a:python:urllib3",
+      "cpe:2.3:a:python:virtualenv"
+    ]
+  },
+  "qt": {
+    "purls": [
+      "pkg:deb/debian/qtbase5-dev",
+      "pkg:deb/ubuntu/qtbase5-dev",
+      "pkg:github/qt/qt",
+      "pkg:github/qt/qt5",
+      "pkg:qt/qt",
+      "pkg:rpm/fedora/qt5-qtbase",
+      "pkg:rpm/opensuse/qt5-qtbase",
+      "pkg:github/qtwebkit/qt5",
+      "pkg:github/qt/qtbase",
+      "pkg:github/qt/qtsvg",
+      "pkg:github/qt/qtwebkit",
+      "pkg:github/ramons03/qt-creator"
+    ],
+    "cpes": [
+      "cpe:2.3:a:qt:qt",
+      "cpe:2.3:a:qt:qt5-qtwebkit",
+      "cpe:2.3:a:qt:qtbase",
+      "cpe:2.3:a:qt:qtsvg",
+      "cpe:2.3:a:qt:qtwebkit",
+      "cpe:2.3:a:trolltech:qt"
+    ]
+  },
+  "quasar": {
+    "purls": [
+      "pkg:github/quasarframework/quasar-ui-qmarkdown",
+      "pkg:npm/%40quasar/quasar-ui-qmarkdown"
+    ],
+    "cpes": [
+      "cpe:2.3:a:quasar:qmarkdown"
+    ]
+  },
+  "rabbitmq": {
+    "purls": [
+      "pkg:github/rabbitmq/rabbitmq-jms-client",
+      "pkg:docker/rabbitmq",
+      "pkg:github/docker-library/rabbitmq",
+      "pkg:golang/github.com/docker-library/rabbitmq",
+      "pkg:deb/debian/rabbitmq-server",
+      "pkg:github/rabbitmq/rabbitmq-server",
+      "pkg:rpm/fedora/rabbitmq-server",
+      "pkg:deb/ubuntu/rabbitmq-server",
+      "pkg:rpm/opensuse/rabbitmq-server",
+      "pkg:sourceforge/rabbitmq-server.mirror",
+      "pkg:bitbucket/dexmatech/puppet-rabbitmq",
+      "pkg:deb/debian/puppet-module-puppetlabs-rabbitmq",
+      "pkg:deb/ubuntu/puppet-module-puppetlabs-rabbitmq",
+      "pkg:github/voxpupuli/puppet-rabbitmq"
+    ],
+    "cpes": [
+      "cpe:2.3:a:rabbitmq:jms_client",
+      "cpe:2.3:a:docker:rabbitmq",
+      "cpe:2.3:a:pivotal_software:rabbitmq",
+      "cpe:2.3:a:vmware:rabbitmq",
+      "cpe:2.3:a:voxpupuli:rabbitmq"
+    ]
+  },
+  "rancher": {
+    "purls": [
+      "pkg:github/rancher/rancher",
+      "pkg:sourceforge/rancher.mirror",
+      "pkg:github/rancher/rke2",
+      "pkg:rpm/opensuse/rke2",
+      "pkg:docker/rancher/rancher"
+    ],
+    "cpes": [
+      "cpe:2.3:a:rancher:rancher",
+      "cpe:2.3:a:rancher:rke2",
+      "cpe:2.3:a:rancher_labs:rancher",
+      "cpe:2.3:a:suse:rancher"
+    ]
+  },
+  "react": {
+    "purls": [
+      "pkg:github/remix-run/react",
+      "pkg:npm/%40remix-run/react",
+      "pkg:github/remix-run/react-router",
+      "pkg:npm/react-router",
+      "pkg:github/facebook/react"
+    ],
+    "cpes": [
+      "cpe:2.3:o:react:react",
+      "cpe:2.3:a:react:react-router",
+      "cpe:2.3:a:facebook:react"
+    ]
+  },
+  "redis": {
+    "purls": [
+      "pkg:deb/debian/hiredis",
+      "pkg:deb/ubuntu/hiredis",
+      "pkg:github/redis/hiredis",
+      "pkg:rpm/fedora/hiredis",
+      "pkg:rpm/opensuse/hiredis",
+      "pkg:deb/debian/redis",
+      "pkg:deb/ubuntu/redis",
+      "pkg:docker/redis",
+      "pkg:github/redis/redis",
+      "pkg:rpm/centos/redis",
+      "pkg:rpm/opensuse/redis",
+      "pkg:github/redis/redis-py",
+      "pkg:pypi/redis-py",
+      "pkg:github/redisgraph/redisgraph",
+      "pkg:github/redislabs/redisraft",
+      "pkg:deb/debian/node-redis",
+      "pkg:deb/ubuntu/node-redis",
+      "pkg:github/redis/node-redis",
+      "pkg:npm/redis",
+      "pkg:redis/redis"
+    ],
+    "cpes": [
+      "cpe:2.3:a:redis:hiredis",
+      "cpe:2.3:a:redis:redis",
+      "cpe:2.3:a:redis:redis-py",
+      "cpe:2.3:a:redis:redisgraph",
+      "cpe:2.3:a:redis:redisraft",
+      "cpe:2.3:a:redis.js:redis",
+      "cpe:2.3:a:redislabs:redis"
+    ]
+  },
+  "redmine": {
+    "purls": [
+      "pkg:github/jbox-web/redmine_git_hosting",
+      "pkg:github/letic/redmine_git_hosting",
+      "pkg:deb/debian/redmine",
+      "pkg:deb/ubuntu/redmine",
+      "pkg:github/redmine/redmine",
+      "pkg:redmine/redmine",
+      "pkg:rpm/opensuse/redmine",
+      "pkg:github/redmine-git-hosting/redmine_git_hosting"
+    ],
+    "cpes": [
+      "cpe:2.3:a:redmine:git_hosting",
+      "cpe:2.3:a:redmine:redmine",
+      "cpe:2.3:a:redmine:redmine_git_hosting_plugin"
+    ]
+  },
+  "ros": {
+    "purls": [
+      "pkg:github/ros/ros_comm",
+      "pkg:github/ros2/sros2"
+    ],
+    "cpes": [
+      "cpe:2.3:a:ros:ros-comm",
+      "cpe:2.3:a:ros:sros2"
+    ]
+  },
+  "roundcube": {
+    "purls": [
+      "pkg:deb/debian/roundcube",
+      "pkg:deb/ubuntu/roundcube",
+      "pkg:github/roundcube/roundcubemail",
+      "pkg:rpm/fedora/roundcubemail",
+      "pkg:rpm/opensuse/roundcubemail",
+      "pkg:sourceforge/roundcubemail",
+      "pkg:bitbucket/2krueger/roundcubemail",
+      "pkg:docker/roundcube/roundcubemail"
+    ],
+    "cpes": [
+      "cpe:2.3:a:roundcube:roundcube",
+      "cpe:2.3:a:roundcube:roundcube_webmail",
+      "cpe:2.3:a:roundcube:webmail"
+    ]
+  },
+  "ruby": {
+    "purls": [
+      "pkg:gem/ruby/fileutils",
+      "pkg:github/ruby/fileutils",
+      "pkg:gem/uri",
+      "pkg:github/ruby/uri",
+      "pkg:github/ruby/ruby",
+      "pkg:ruby-lang/ruby"
+    ],
+    "cpes": [
+      "cpe:2.3:a:ruby:fileutils",
+      "cpe:2.3:a:ruby:uri",
+      "cpe:2.3:a:ruby-lang:ruby"
+    ]
+  },
+  "shopware": {
+    "purls": [
+      "pkg:github/shopware/platform",
+      "pkg:shopware/shopware-6",
+      "pkg:composer/shopware/platform",
+      "pkg:golang/github.com/shopware/platform"
+    ],
+    "cpes": [
+      "cpe:2.3:a:shopware:shopware",
+      "cpe:2.3:a:shopware:swagpaypal"
+    ]
+  },
+  "silverstripe": {
+    "purls": [
+      "pkg:github/silverstripe/silverstripe-admin",
+      "pkg:github/silverstripe/silverstripe-assets",
+      "pkg:github/silverstripe/silverstripe-asset-admin",
+      "pkg:github/silverstripe/silverstripe-framework",
+      "pkg:github/silverstripe/silverstripe-graphql",
+      "pkg:github/silverstripe/silverstripe-mimevalidator",
+      "pkg:github/silverstripe/recipe-core",
+      "pkg:github/silverstripe/silverstripe-registry",
+      "pkg:composer/silverstripe/reports",
+      "pkg:github/silverstripe/silverstripe-reports",
+      "pkg:github/silverstripe/silverstripe-restfulserver",
+      "pkg:github/silverstripe/silverstripe-cms",
+      "pkg:github/silverstripe/silverstripe-omnipay",
+      "pkg:github/thephpleague/omnipay",
+      "pkg:sourceforge/omnipay.mirror",
+      "pkg:github/silverstripe/silverstripe-subsites"
+    ],
+    "cpes": [
+      "cpe:2.3:a:silverstripe:admin",
+      "cpe:2.3:a:silverstripe:assets",
+      "cpe:2.3:a:silverstripe:asset_admin",
+      "cpe:2.3:a:silverstripe:framework",
+      "cpe:2.3:a:silverstripe:graphql",
+      "cpe:2.3:a:silverstripe:mimevalidator",
+      "cpe:2.3:a:silverstripe:recipe",
+      "cpe:2.3:a:silverstripe:registry",
+      "cpe:2.3:a:silverstripe:reports",
+      "cpe:2.3:a:silverstripe:restfulserver",
+      "cpe:2.3:a:silverstripe:silverstripe",
+      "cpe:2.3:a:silverstripe:silverstripe-graphql",
+      "cpe:2.3:a:silverstripe:silverstripe-omnipay",
+      "cpe:2.3:a:silverstripe:subsites"
+    ]
+  },
+  "sourcegraph": {
+    "purls": [
+      "pkg:github/sourcegraph/cody",
+      "pkg:github/sourcegraph/sourcegraph"
+    ],
+    "cpes": [
+      "cpe:2.3:a:sourcegraph:cody",
+      "cpe:2.3:a:sourcegraph:sourcegraph"
+    ]
+  },
+  "splunk": {
+    "purls": [
+      "pkg:github/splunk/hadoop-connect-for-splunk",
+      "pkg:github/splunk/splunk-sdk-python",
+      "pkg:pypi/splunk-sdk",
+      "pkg:github/jenkinsci/splunk-devops-plugin",
+      "pkg:github/splunk/splunkforjenkins"
+    ],
+    "cpes": [
+      "cpe:2.3:a:splunk:hadoop_connect",
+      "cpe:2.3:a:splunk:software_development_kit",
+      "cpe:2.3:a:jenkins:splunk"
+    ]
+  },
+  "sqlite": {
+    "purls": [
+      "pkg:deb/debian/sqlite",
+      "pkg:deb/ubuntu/sqlite",
+      "pkg:github/sqlite/sqlite"
+    ],
+    "cpes": [
+      "cpe:2.3:a:sqlite:sqlite"
+    ]
+  },
+  "squid": {
+    "purls": [
+      "pkg:github/squid-cache/squid",
+      "pkg:gitlab/redhat/squid",
+      "pkg:deb/debian/squid",
+      "pkg:deb/ubuntu/squid",
+      "pkg:docker/ubuntu/squid",
+      "pkg:rpm/fedora/squid",
+      "pkg:rpm/opensuse/squid",
+      "pkg:github/squid-cache/squid2"
+    ],
+    "cpes": [
+      "cpe:2.3:a:squid:squid",
+      "cpe:2.3:a:squid:squid_web_proxy",
+      "cpe:2.3:a:squid:squid_web_proxy_cache",
+      "cpe:2.3:a:squid-cache:squid"
+    ]
+  },
+  "statamic": {
+    "purls": [
+      "pkg:github/duncanmcclean/guest-entries",
+      "pkg:github/statamic/cms"
+    ],
+    "cpes": [
+      "cpe:2.3:a:statamic:guest_entries",
+      "cpe:2.3:a:statamic:statamic"
+    ]
+  },
+  "svelte": {
+    "purls": [
+      "pkg:github/sveltejs/kit",
+      "pkg:npm/%40sveltejs/adapter-node",
+      "pkg:npm/devalue",
+      "pkg:npm/%40sveltejs/kit",
+      "pkg:github/sveltejs/language-tools"
+    ],
+    "cpes": [
+      "cpe:2.3:a:svelte:adapter-node",
+      "cpe:2.3:a:svelte:devalue",
+      "cpe:2.3:a:svelte:kit",
+      "cpe:2.3:a:svelte:svelte",
+      "cpe:2.3:a:svelte:sveltekit"
+    ]
+  },
+  "symfony": {
+    "purls": [
+      "pkg:composer/symfony/symfony",
+      "pkg:github/symfony/symfony",
+      "pkg:golang/github.com/symfony/symfony",
+      "pkg:sourceforge/symfony.mirror",
+      "pkg:deb/debian/twig",
+      "pkg:deb/ubuntu/twig",
+      "pkg:github/twigphp/twig",
+      "pkg:nuget/twig.twig",
+      "pkg:rpm/fedora/php-twig",
+      "pkg:composer/symfony/ux-autocomplete",
+      "pkg:github/symfony/ux-autocomplete",
+      "pkg:github/auth0/symfony"
+    ],
+    "cpes": [
+      "cpe:2.3:a:symfony:symfony",
+      "cpe:2.3:a:symfony:twig",
+      "cpe:2.3:a:symfony:ux_autocomplete",
+      "cpe:2.3:a:auth0:symfony",
+      "cpe:2.3:a:sensiolabs:symfony",
+      "cpe:2.3:a:sensiolabsy:symfony"
+    ]
+  },
+  "tarantool": {
+    "purls": [
+      "pkg:deb/debian/msgpuck",
+      "pkg:deb/ubuntu/msgpuck",
+      "pkg:github/rtsisyk/msgpuck",
+      "pkg:github/tarantool/msgpuck",
+      "pkg:rpm/fedora/msgpuck",
+      "pkg:deb/debian/tarantool",
+      "pkg:deb/ubuntu/tarantool",
+      "pkg:github/tarantool/tarantool",
+      "pkg:gitlab/tarantool/tarantool",
+      "pkg:rpm/fedora/tarantool",
+      "pkg:rpm/opensuse/tarantool"
+    ],
+    "cpes": [
+      "cpe:2.3:a:tarantool:msgpuck",
+      "cpe:2.3:a:tarantool:tarantool"
+    ]
+  },
+  "terraform": {
+    "purls": [
+      "pkg:github/microsoft/terraform-provider-power-platform",
+      "pkg:docker/hashicorp/terraform",
+      "pkg:github/hashicorp/terraform",
+      "pkg:rpm/opensuse/terraform"
+    ],
+    "cpes": [
+      "cpe:2.3:a:terraform:power_platform_terraform_provider",
+      "cpe:2.3:a:hashicorp:terraform"
+    ]
+  },
+  "traefik": {
+    "purls": [
+      "pkg:github/traefik/traefik",
+      "pkg:rpm/opensuse/traefik",
+      "pkg:sourceforge/traefik.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:traefik:traefik",
+      "cpe:2.3:a:containous:traefik"
+    ]
+  },
+  "twig": {
+    "purls": [
+      "pkg:deb/debian/twig",
+      "pkg:deb/ubuntu/twig",
+      "pkg:github/twigphp/twig",
+      "pkg:rpm/fedora/php-twig",
+      "pkg:nuget/twig.twig"
+    ],
+    "cpes": [
+      "cpe:2.3:a:twig:twig",
+      "cpe:2.3:a:sensiolabs:twig",
+      "cpe:2.3:a:symfony:twig"
+    ]
+  },
+  "typo3": {
+    "purls": [
+      "pkg:composer/aimeos/aimeos-typo3",
+      "pkg:github/aimeos/aimeos-typo3",
+      "pkg:golang/github.com/aimeos/aimeos-typo3",
+      "pkg:github/neos/flow",
+      "pkg:github/typo3/fluid",
+      "pkg:github/pegasuswerbeagentur/google_for_jobs",
+      "pkg:github/typo3/html-sanitizer",
+      "pkg:composer/coderscare/dmmjobcontrol",
+      "pkg:github/coders-care/dmmjobcontrol",
+      "pkg:gitlab/coderscare/dmmjobcontrol",
+      "pkg:github/friendsoftypo3/mediace",
+      "pkg:github/neos/neos",
+      "pkg:github/typo3/phar-stream-wrapper",
+      "pkg:github/typo3gmbh/svg_sanitizer",
+      "pkg:github/typo3/typo3",
+      "pkg:typo3/typo3.cms.git",
+      "pkg:composer/fluidtypo3/vhs",
+      "pkg:github/fluidtypo3/vhs",
+      "pkg:golang/github.com/fluidtypo3/vhs"
+    ],
+    "cpes": [
+      "cpe:2.3:a:typo3:aimeos",
+      "cpe:2.3:a:typo3:flow",
+      "cpe:2.3:a:typo3:fluid",
+      "cpe:2.3:a:typo3:fluid_engine",
+      "cpe:2.3:a:typo3:google_for_jobs",
+      "cpe:2.3:a:typo3:html_sanitizer",
+      "cpe:2.3:a:typo3:jobcontrol",
+      "cpe:2.3:a:typo3:mediace",
+      "cpe:2.3:a:typo3:neos",
+      "cpe:2.3:a:typo3:pharstreamwrapper",
+      "cpe:2.3:a:typo3:svg_sanitizer",
+      "cpe:2.3:a:typo3:typo3",
+      "cpe:2.3:a:typo3:vhs"
+    ]
+  },
+  "ubuntu": {
+    "purls": [
+      "pkg:deb/debian/accountsservice",
+      "pkg:deb/ubuntu/accountsservice",
+      "pkg:github/magcius/accountsservice",
+      "pkg:rpm/fedora/accountsservice",
+      "pkg:rpm/opensuse/accountsservice",
+      "pkg:deb/debian/apparmor",
+      "pkg:deb/ubuntu/apparmor",
+      "pkg:deb/debian/python-apt",
+      "pkg:deb/ubuntu/python-apt",
+      "pkg:github/excid3/python-apt",
+      "pkg:github/mvo5/python-apt",
+      "pkg:github/pop-os/python-apt",
+      "pkg:pypi/python-apt",
+      "pkg:rpm/fedora/python-apt",
+      "pkg:deb/ubuntu/vivid",
+      "pkg:github/sharkdp/vivid",
+      "pkg:golang/github.com/sharkdp/vivid"
+    ],
+    "cpes": [
+      "cpe:2.3:a:ubuntu:accountsservice",
+      "cpe:2.3:a:ubuntu:apparmor",
+      "cpe:2.3:a:ubuntu:python-apt",
+      "cpe:2.3:a:ubuntu:vivid"
+    ]
+  },
+  "umbraco": {
+    "purls": [
+      "pkg:github/umbraco/umbraco-cms",
+      "pkg:nuget/UmbracoCms",
+      "pkg:nuget/umbracoforms",
+      "pkg:nuget/umbracoCms",
+      "pkg:nuget/UmbracoCms.Core",
+      "pkg:nuget/UmbracoCms.Web",
+      "pkg:sourceforge/umbraco",
+      "pkg:nuget/UmbracoCms"
+    ],
+    "cpes": [
+      "cpe:2.3:a:umbraco:umbraco",
+      "cpe:2.3:a:umbraco:umbracoforms",
+      "cpe:2.3:a:umbraco:umbraco_cms"
+    ]
+  },
+  "unrealircd": {
+    "purls": [
+      "pkg:github/unrealircd/unrealircd",
+      "pkg:rpm/fedora/unrealircd",
+      "pkg:rpm/opensuse/unrealircd",
+      "pkg:sourceforge/unrealircd"
+    ],
+    "cpes": [
+      "cpe:2.3:a:unrealircd:unrealircd",
+      "cpe:2.3:a:unreal:unrealircd"
+    ]
+  },
+  "wagtail": {
+    "purls": [
+      "pkg:github/coderedcorp/coderedcms",
+      "pkg:pypi/coderedcms",
+      "pkg:github/wagtail/wagtail",
+      "pkg:pypi/wagtail",
+      "pkg:rpm/opensuse/python-wagtail",
+      "pkg:sourceforge/wagtail.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:wagtail:codered_extensions",
+      "cpe:2.3:a:wagtail:wagtail",
+      "cpe:2.3:a:torchbox:wagtail"
+    ]
+  },
+  "weechat": {
+    "purls": [
+      "pkg:deb/debian/weechat",
+      "pkg:deb/ubuntu/weechat",
+      "pkg:github/weechat/weechat",
+      "pkg:gnu/weechat",
+      "pkg:rpm/fedora/weechat",
+      "pkg:rpm/opensuse/weechat"
+    ],
+    "cpes": [
+      "cpe:2.3:a:weechat:weechat",
+      "cpe:2.3:a:flashtux:weechat"
+    ]
+  },
+  "wireshark": {
+    "purls": [
+      "pkg:github/wireshark/wireshark",
+      "pkg:wireshark/wireshark"
+    ],
+    "cpes": [
+      "cpe:2.3:a:wireshark:wireshark"
+    ]
+  },
+  "wordpress": {
+    "purls": [
+      "pkg:github/viniciusanchieta/cryptographp",
+      "pkg:github/dd32/debug-bar",
+      "pkg:github/wp-plugins/fcchat",
+      "pkg:github/wpplugins/fcchat",
+      "pkg:github/wordpress/gutenberg",
+      "pkg:github/wp-plugins/imagements",
+      "pkg:github/wpplugins/lanoba-social-plugin",
+      "pkg:github/wp-plugins/math-comment-spam-protection",
+      "pkg:github/rolandocaldas/pay-with-a-tweet-wp-plugin",
+      "pkg:github/wpplugins/pictpress",
+      "pkg:github/wp-plugins/newsletter",
+      "pkg:github/cabrerahector/wordpress-popular-posts",
+      "pkg:github/wordpress/requests",
+      "pkg:github/michelem09/wassup",
+      "pkg:github/wordpress/wordpress",
+      "pkg:github/wordpress/wordpress-develop",
+      "pkg:github/bhautikj/wordspew",
+      "pkg:github/drzax/wp-footnotes",
+      "pkg:github/codeinwp/wp-maintenance-mode"
+    ],
+    "cpes": [
+      "cpe:2.3:a:wordpress:cryptographp",
+      "cpe:2.3:a:wordpress:debug_bar",
+      "cpe:2.3:a:wordpress:fcchat_widget",
+      "cpe:2.3:a:wordpress:gutenberg",
+      "cpe:2.3:a:wordpress:imagements",
+      "cpe:2.3:a:wordpress:lanoba_social_plugin",
+      "cpe:2.3:a:wordpress:math_comment_spam_protection_plugin",
+      "cpe:2.3:a:wordpress:pay-with-tweet",
+      "cpe:2.3:a:wordpress:pictpress",
+      "cpe:2.3:a:wordpress:plugin_newsletter_plugin",
+      "cpe:2.3:a:wordpress:popular_posts",
+      "cpe:2.3:a:wordpress:requests",
+      "cpe:2.3:a:wordpress:wassup_plugin",
+      "cpe:2.3:a:wordpress:wordpress",
+      "cpe:2.3:a:wordpress:wordspew",
+      "cpe:2.3:a:wordpress:wp-footnotes",
+      "cpe:2.3:a:wordpress:wp_maintenance_mode_plugin"
+    ]
+  },
+  "zabbix": {
+    "purls": [
+      "pkg:github/zabbix/zabbix-docker",
+      "pkg:golang/github.com/zabbix/zabbix-docker",
+      "pkg:docker/zabbix/zabbix-agent",
+      "pkg:github/zabbix/zabbix",
+      "pkg:rpm/fedora/zabbix",
+      "pkg:rpm/opensuse/zabbix",
+      "pkg:zabbix/zbx/zabbix",
+      "pkg:docker/zabbix/zabbix-agent2",
+      "pkg:github/mesilat/zabbix-plugin"
+    ],
+    "cpes": [
+      "cpe:2.3:a:zabbix:web_service_report_generation",
+      "cpe:2.3:a:zabbix:zabbix",
+      "cpe:2.3:a:zabbix:zabbiz-agent2",
+      "cpe:2.3:a:mesilat:zabbix"
+    ]
+  },
+  "cachet": {
+    "purls": [
+      "pkg:composer/cachethq/cachet",
+      "pkg:github/cachethq/cachet",
+      "pkg:github/fiveai/cachet",
+      "pkg:golang/github.com/cachethq/cachet"
+    ],
+    "cpes": [
+      "cpe:2.3:a:all-three:cachet",
+      "cpe:2.3:a:chachethq:cachet"
+    ]
+  },
+  "opensearch": {
+    "purls": [
+      "pkg:gem/opensearch-ruby",
+      "pkg:github/opensearch-project/opensearch-ruby"
+    ],
+    "cpes": [
+      "cpe:2.3:a:amazon:opensearch"
+    ]
+  },
+  "ansible": {
+    "purls": [
+      "pkg:deb/debian/ansible",
+      "pkg:deb/ubuntu/ansible",
+      "pkg:docker/ansible/ansible",
+      "pkg:github/ansible/ansible",
+      "pkg:rpm/fedora/ansible",
+      "pkg:rpm/opensuse/ansible",
+      "pkg:github/confluentinc/cp-ansible",
+      "pkg:github/jcsirot/ansible-plugin",
+      "pkg:github/jenkinsci/ansible-plugin"
+    ],
+    "cpes": [
+      "cpe:2.3:a:ansibleworks:ansible",
+      "cpe:2.3:a:confluent:ansible",
+      "cpe:2.3:a:jenkins:ansible",
+      "cpe:2.3:a:redhat:ansible"
+    ]
+  },
+  "hbase": {
+    "purls": [
+      "pkg:apache/hbase",
+      "pkg:github/apache/hbase",
+      "pkg:maven/org.apache.hbase/hbase"
+    ],
+    "cpes": [
+      "cpe:2.3:a:apache:hbase"
+    ]
+  },
+  "log4j": {
+    "purls": [
+      "pkg:apache/logging",
+      "pkg:deb/debian/apache-log4j2",
+      "pkg:deb/ubuntu/apache-log4j2",
+      "pkg:github/apache/log4j",
+      "pkg:maven/org.apache.logging.log4j/log4j",
+      "pkg:rpm/fedora/log4j",
+      "pkg:rpm/opensuse/log4j"
+    ],
+    "cpes": [
+      "cpe:2.3:a:apache:log4j"
+    ]
+  },
+  "solr": {
+    "purls": [
+      "pkg:apache/solr",
+      "pkg:github/apache/solr",
+      "pkg:maven/org.apache.solr/solr",
+      "pkg:maven/org.apache.solr/solrj",
+      "pkg:rpm/opensuse/solr",
+      "pkg:sourceforge/apache-solr"
+    ],
+    "cpes": [
+      "cpe:2.3:a:apache:solr"
+    ]
+  },
+  "tomcat": {
+    "purls": [
+      "pkg:apache/tomcat",
+      "pkg:github/apache/tomcat",
+      "pkg:maven/org.apache.tomcat/tomcat",
+      "pkg:rpm/fedora/tomcat",
+      "pkg:rpm/opensuse/tomcat",
+      "pkg:deb/debian/tomcat10"
+    ],
+    "cpes": [
+      "cpe:2.3:a:apache:tomcat",
+      "cpe:2.3:a:apache_software_foundation:tomcat"
+    ]
+  },
+  "zookeeper": {
+    "purls": [
+      "pkg:apache/zookeeper",
+      "pkg:deb/debian/zookeeper",
+      "pkg:deb/ubuntu/zookeeper",
+      "pkg:github/apache/zookeeper",
+      "pkg:maven/org.apache.zookeeper/zookeeper",
+      "pkg:rpm/opensuse/zookeeper"
+    ],
+    "cpes": [
+      "cpe:2.3:a:apache:zookeeper"
+    ]
+  },
+  "argo-workflows": {
+    "purls": [
+      "pkg:github/argoproj/argo-workflows",
+      "pkg:golang/github.com/argoproj/argo-workflows"
+    ],
+    "cpes": [
+      "cpe:2.3:a:argo-workflows_project:argo-workflows",
+      "cpe:2.3:a:argo_project:argo-workflows"
+    ]
+  },
+  "backdrop": {
+    "purls": [
+      "pkg:github/backdrop/backdrop"
+    ],
+    "cpes": [
+      "cpe:2.3:a:backdropcms:backdrop"
+    ]
+  },
+  "kirby": {
+    "purls": [
+      "pkg:composer/getkirby/kirby",
+      "pkg:github/getkirby/kirby"
+    ],
+    "cpes": [
+      "cpe:2.3:a:bastian_allgeier:kirby",
+      "cpe:2.3:a:getkirby:kirby"
+    ]
+  },
+  "greenlight": {
+    "purls": [
+      "pkg:docker/bigbluebutton/greenlight",
+      "pkg:github/bigbluebutton/greenlight",
+      "pkg:rpm/opensuse/greenlight"
+    ],
+    "cpes": [
+      "cpe:2.3:a:bigbluebutton:greenlight"
+    ]
+  },
+  "chrome": {
+    "purls": [
+      "pkg:docker/browserless/chrome",
+      "pkg:github/browserless/chrome",
+      "pkg:npm/browserless-chrome"
+    ],
+    "cpes": [
+      "cpe:2.3:a:browserless:chrome"
+    ]
+  },
+  "caddy": {
+    "purls": [
+      "pkg:docker/caddy",
+      "pkg:github/caddyserver/caddy",
+      "pkg:rpm/fedora/caddy",
+      "pkg:rpm/opensuse/caddy",
+      "pkg:sourceforge/caddy.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:caddyserver:caddy"
+    ]
+  },
+  "envoy": {
+    "purls": [
+      "pkg:docker/envoyproxy/envoy",
+      "pkg:github/envoyproxy/envoy",
+      "pkg:sourceforge/envoy.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:cncf:envoy",
+      "cpe:2.3:a:envoyproxy:envoy"
+    ]
+  },
+  "django": {
+    "purls": [
+      "pkg:docker/django/django",
+      "pkg:github/django/django",
+      "pkg:pypi/django",
+      "pkg:github/gofiber/template",
+      "pkg:golang/github.com/gofiber/template"
+    ],
+    "cpes": [
+      "cpe:2.3:a:djangoproject:django",
+      "cpe:2.3:a:django_project:django",
+      "cpe:2.3:a:gofiber:django"
+    ]
+  },
+  "composer": {
+    "purls": [
+      "pkg:docker/composer",
+      "pkg:github/composer/docker",
+      "pkg:deb/debian/composer",
+      "pkg:deb/ubuntu/composer",
+      "pkg:github/composer/composer",
+      "pkg:rpm/fedora/composer",
+      "pkg:rpm/opensuse/composer",
+      "pkg:sourceforge/composer.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:docker:composer",
+      "cpe:2.3:a:getcomposer:composer"
+    ]
+  },
+  "pigeonhole": {
+    "purls": [
+      "pkg:github/dovecot/pigeonhole"
+    ],
+    "cpes": [
+      "cpe:2.3:a:dovecot:pigeonhole"
+    ]
+  },
+  "influxdb": {
+    "purls": [
+      "pkg:github/jenkinsci/influxdb-plugin",
+      "pkg:deb/debian/influxdb",
+      "pkg:deb/ubuntu/influxdb",
+      "pkg:github/influxdata/influxdb",
+      "pkg:rpm/opensuse/influxdb",
+      "pkg:sourceforge/influxdb.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:eficode:influxdb",
+      "cpe:2.3:a:influxdata:influxdb"
+    ]
+  },
+  "kibana": {
+    "purls": [
+      "pkg:docker/elastic/kibana",
+      "pkg:github/elastic/kibana",
+      "pkg:rpm/opensuse/kibana",
+      "pkg:docker/kibana",
+      "pkg:github/elastic/elasticsearch",
+      "pkg:sourceforge/kibana.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:elastic:kibana",
+      "cpe:2.3:a:elasticsearch:kibana"
+    ]
+  },
+  "logstash": {
+    "purls": [
+      "pkg:github/elastic/logstash",
+      "pkg:sourceforge/logstash.mirror",
+      "pkg:Docker/logstash",
+      "pkg:github/jenkinsci/logstash-plugin"
+    ],
+    "cpes": [
+      "cpe:2.3:a:elastic:logstash",
+      "cpe:2.3:a:elasticsearch:logstash",
+      "cpe:2.3:a:jenkins:logstash"
+    ]
+  },
+  "express": {
+    "purls": [
+      "pkg:deb/debian/node-express",
+      "pkg:deb/ubuntu/node-express",
+      "pkg:github/expressjs/express",
+      "pkg:maven/org.webjars.npm/express",
+      "pkg:npm/express",
+      "pkg:sourceforge/express.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:expressjs:express",
+      "cpe:2.3:a:openjsf:express"
+    ]
+  },
+  "react-native": {
+    "purls": [
+      "pkg:github/facebook/react-native"
+    ],
+    "cpes": [
+      "cpe:2.3:a:facebook:react-native"
+    ]
+  },
+  "bootstrap": {
+    "purls": [
+      "pkg:github/twbs/bootstrap",
+      "pkg:npm/bootstrap",
+      "pkg:nuget/bootstrap",
+      "pkg:sourceforge/bootstrap.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:getbootstrap:bootstrap"
+    ]
+  },
+  "cfengine": {
+    "purls": [
+      "pkg:deb/debian/cfengine3",
+      "pkg:deb/ubuntu/cfengine3",
+      "pkg:github/cfengine/core",
+      "pkg:gnu/cfengine",
+      "pkg:rpm/opensuse/cfengine"
+    ],
+    "cpes": [
+      "cpe:2.3:a:gnu:cfengine"
+    ]
+  },
+  "authentik": {
+    "purls": [
+      "pkg:github/goauthentik/authentik",
+      "pkg:golang/github.com/goauthentik/authentik"
+    ],
+    "cpes": [
+      "cpe:2.3:a:goauthentik:authentik"
+    ]
+  },
+  "godot": {
+    "purls": [
+      "pkg:deb/debian/godot",
+      "pkg:deb/ubuntu/godot",
+      "pkg:github/godotengine/godot",
+      "pkg:gitlab/sthagen/godot",
+      "pkg:rpm/fedora/godot",
+      "pkg:rpm/opensuse/godot",
+      "pkg:sourceforge/godot-engine.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:godotengine:godot"
+    ]
+  },
+  "android": {
+    "purls": [
+      "pkg:github/aosp-mirror",
+      "pkg:googlesource/android"
+    ],
+    "cpes": [
+      "cpe:2.3:o:google:android"
+    ]
+  },
+  "bazel": {
+    "purls": [
+      "pkg:github/bazelbuild/vscode-bazel",
+      "pkg:github/jetbrains/bazel"
+    ],
+    "cpes": [
+      "cpe:2.3:a:google:bazel",
+      "cpe:2.3:a:jetbrains:bazel"
+    ]
+  },
+  "gerrit": {
+    "purls": [
+      "pkg:github/gerritcodereview/gerrit",
+      "pkg:googlesource/gerrit"
+    ],
+    "cpes": [
+      "cpe:2.3:a:google:gerrit"
+    ]
+  },
+  "teleport": {
+    "purls": [
+      "pkg:github/gravitational/teleport",
+      "pkg:rpm/opensuse/teleport",
+      "pkg:docker/tp4a/teleport",
+      "pkg:github/tp4a/teleport"
+    ],
+    "cpes": [
+      "cpe:2.3:a:goteleport:teleport",
+      "cpe:2.3:a:tp4a:teleport"
+    ]
+  },
+  "grunt": {
+    "purls": [
+      "pkg:deb/debian/grunt",
+      "pkg:deb/ubuntu/grunt",
+      "pkg:github/gruntjs/grunt",
+      "pkg:maven/org.webjars.npm/grunt",
+      "pkg:npm/grunt",
+      "pkg:nuget/Grunt",
+      "pkg:rpm/fedora/nodejs-grunt",
+      "pkg:rpm/opensuse/nodejs-grunt",
+      "pkg:sourceforge/grunt.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:gruntjs:grunt"
+    ]
+  },
+  "guzzle": {
+    "purls": [
+      "pkg:deb/debian/guzzle",
+      "pkg:docker/guzzle/guzzle",
+      "pkg:github/guzzle/guzzle",
+      "pkg:sourceforge/guzzle.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:guzzlephp:guzzle"
+    ]
+  },
+  "boundary": {
+    "purls": [
+      "pkg:docker/hashicorp/boundary",
+      "pkg:github/hashicorp/boundary"
+    ],
+    "cpes": [
+      "cpe:2.3:a:hashicorp:boundary"
+    ]
+  },
+  "consul": {
+    "purls": [
+      "pkg:deb/debian/consul",
+      "pkg:deb/ubuntu/consul",
+      "pkg:github/hashicorp/consul",
+      "pkg:gem/consul",
+      "pkg:github/makandra/consul"
+    ],
+    "cpes": [
+      "cpe:2.3:a:hashicorp:consul",
+      "cpe:2.3:a:makandra:consul"
+    ]
+  },
+  "nomad": {
+    "purls": [
+      "pkg:deb/debian/nomad",
+      "pkg:deb/ubuntu/nomad",
+      "pkg:github/hashicorp/nomad",
+      "pkg:github/iverberk/jenkins-nomad",
+      "pkg:github/jenkinsci/nomad-plugin"
+    ],
+    "cpes": [
+      "cpe:2.3:a:hashicorp:nomad",
+      "cpe:2.3:a:jenkins:nomad"
+    ]
+  },
+  "telegraf": {
+    "purls": [
+      "pkg:github/influxdata/telegraf",
+      "pkg:golang/github.com/influxdata/telegraf",
+      "pkg:rpm/opensuse/telegraf",
+      "pkg:sourceforge/telegraf.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:influxdata:telegraf"
+    ]
+  },
+  "jekyll": {
+    "purls": [
+      "pkg:deb/debian/jekyll",
+      "pkg:deb/ubuntu/jekyll",
+      "pkg:gem/ruby/jekyll",
+      "pkg:github/jekyll/jekyll",
+      "pkg:npm/jekyll",
+      "pkg:rpm/fedora/rubygem-jekyll",
+      "pkg:rpm/opensuse/rubygem-jekyll",
+      "pkg:sourceforge/jekyll.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:jekyllrb:jekyll"
+    ]
+  },
+  "kotlin": {
+    "purls": [
+      "pkg:github/jetbrains/kotlin",
+      "pkg:jetbrains/kotlin",
+      "pkg:github/pubnub/kotlin"
+    ],
+    "cpes": [
+      "cpe:2.3:a:jetbrains:kotlin",
+      "cpe:2.3:a:pubnub:kotlin"
+    ]
+  },
+  "artifactory": {
+    "purls": [
+      "pkg:jfrog/artifactory"
+    ],
+    "cpes": [
+      "cpe:2.3:a:jfrog:artifactory"
+    ]
+  },
+  "mastodon": {
+    "purls": [
+      "pkg:github/mastodon/mastodon",
+      "pkg:sourceforge/mastodon.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:joinmastodon:mastodon"
+    ]
+  },
+  "julia": {
+    "purls": [
+      "pkg:deb/debian/julia",
+      "pkg:deb/ubuntu/julia",
+      "pkg:docker/julia",
+      "pkg:github/julialang/julia",
+      "pkg:rpm/fedora/julia",
+      "pkg:rpm/opensuse/julia",
+      "pkg:sourceforge/julia.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:julialang:julia"
+    ]
+  },
+  "argo-cd": {
+    "purls": [
+      "pkg:github/argoproj/argo-cd"
+    ],
+    "cpes": [
+      "cpe:2.3:a:linuxfoundation:argo-cd"
+    ]
+  },
+  "containerd": {
+    "purls": [
+      "pkg:deb/debian/containerd",
+      "pkg:deb/ubuntu/containerd",
+      "pkg:github/containerd/containerd",
+      "pkg:rpm/fedora/containerd"
+    ],
+    "cpes": [
+      "cpe:2.3:a:linuxfoundation:containerd"
+    ]
+  },
+  "jaeger": {
+    "purls": [
+      "pkg:github/jaegertracing/jaeger",
+      "pkg:gitlab/gitlab-org/jaeger",
+      "pkg:sourceforge/jaeger.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:linuxfoundation:jaeger"
+    ]
+  },
+  "confluence": {
+    "purls": [
+      "pkg:github/mattermost/mattermost-for-confluence"
+    ],
+    "cpes": [
+      "cpe:2.3:a:mattermost:confluence"
+    ]
+  },
+  "eslint": {
+    "purls": [
+      "pkg:github/microsoft/vscode-eslint"
+    ],
+    "cpes": [
+      "cpe:2.3:a:microsoft:eslint"
+    ]
+  },
+  "powershell": {
+    "purls": [
+      "pkg:github/powershell/powershell",
+      "pkg:gitlab/kalilinux/powershell",
+      "pkg:nuget/PowerShell",
+      "pkg:sourceforge/powershell.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:microsoft:powershell"
+    ]
+  },
+  "firefox": {
+    "purls": [
+      "pkg:deb/debian/firefox",
+      "pkg:mozilla/mozilla-central",
+      "pkg:rpm/fedora/firefox",
+      "pkg:rpm/opensuse/mozillafirefox"
+    ],
+    "cpes": [
+      "cpe:2.3:a:mozilla:firefox"
+    ]
+  },
+  "nix": {
+    "purls": [
+      "pkg:deb/debian/nix",
+      "pkg:deb/ubuntu/nix",
+      "pkg:github/nixos/nix",
+      "pkg:deb/debian/rust-nix",
+      "pkg:deb/ubuntu/rust-nix",
+      "pkg:github/nix-rust/nix",
+      "pkg:rpm/fedora/rust-nix",
+      "pkg:rpm/opensuse/rust-nix"
+    ],
+    "cpes": [
+      "cpe:2.3:a:nixos:nix",
+      "cpe:2.3:o:nixos:nix",
+      "cpe:2.3:a:nix_project:nix"
+    ]
+  },
+  "micronaut": {
+    "purls": [
+      "pkg:github/micronaut-projects/micronaut-core",
+      "pkg:maven/io.micronaut/micronaut-parent"
+    ],
+    "cpes": [
+      "cpe:2.3:a:objectcomputing:micronaut"
+    ]
+  },
+  "gatekeeper": {
+    "purls": [
+      "pkg:github/open-policy-agent/gatekeeper"
+    ],
+    "cpes": [
+      "cpe:2.3:a:openpolicyagent:gatekeeper"
+    ]
+  },
+  "dependency-track": {
+    "purls": [
+      "pkg:github/dependencytrack/dependency-track"
+    ],
+    "cpes": [
+      "cpe:2.3:a:owasp:dependency-track"
+    ]
+  },
+  "podman": {
+    "purls": [
+      "pkg:deb/debian/libpod",
+      "pkg:deb/ubuntu/libpod",
+      "pkg:github/containers/podman",
+      "pkg:gitlab/redhat/podman",
+      "pkg:rpm/centos/podman",
+      "pkg:rpm/fedora/podman",
+      "pkg:rpm/opensuse/podman",
+      "pkg:sourceforge/podman.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:podman_project:podman"
+    ]
+  },
+  "calico": {
+    "purls": [
+      "pkg:github/projectcalico/calico",
+      "pkg:github/tigera/calico"
+    ],
+    "cpes": [
+      "cpe:2.3:a:projectcalico:calico",
+      "cpe:2.3:a:tigera:calico"
+    ]
+  },
+  "contour": {
+    "purls": [
+      "pkg:docker/projectcontour/contour",
+      "pkg:github/projectcontour/contour"
+    ],
+    "cpes": [
+      "cpe:2.3:a:projectcontour:contour"
+    ]
+  },
+  "rust": {
+    "purls": [
+      "pkg:deb/debian/rust-all",
+      "pkg:deb/ubuntu/rust-src",
+      "pkg:github/rust-lang/rust",
+      "pkg:sourceforge/rust.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:rust-lang:rust"
+    ]
+  },
+  "salt": {
+    "purls": [
+      "pkg:github/saltstack/salt",
+      "pkg:rpm/fedora/salt",
+      "pkg:rpm/opensuse/salt"
+    ],
+    "cpes": [
+      "cpe:2.3:a:saltstack:salt"
+    ]
+  },
+  "scala": {
+    "purls": [
+      "pkg:deb/debian/scala",
+      "pkg:deb/ubuntu/scala",
+      "pkg:github/scala/scala",
+      "pkg:rpm/centos/scala",
+      "pkg:rpm/fedora/scala",
+      "pkg:rpm/opensuse/scala"
+    ],
+    "cpes": [
+      "cpe:2.3:a:scala-lang:scala"
+    ]
+  },
+  "nexus": {
+    "purls": [
+      "pkg:docker/sonatype/nexus",
+      "pkg:github/sonatype/nexus-public",
+      "pkg:maven/org.sonatype.nexus/nexus"
+    ],
+    "cpes": [
+      "cpe:2.3:a:sonatype:nexus"
+    ]
+  },
+  "foreman": {
+    "purls": [
+      "pkg:deb/debian/ruby-foreman",
+      "pkg:deb/ubuntu/ruby-foreman",
+      "pkg:gem/foreman",
+      "pkg:github/theforeman/foreman",
+      "pkg:rpm/opensuse/rubygem-foreman"
+    ],
+    "cpes": [
+      "cpe:2.3:a:theforeman:foreman"
+    ]
+  },
+  "varnish": {
+    "purls": [
+      "pkg:deb/debian/varnish",
+      "pkg:deb/ubuntu/varnish",
+      "pkg:github/varnishcache/varnish-cache",
+      "pkg:gitlab/redhat/varnish",
+      "pkg:rpm/centos/varnish",
+      "pkg:rpm/fedora/varnish",
+      "pkg:rpm/opensuse/varnish",
+      "pkg:sourceforge/varnish",
+      "pkg:github/fastly/varnish-api"
+    ],
+    "cpes": [
+      "cpe:2.3:a:varnish-cache:varnish",
+      "cpe:2.3:a:varnish.projects.linpro:varnish",
+      "cpe:2.3:a:varnish_http_accelerator_integration_project:varnish"
+    ]
+  },
+  "vuetify": {
+    "purls": [
+      "pkg:github/vuetifyjs/vuetify",
+      "pkg:maven/org.webjars.npm/vuetify",
+      "pkg:npm/vuetify"
+    ],
+    "cpes": [
+      "cpe:2.3:a:vuetifyjs:vuetify"
+    ]
+  },
+  "yarn": {
+    "purls": [
+      "pkg:deb/debian/node-yarnpkg",
+      "pkg:deb/ubuntu/node-yarnpkg",
+      "pkg:github/yarnpkg/berry",
+      "pkg:github/yarnpkg/yarn",
+      "pkg:rpm/fedora/yarnpkg",
+      "pkg:rpm/opensuse/yarn",
+      "pkg:sourceforge/yarn.mirror"
+    ],
+    "cpes": [
+      "cpe:2.3:a:yarnpkg:yarn"
+    ]
+  }
+}
