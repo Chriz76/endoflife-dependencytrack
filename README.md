@@ -5,7 +5,7 @@ Integration for Dependency-Track that fetches and reports EoL info for your soft
 
 The integration is provided as:
 
-- **Binaries for Linux and Windows**: Best if you already have a running Dependency-Track installation
+- **Binaries for [Linux](https://github.com/Chriz76/endoflife-dependencytrack/releases/download/latest/eol-dt-linux-x64.tar.gz) and [Windows](https://github.com/Chriz76/endoflife-dependencytrack/releases/download/latest/eol-dt-win-x64.zip)**: Best if you already have a running Dependency-Track installation
 - **Docker image**: Install Dependency-Track and the endoflife.date integration in docker.
 
 ---
@@ -16,9 +16,20 @@ The eol integration uses the Dependency-Track API. You can create an API key in 
 
 ![API Key](https://raw.githubusercontent.com/Chriz76/endoflife-dependencytrack/main/apikey.png)
 
-## Binary Releases
+## Quick Start (Existing Dependency-Track Installation)
 
+# Download the latest binary
+wget https://github.com/chris/eol-dependencytrack/releases/latest/download/eol-dt-linux.tar.gz
 
+# Extract the archive
+tar -xzvf eol-dt-linux.tar.gz
+
+# Make it executable
+chmod +x eol-dt
+
+# Run the program
+./eol-dt --help
+Download either 
 
 Precompiled binaries are available under **GitHub Releases**.
 
